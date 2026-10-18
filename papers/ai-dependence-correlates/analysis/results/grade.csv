@@ -1,0 +1,8 @@
+correlate,certainty,downgrades,reasons
+depression,Low,2,"risk of bias (60% of weight from samples rated no on item 1, 3 or 6); inconsistency (PI −0.03, 0.61)"
+anxiety,Low,2,"risk of bias (62% of weight from samples rated no on item 1, 3 or 6); inconsistency (PI −0.09, 0.70)"
+stress,Low,2,"risk of bias (100% of weight from samples rated no on item 1, 3 or 6); inconsistency (PI −0.03, 0.64)"
+loneliness,Low,2,"risk of bias (89% of weight from samples rated no on item 1, 3 or 6); inconsistency (PI −0.18, 0.66)"
+social_anxiety,Low,2,"risk of bias (80% of weight from samples rated no on item 1, 3 or 6); inconsistency (PI −0.20, 0.75)"
+self_esteem,Very low,3,"risk of bias (100% of weight from samples rated no on item 1, 3 or 6); inconsistency (PI −0.64, 0.34); imprecision (CI includes |r| < .10 and > .30)"
+procrastination,Very low,3,"risk of bias (92% of weight from samples rated no on item 1, 3 or 6); inconsistency (PI −0.29, 0.70); indirectness (4 regions; 92% student samples)"

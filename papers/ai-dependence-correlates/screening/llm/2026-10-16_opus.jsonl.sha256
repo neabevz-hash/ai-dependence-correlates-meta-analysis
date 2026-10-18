@@ -1,0 +1,8 @@
+{
+  "file": "2026-10-16_opus.jsonl",
+  "sha256": "280993bc72daa3e61b8d76bfa80d1795a1ff0649c88885afc7490cb888019582",
+  "records": 5056,
+  "written_at_utc": "2026-10-17T05:05:54+00:00",
+  "model": "claude-opus-5-5",
+  "system_prompt_sha": "a90854b93adad579"
+}

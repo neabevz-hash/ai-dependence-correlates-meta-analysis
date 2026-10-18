@@ -1,0 +1,4 @@
+rec_id,what_was_retrieved,source_url,note
+R0046,reference list only (Daftar Pustaka pp. 80-89) of an Indonesian thesis,https://api.core.ac.uk/v3/works/404173201,repository holds no other open file
+R2067,the Nazarbayev University repository submission guide instead of the thesis,https://core.ac.uk/works/405437659,thesis PDF on core.ac.uk/download/748649129.pdf is behind a bot check; can be saved by hand from nur.nu.edu.kz
+R2109,front matter abstract and references of an Indonesian thesis (chapters I-V missing),https://api.core.ac.uk/v3/works/338178883,repository holds no other open file

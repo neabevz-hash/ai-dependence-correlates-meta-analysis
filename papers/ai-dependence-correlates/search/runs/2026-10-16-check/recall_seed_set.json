@@ -1,0 +1,340 @@
+{
+  "run": "2026-10-16-check",
+  "seed_studies": 37,
+  "in_screening_list": 35,
+  "studies": [
+    {
+      "study": "Estrada-Araoz et al.",
+      "year": "2025",
+      "doi": "10.51798/sijis.v6i1.916",
+      "found": true,
+      "rec_id": "R3417",
+      "sources": "openalex;s2;openaire",
+      "to_screen": true
+    },
+    {
+      "study": "Huang et al.",
+      "year": "2024",
+      "doi": "10.2147/prbm.s440889",
+      "found": true,
+      "rec_id": "R4614",
+      "sources": "pubmed;europepmc;openalex;s2;crossref;openaire",
+      "to_screen": true
+    },
+    {
+      "study": "Abbas et al.",
+      "year": "2025",
+      "doi": "10.1007/s10805-025-09659-3",
+      "found": true,
+      "rec_id": "R3042",
+      "sources": "openalex;s2",
+      "to_screen": true
+    },
+    {
+      "study": "Chen et al.",
+      "year": "2025",
+      "doi": "10.1016/j.jbusres.2024.114982",
+      "found": true,
+      "rec_id": "R4535",
+      "sources": "openalex",
+      "to_screen": true
+    },
+    {
+      "study": "Duong et al.",
+      "year": "2024",
+      "doi": "10.1016/j.actpsy.2024.104622",
+      "found": true,
+      "rec_id": "R4557",
+      "sources": "pubmed;europepmc;openalex;s2",
+      "to_screen": true
+    },
+    {
+      "study": "Yao et al.",
+      "year": "2025",
+      "doi": "10.3389/fpsyg.2025.1453072",
+      "found": true,
+      "rec_id": "R4363",
+      "sources": "pubmed;openalex;s2;crossref",
+      "to_screen": true
+    },
+    {
+      "study": "Long et al.",
+      "year": "2025",
+      "doi": "10.1007/978-3-031-94184-9_8",
+      "found": true,
+      "rec_id": "R3797",
+      "sources": "openalex;s2;openaire",
+      "to_screen": true
+    },
+    {
+      "study": "Zunaidah et al.",
+      "year": "2023",
+      "doi": "10.1109/icimtech59029.2023.10278054",
+      "found": true,
+      "rec_id": "R5007",
+      "sources": "openalex;s2;crossref",
+      "to_screen": true
+    },
+    {
+      "study": "Morales-García et al.",
+      "year": "2024",
+      "doi": "10.3389/feduc.2024.1323898",
+      "found": true,
+      "rec_id": "R4701",
+      "sources": "openalex;s2;openaire;core",
+      "to_screen": true
+    },
+    {
+      "study": "Yu et al.",
+      "year": "2024",
+      "doi": "10.1007/s12144-024-06259-z",
+      "found": true,
+      "rec_id": "R4860",
+      "sources": "openalex;s2;crossref;openaire",
+      "to_screen": true
+    },
+    {
+      "study": "Zhang et al.",
+      "year": "2024",
+      "doi": "10.1186/s41239-024-00467-0",
+      "found": true,
+      "rec_id": "R4873",
+      "sources": "openalex;s2;crossref;openaire",
+      "to_screen": true
+    },
+    {
+      "study": "Tseng et al.",
+      "year": "2025",
+      "doi": "10.1007/978-3-031-93746-0_28",
+      "found": true,
+      "rec_id": "R4274",
+      "sources": "openalex",
+      "to_screen": true
+    },
+    {
+      "study": "Park et al.",
+      "year": "2025",
+      "doi": "10.1109/educon62633.2025.11016517",
+      "found": true,
+      "rec_id": "R3984",
+      "sources": "openalex;s2",
+      "to_screen": true
+    },
+    {
+      "study": "Petrič",
+      "year": "2024",
+      "doi": "10.4018/ijthi.349225",
+      "found": true,
+      "rec_id": "R4734",
+      "sources": "openalex;s2;crossref",
+      "to_screen": true
+    },
+    {
+      "study": "Zhou and Zhang",
+      "year": "2024",
+      "doi": "10.1016/j.techsoc.2024.102653",
+      "found": true,
+      "rec_id": "R4881",
+      "sources": "crossref",
+      "to_screen": true
+    },
+    {
+      "study": "Zhang X. et al.",
+      "year": "2025",
+      "doi": "10.1016/j.jad.2025.03.141",
+      "found": true,
+      "rec_id": "R4403",
+      "sources": "pubmed;citations",
+      "to_screen": true
+    },
+    {
+      "study": "Zhang D. et al.",
+      "year": "2025",
+      "doi": "10.1038/s41598-025-99127-0",
+      "found": true,
+      "rec_id": "R4405",
+      "sources": "pubmed;europepmc;openalex;s2;crossref;openaire",
+      "to_screen": true
+    },
+    {
+      "study": "Xie et al.",
+      "year": "2023",
+      "doi": "10.1108/josm-02-2022-0072",
+      "found": true,
+      "rec_id": "R5000",
+      "sources": "openalex;s2;crossref",
+      "to_screen": true
+    },
+    {
+      "study": "Li et al.",
+      "year": "2025",
+      "doi": "10.1016/j.ijinfomgt.2025.102888",
+      "found": true,
+      "rec_id": "R3763",
+      "sources": "openalex;s2;crossref;citations;openaire",
+      "to_screen": true
+    },
+    {
+      "study": "Zhong et al.",
+      "year": "2024",
+      "doi": "10.1371/journal.pone.0313314",
+      "found": true,
+      "rec_id": "R4879",
+      "sources": "pubmed;europepmc;openalex;s2;crossref;openaire;core",
+      "to_screen": true
+    },
+    {
+      "study": "Hu et al.",
+      "year": "2023",
+      "doi": "10.1016/j.chb.2023.107760",
+      "found": true,
+      "rec_id": "R4935",
+      "sources": "openalex;s2;crossref",
+      "to_screen": true
+    },
+    {
+      "study": "Morales-García et al.",
+      "year": "2025",
+      "doi": "10.56294/dm2025210",
+      "found": true,
+      "rec_id": "R3877",
+      "sources": "openalex;s2;crossref;citations;openaire;core",
+      "to_screen": true
+    },
+    {
+      "study": "Frenkenberg and Hochman",
+      "year": "2025",
+      "doi": "10.3390/systems13020082",
+      "found": true,
+      "rec_id": "R3451",
+      "sources": "crossref;citations",
+      "to_screen": true
+    },
+    {
+      "study": "Wijaya et al.",
+      "year": "2024",
+      "doi": "10.3390/bs14111008",
+      "found": true,
+      "rec_id": "R4844",
+      "sources": "pubmed;europepmc;openalex;s2;crossref;openaire;core",
+      "to_screen": true
+    },
+    {
+      "study": "Xie et al.",
+      "year": "2025",
+      "doi": "10.1007/s10639-025-13584-8",
+      "found": true,
+      "rec_id": "R4342",
+      "sources": "openalex;s2",
+      "to_screen": true
+    },
+    {
+      "study": "Buniel et al.",
+      "year": "2025",
+      "doi": "10.3389/feduc.2025.1535466",
+      "found": true,
+      "rec_id": "R3263",
+      "sources": "openalex;s2;citations;openaire",
+      "to_screen": true
+    },
+    {
+      "study": "Marriott and Pitardi",
+      "year": "2024",
+      "doi": "10.1002/mar.21899",
+      "found": true,
+      "rec_id": "R4960",
+      "sources": "openalex;s2",
+      "to_screen": true
+    },
+    {
+      "study": "Liao et al.",
+      "year": "2025",
+      "doi": "10.1007/s12144-025-07748-5",
+      "found": true,
+      "rec_id": "R3773",
+      "sources": "openalex;s2;crossref;openaire",
+      "to_screen": true
+    },
+    {
+      "study": "Maral et al.",
+      "year": "2025",
+      "doi": "10.1007/s11469-025-01509-y",
+      "found": true,
+      "rec_id": "R3825",
+      "sources": "openalex;s2;crossref;citations;openaire;core",
+      "to_screen": true
+    },
+    {
+      "study": "Ali et al.",
+      "year": "2024",
+      "doi": "10.1080/10447318.2022.2150745",
+      "found": true,
+      "rec_id": "R4897",
+      "sources": "openalex;s2",
+      "to_screen": true
+    },
+    {
+      "study": "Capinding",
+      "year": "2024",
+      "doi": "10.18178/ijiet.2024.14.11.2184",
+      "found": true,
+      "rec_id": "R4524",
+      "sources": "openalex;s2;crossref;openaire",
+      "to_screen": true
+    },
+    {
+      "study": "Zhang Y. et al.",
+      "year": "2025",
+      "doi": "10.48550/arxiv.2506.12605",
+      "found": false,
+      "rec_id": "",
+      "sources": "",
+      "to_screen": false
+    },
+    {
+      "study": "Acosta-Enriquez et al.",
+      "year": "2025",
+      "doi": "10.1016/j.caeai.2025.100381",
+      "found": true,
+      "rec_id": "R3058",
+      "sources": "openalex;s2;openaire;core",
+      "to_screen": true
+    },
+    {
+      "study": "Zhang and Xu",
+      "year": "2025",
+      "doi": "10.1016/j.iheduc.2024.100978",
+      "found": true,
+      "rec_id": "R4877",
+      "sources": "openalex;s2",
+      "to_screen": true
+    },
+    {
+      "study": "Capinding and Dumayas",
+      "year": "2024",
+      "doi": "10.33225/pec/24.82.630",
+      "found": true,
+      "rec_id": "R4525",
+      "sources": "openalex;s2;openaire",
+      "to_screen": true
+    },
+    {
+      "study": "Hu et al.",
+      "year": "2025",
+      "doi": "10.1007/s40299-025-01001-0",
+      "found": true,
+      "rec_id": "R3567",
+      "sources": "openalex;s2",
+      "to_screen": true
+    },
+    {
+      "study": "Biswas and Murray",
+      "year": "2024",
+      "doi": "10.1007/978-3-031-72059-8_11",
+      "found": false,
+      "rec_id": "",
+      "sources": "",
+      "to_screen": false
+    }
+  ]
+}

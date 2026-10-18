@@ -1,0 +1,20 @@
+{
+  "run_at_utc": "2026-10-17T10:43:46+00:00",
+  "seeds_found": 131,
+  "seeds_not_found": [],
+  "backward_reference_ids": 3022,
+  "backward": {
+    "works": 3003,
+    "already_in_main_set": 168
+  },
+  "forward": {
+    "links": 1379,
+    "already_in_main_set": 622
+  },
+  "new_unique_records": 3523,
+  "new_with_condition_term_in_title_or_abstract": 33,
+  "new_by_source": {
+    "chase_backward": 2835,
+    "chase_forward": 688
+  }
+}

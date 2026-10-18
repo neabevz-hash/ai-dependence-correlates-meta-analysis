@@ -1,0 +1,9 @@
+effect_id,sample_id,wave,correlate_construct,value
+E0049,S019,4,loneliness,0.105
+E0050,S019,4,loneliness,0.185
+E0085,S037,2,academic_stress,0.30
+E0086,S037,2,escapism_motive,0.55
+E0157,S066,NR,academic_stress,.412
+E0326,S117,2,anxiety,0.24
+E0327,S117,2,depression,0.26
+E0328,S117,2,escapism_motive,0.65

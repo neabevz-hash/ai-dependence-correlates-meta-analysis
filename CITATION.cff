@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite the article and this repository."
+title: "Psychological correlates of dependence on generative and conversational AI: data and code"
+type: dataset
+version: 1.0.0
+license: CC-BY-4.0
+authors:
+  - family-names: Rekhert
+    given-names: Martin
+    orcid: "https://orcid.org/0009-0001-2402-2031"
+    affiliation: "Higher School of Psychology, Turan University, Almaty, Kazakhstan"
+repository-code: "https://github.com/neabevz-hash/ai-dependence-correlates-meta-analysis"
+keywords:
+  - artificial intelligence
+  - dependence
+  - chatbot
+  - meta-analysis
+  - systematic review
+  - depression
+  - anxiety
+preferred-citation:
+  type: article
+  title: "Psychological correlates of dependence on generative and conversational AI: A systematic review and meta-analysis"
+  authors:
+    - family-names: Rekhert
+      given-names: Martin
+      orcid: "https://orcid.org/0009-0001-2402-2031"
+  year: 2026
+  notes: "Manuscript submitted for publication. Preprint: forthcoming"

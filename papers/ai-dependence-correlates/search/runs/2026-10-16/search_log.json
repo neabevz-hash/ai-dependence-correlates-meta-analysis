@@ -1,0 +1,793 @@
+{
+  "_phrase_sets": {
+    "dep_phrases": 399,
+    "ovr_phrases": 126,
+    "measure_filter": [
+      "scale",
+      "questionnaire",
+      "survey",
+      "inventory",
+      "respondents",
+      "self-report"
+    ],
+    "companion_terms": [
+      "AI friend",
+      "AI friends",
+      "AI friendship",
+      "AI companion",
+      "AI companions",
+      "social chatbot",
+      "social chatbots",
+      "companion chatbot",
+      "companion chatbots",
+      "Replika",
+      "Character.AI",
+      "Xiaoice",
+      "AI girlfriend",
+      "AI boyfriend"
+    ],
+    "companion_dependence_terms": [
+      "addiction",
+      "addicted",
+      "addictive",
+      "dependence",
+      "dependency",
+      "compulsive",
+      "problematic"
+    ]
+  },
+  "pubmed": {
+    "records": 346,
+    "meta": {
+      "queries": [
+        {
+          "query": "\"AI addiction\"[tiab:~3] OR \"AI dependence\"[tiab:~3] OR \"AI dependency\"[tiab:~3] OR \"AI addictive\"[tiab:~3] OR \"AI problematic use\"[tiab:~3] OR \"AI compulsive use\"[tiab:~3] OR \"AI excessive use\"[tiab:~3] OR \"AI problematic usage\"[tiab:~3] OR \"AI compulsive usage\"[tiab:~3] OR \"AI excessive usage\"[tiab:~3] OR \"artificial intelligence addiction\"[tiab:~3] OR \"artificial intelligence dependence\"[tiab:~3] OR \"artificial intelligence dependency\"[tiab:~3] OR \"artificial intelligence addictive\"[tiab:~3] OR \"artificial intelligence problematic use\"[tiab:~3] OR \"artificial intelligence compulsive use\"[tiab:~3] OR \"artificial intelligence excessive use\"[tiab:~3] OR \"artificial intelligence problematic usage\"[tiab:~3] OR \"artificial intelligence compulsive usage\"[tiab:~3] OR \"artificial intelligence excessive usage\"[tiab:~3] OR \"ChatGPT addiction\"[tiab:~3] OR \"ChatGPT dependence\"[tiab:~3] OR \"ChatGPT dependency\"[tiab:~3] OR \"ChatGPT addictive\"[tiab:~3] OR \"ChatGPT problematic use\"[tiab:~3] OR \"ChatGPT compulsive use\"[tiab:~3] OR \"ChatGPT excessive use\"[tiab:~3] OR \"ChatGPT problematic usage\"[tiab:~3] OR \"ChatGPT compulsive usage\"[tiab:~3] OR \"ChatGPT excessive usage\"[tiab:~3] OR \"GenAI addiction\"[tiab:~3] OR \"GenAI dependence\"[tiab:~3] OR \"GenAI dependency\"[tiab:~3] OR \"GenAI addictive\"[tiab:~3] OR \"GenAI problematic use\"[tiab:~3]",
+          "count": 279,
+          "warnings": null
+        },
+        {
+          "query": "\"GenAI compulsive use\"[tiab:~3] OR \"GenAI excessive use\"[tiab:~3] OR \"GenAI problematic usage\"[tiab:~3] OR \"GenAI compulsive usage\"[tiab:~3] OR \"GenAI excessive usage\"[tiab:~3] OR \"generative AI addiction\"[tiab:~3] OR \"generative AI dependence\"[tiab:~3] OR \"generative AI dependency\"[tiab:~3] OR \"generative AI addictive\"[tiab:~3] OR \"generative AI problematic use\"[tiab:~3] OR \"generative AI compulsive use\"[tiab:~3] OR \"generative AI excessive use\"[tiab:~3] OR \"generative AI problematic usage\"[tiab:~3] OR \"generative AI compulsive usage\"[tiab:~3] OR \"generative AI excessive usage\"[tiab:~3] OR \"chatbot addiction\"[tiab:~3] OR \"chatbot dependence\"[tiab:~3] OR \"chatbot dependency\"[tiab:~3] OR \"chatbot addictive\"[tiab:~3] OR \"chatbot problematic use\"[tiab:~3] OR \"chatbot compulsive use\"[tiab:~3] OR \"chatbot excessive use\"[tiab:~3] OR \"chatbot problematic usage\"[tiab:~3] OR \"chatbot compulsive usage\"[tiab:~3] OR \"chatbot excessive usage\"[tiab:~3] OR \"chatbots addiction\"[tiab:~3] OR \"chatbots dependence\"[tiab:~3] OR \"chatbots dependency\"[tiab:~3] OR \"chatbots addictive\"[tiab:~3] OR \"chatbots problematic use\"[tiab:~3] OR \"chatbots compulsive use\"[tiab:~3] OR \"chatbots excessive use\"[tiab:~3] OR \"chatbots problematic usage\"[tiab:~3] OR \"chatbots compulsive usage\"[tiab:~3] OR \"chatbots excessive usage\"[tiab:~3]",
+          "count": 48,
+          "warnings": null
+        },
+        {
+          "query": "\"conversational agent addiction\"[tiab:~3] OR \"conversational agent dependence\"[tiab:~3] OR \"conversational agent dependency\"[tiab:~3] OR \"conversational agent addictive\"[tiab:~3] OR \"conversational agent problematic use\"[tiab:~3] OR \"conversational agent compulsive use\"[tiab:~3] OR \"conversational agent excessive use\"[tiab:~3] OR \"conversational agent problematic usage\"[tiab:~3] OR \"conversational agent compulsive usage\"[tiab:~3] OR \"conversational agent excessive usage\"[tiab:~3] OR \"conversational agents addiction\"[tiab:~3] OR \"conversational agents dependence\"[tiab:~3] OR \"conversational agents dependency\"[tiab:~3] OR \"conversational agents addictive\"[tiab:~3] OR \"conversational agents problematic use\"[tiab:~3] OR \"conversational agents compulsive use\"[tiab:~3] OR \"conversational agents excessive use\"[tiab:~3] OR \"conversational agents problematic usage\"[tiab:~3] OR \"conversational agents compulsive usage\"[tiab:~3] OR \"conversational agents excessive usage\"[tiab:~3] OR \"LLM addiction\"[tiab:~3] OR \"LLM dependence\"[tiab:~3] OR \"LLM dependency\"[tiab:~3] OR \"LLM addictive\"[tiab:~3] OR \"LLM problematic use\"[tiab:~3] OR \"LLM compulsive use\"[tiab:~3] OR \"LLM excessive use\"[tiab:~3] OR \"LLM problematic usage\"[tiab:~3] OR \"LLM compulsive usage\"[tiab:~3] OR \"LLM excessive usage\"[tiab:~3] OR \"large language model addiction\"[tiab:~3] OR \"large language model dependence\"[tiab:~3] OR \"large language model dependency\"[tiab:~3] OR \"large language model addictive\"[tiab:~3] OR \"large language model problematic use\"[tiab:~3]",
+          "count": 4,
+          "warnings": null
+        },
+        {
+          "query": "\"large language model compulsive use\"[tiab:~3] OR \"large language model excessive use\"[tiab:~3] OR \"large language model problematic usage\"[tiab:~3] OR \"large language model compulsive usage\"[tiab:~3] OR \"large language model excessive usage\"[tiab:~3] OR \"large language models addiction\"[tiab:~3] OR \"large language models dependence\"[tiab:~3] OR \"large language models dependency\"[tiab:~3] OR \"large language models addictive\"[tiab:~3] OR \"large language models problematic use\"[tiab:~3] OR \"large language models compulsive use\"[tiab:~3] OR \"large language models excessive use\"[tiab:~3] OR \"large language models problematic usage\"[tiab:~3] OR \"large language models compulsive usage\"[tiab:~3] OR \"large language models excessive usage\"[tiab:~3] OR \"AI companion addiction\"[tiab:~3] OR \"AI companion dependence\"[tiab:~3] OR \"AI companion dependency\"[tiab:~3] OR \"AI companion addictive\"[tiab:~3] OR \"AI companion problematic use\"[tiab:~3] OR \"AI companion compulsive use\"[tiab:~3] OR \"AI companion excessive use\"[tiab:~3] OR \"AI companion problematic usage\"[tiab:~3] OR \"AI companion compulsive usage\"[tiab:~3] OR \"AI companion excessive usage\"[tiab:~3] OR \"AI companions addiction\"[tiab:~3] OR \"AI companions dependence\"[tiab:~3] OR \"AI companions dependency\"[tiab:~3] OR \"AI companions addictive\"[tiab:~3] OR \"AI companions problematic use\"[tiab:~3] OR \"AI companions compulsive use\"[tiab:~3] OR \"AI companions excessive use\"[tiab:~3] OR \"AI companions problematic usage\"[tiab:~3] OR \"AI companions compulsive usage\"[tiab:~3] OR \"AI companions excessive usage\"[tiab:~3]",
+          "count": 6,
+          "warnings": null
+        },
+        {
+          "query": "\"Replika addiction\"[tiab:~3] OR \"Replika dependence\"[tiab:~3] OR \"Replika dependency\"[tiab:~3] OR \"Replika addictive\"[tiab:~3] OR \"Replika problematic use\"[tiab:~3] OR \"Replika compulsive use\"[tiab:~3] OR \"Replika excessive use\"[tiab:~3] OR \"Replika problematic usage\"[tiab:~3] OR \"Replika compulsive usage\"[tiab:~3] OR \"Replika excessive usage\"[tiab:~3]",
+          "count": 0,
+          "warnings": {
+            "phrasesignored": [],
+            "quotedphrasesnotfound": [],
+            "outputmessages": [
+              "No items found."
+            ]
+          }
+        },
+        {
+          "query": "(\"AI overreliance\"[tiab:~3] OR \"AI over-reliance\"[tiab:~3] OR \"AI overuse\"[tiab:~3] OR \"artificial intelligence overreliance\"[tiab:~3] OR \"artificial intelligence over-reliance\"[tiab:~3] OR \"artificial intelligence overuse\"[tiab:~3] OR \"ChatGPT overreliance\"[tiab:~3] OR \"ChatGPT over-reliance\"[tiab:~3] OR \"ChatGPT overuse\"[tiab:~3] OR \"GenAI overreliance\"[tiab:~3] OR \"GenAI over-reliance\"[tiab:~3] OR \"GenAI overuse\"[tiab:~3] OR \"generative AI overreliance\"[tiab:~3] OR \"generative AI over-reliance\"[tiab:~3] OR \"generative AI overuse\"[tiab:~3] OR \"chatbot overreliance\"[tiab:~3] OR \"chatbot over-reliance\"[tiab:~3] OR \"chatbot overuse\"[tiab:~3] OR \"chatbots overreliance\"[tiab:~3] OR \"chatbots over-reliance\"[tiab:~3] OR \"chatbots overuse\"[tiab:~3] OR \"conversational agent overreliance\"[tiab:~3] OR \"conversational agent over-reliance\"[tiab:~3] OR \"conversational agent overuse\"[tiab:~3] OR \"conversational agents overreliance\"[tiab:~3] OR \"conversational agents over-reliance\"[tiab:~3] OR \"conversational agents overuse\"[tiab:~3] OR \"LLM overreliance\"[tiab:~3] OR \"LLM over-reliance\"[tiab:~3] OR \"LLM overuse\"[tiab:~3] OR \"large language model overreliance\"[tiab:~3] OR \"large language model over-reliance\"[tiab:~3] OR \"large language model overuse\"[tiab:~3] OR \"large language models overreliance\"[tiab:~3] OR \"large language models over-reliance\"[tiab:~3] OR \"large language models overuse\"[tiab:~3] OR \"AI companion overreliance\"[tiab:~3] OR \"AI companion over-reliance\"[tiab:~3] OR \"AI companion overuse\"[tiab:~3] OR \"AI companions overreliance\"[tiab:~3] OR \"AI companions over-reliance\"[tiab:~3] OR \"AI companions overuse\"[tiab:~3] OR \"Replika overreliance\"[tiab:~3] OR \"Replika over-reliance\"[tiab:~3] OR \"Replika overuse\"[tiab:~3]) AND (scale[tiab] OR questionnaire[tiab] OR survey[tiab] OR inventory[tiab] OR respondents[tiab] OR self-report[tiab])",
+          "count": 48,
+          "warnings": null
+        },
+        {
+          "query": "(\"AI friend\"[tiab] OR \"AI friends\"[tiab] OR \"AI friendship\"[tiab] OR \"AI companion\"[tiab] OR \"AI companions\"[tiab] OR \"social chatbot\"[tiab] OR \"social chatbots\"[tiab] OR \"companion chatbot\"[tiab] OR \"companion chatbots\"[tiab] OR \"Replika\"[tiab] OR \"Character.AI\"[tiab] OR \"Xiaoice\"[tiab] OR \"AI girlfriend\"[tiab] OR \"AI boyfriend\"[tiab]) AND (addiction[tiab] OR addicted[tiab] OR addictive[tiab] OR dependence[tiab] OR dependency[tiab] OR compulsive[tiab] OR problematic[tiab])",
+          "count": 13,
+          "warnings": {
+            "phrasesignored": [],
+            "quotedphrasesnotfound": [
+              "\"AI friend\"[tiab]",
+              "\"AI friends\"[tiab]",
+              "\"AI friendship\"[tiab]",
+              "\"companion chatbot\"[tiab]",
+              "\"AI girlfriend\"[tiab]",
+              "\"AI boyfriend\"[tiab]"
+            ],
+            "outputmessages": []
+          }
+        }
+      ],
+      "unique_pmids": 346
+    },
+    "searched_at_utc": "2026-10-16T14:52:18+00:00",
+    "seconds": 10.0
+  },
+  "europepmc": {
+    "records": 281,
+    "meta": {
+      "queries": [
+        {
+          "query": "TITLE_ABS:\"AI addiction\" OR TITLE_ABS:\"AI dependence\" OR TITLE_ABS:\"AI dependency\" OR TITLE_ABS:\"dependence on AI\" OR TITLE_ABS:\"dependency on AI\" OR TITLE_ABS:\"addiction to AI\" OR TITLE_ABS:\"problematic AI use\" OR TITLE_ABS:\"problematic use of AI\" OR TITLE_ABS:\"excessive AI use\" OR TITLE_ABS:\"excessive use of AI\" OR TITLE_ABS:\"compulsive AI use\" OR TITLE_ABS:\"compulsive use of AI\" OR TITLE_ABS:\"addictive AI use\" OR TITLE_ABS:\"addictive use of AI\" OR TITLE_ABS:\"AI use disorder\" OR TITLE_ABS:\"problematic AI usage\" OR TITLE_ABS:\"excessive AI usage\" OR TITLE_ABS:\"compulsive AI usage\" OR TITLE_ABS:\"addictive AI usage\" OR TITLE_ABS:\"artificial intelligence addiction\" OR TITLE_ABS:\"artificial intelligence dependence\" OR TITLE_ABS:\"artificial intelligence dependency\" OR TITLE_ABS:\"dependence on artificial intelligence\" OR TITLE_ABS:\"dependency on artificial intelligence\" OR TITLE_ABS:\"addiction to artificial intelligence\" OR TITLE_ABS:\"problematic artificial intelligence use\" OR TITLE_ABS:\"problematic use of artificial intelligence\" OR TITLE_ABS:\"excessive artificial intelligence use\" OR TITLE_ABS:\"excessive use of artificial intelligence\" OR TITLE_ABS:\"compulsive artificial intelligence use\" OR TITLE_ABS:\"compulsive use of artificial intelligence\" OR TITLE_ABS:\"addictive artificial intelligence use\" OR TITLE_ABS:\"addictive use of artificial intelligence\" OR TITLE_ABS:\"artificial intelligence use disorder\" OR TITLE_ABS:\"problematic artificial intelligence usage\" OR TITLE_ABS:\"excessive artificial intelligence usage\" OR TITLE_ABS:\"compulsive artificial intelligence usage\" OR TITLE_ABS:\"addictive artificial intelligence usage\" OR TITLE_ABS:\"ChatGPT addiction\" OR TITLE_ABS:\"ChatGPT dependence\"",
+          "count": 165
+        },
+        {
+          "query": "TITLE_ABS:\"ChatGPT dependency\" OR TITLE_ABS:\"dependence on ChatGPT\" OR TITLE_ABS:\"dependency on ChatGPT\" OR TITLE_ABS:\"addiction to ChatGPT\" OR TITLE_ABS:\"problematic ChatGPT use\" OR TITLE_ABS:\"problematic use of ChatGPT\" OR TITLE_ABS:\"excessive ChatGPT use\" OR TITLE_ABS:\"excessive use of ChatGPT\" OR TITLE_ABS:\"compulsive ChatGPT use\" OR TITLE_ABS:\"compulsive use of ChatGPT\" OR TITLE_ABS:\"addictive ChatGPT use\" OR TITLE_ABS:\"addictive use of ChatGPT\" OR TITLE_ABS:\"ChatGPT use disorder\" OR TITLE_ABS:\"problematic ChatGPT usage\" OR TITLE_ABS:\"excessive ChatGPT usage\" OR TITLE_ABS:\"compulsive ChatGPT usage\" OR TITLE_ABS:\"addictive ChatGPT usage\" OR TITLE_ABS:\"GenAI addiction\" OR TITLE_ABS:\"GenAI dependence\" OR TITLE_ABS:\"GenAI dependency\" OR TITLE_ABS:\"dependence on GenAI\" OR TITLE_ABS:\"dependency on GenAI\" OR TITLE_ABS:\"addiction to GenAI\" OR TITLE_ABS:\"problematic GenAI use\" OR TITLE_ABS:\"problematic use of GenAI\" OR TITLE_ABS:\"excessive GenAI use\" OR TITLE_ABS:\"excessive use of GenAI\" OR TITLE_ABS:\"compulsive GenAI use\" OR TITLE_ABS:\"compulsive use of GenAI\" OR TITLE_ABS:\"addictive GenAI use\" OR TITLE_ABS:\"addictive use of GenAI\" OR TITLE_ABS:\"GenAI use disorder\" OR TITLE_ABS:\"problematic GenAI usage\" OR TITLE_ABS:\"excessive GenAI usage\" OR TITLE_ABS:\"compulsive GenAI usage\" OR TITLE_ABS:\"addictive GenAI usage\" OR TITLE_ABS:\"generative AI addiction\" OR TITLE_ABS:\"generative AI dependence\" OR TITLE_ABS:\"generative AI dependency\" OR TITLE_ABS:\"dependence on generative AI\"",
+          "count": 41
+        },
+        {
+          "query": "TITLE_ABS:\"dependency on generative AI\" OR TITLE_ABS:\"addiction to generative AI\" OR TITLE_ABS:\"problematic generative AI use\" OR TITLE_ABS:\"problematic use of generative AI\" OR TITLE_ABS:\"excessive generative AI use\" OR TITLE_ABS:\"excessive use of generative AI\" OR TITLE_ABS:\"compulsive generative AI use\" OR TITLE_ABS:\"compulsive use of generative AI\" OR TITLE_ABS:\"addictive generative AI use\" OR TITLE_ABS:\"addictive use of generative AI\" OR TITLE_ABS:\"generative AI use disorder\" OR TITLE_ABS:\"problematic generative AI usage\" OR TITLE_ABS:\"excessive generative AI usage\" OR TITLE_ABS:\"compulsive generative AI usage\" OR TITLE_ABS:\"addictive generative AI usage\" OR TITLE_ABS:\"generative artificial intelligence addiction\" OR TITLE_ABS:\"generative artificial intelligence dependence\" OR TITLE_ABS:\"generative artificial intelligence dependency\" OR TITLE_ABS:\"dependence on generative artificial intelligence\" OR TITLE_ABS:\"dependency on generative artificial intelligence\" OR TITLE_ABS:\"addiction to generative artificial intelligence\" OR TITLE_ABS:\"problematic generative artificial intelligence use\" OR TITLE_ABS:\"problematic use of generative artificial intelligence\" OR TITLE_ABS:\"excessive generative artificial intelligence use\" OR TITLE_ABS:\"excessive use of generative artificial intelligence\" OR TITLE_ABS:\"compulsive generative artificial intelligence use\" OR TITLE_ABS:\"compulsive use of generative artificial intelligence\" OR TITLE_ABS:\"addictive generative artificial intelligence use\" OR TITLE_ABS:\"addictive use of generative artificial intelligence\" OR TITLE_ABS:\"generative artificial intelligence use disorder\" OR TITLE_ABS:\"problematic generative artificial intelligence usage\" OR TITLE_ABS:\"excessive generative artificial intelligence usage\" OR TITLE_ABS:\"compulsive generative artificial intelligence usage\" OR TITLE_ABS:\"addictive generative artificial intelligence usage\" OR TITLE_ABS:\"chatbot addiction\" OR TITLE_ABS:\"chatbot dependence\" OR TITLE_ABS:\"chatbot dependency\" OR TITLE_ABS:\"dependence on chatbot\" OR TITLE_ABS:\"dependency on chatbot\" OR TITLE_ABS:\"addiction to chatbot\"",
+          "count": 35
+        },
+        {
+          "query": "TITLE_ABS:\"problematic chatbot use\" OR TITLE_ABS:\"problematic use of chatbot\" OR TITLE_ABS:\"excessive chatbot use\" OR TITLE_ABS:\"excessive use of chatbot\" OR TITLE_ABS:\"compulsive chatbot use\" OR TITLE_ABS:\"compulsive use of chatbot\" OR TITLE_ABS:\"addictive chatbot use\" OR TITLE_ABS:\"addictive use of chatbot\" OR TITLE_ABS:\"chatbot use disorder\" OR TITLE_ABS:\"problematic chatbot usage\" OR TITLE_ABS:\"excessive chatbot usage\" OR TITLE_ABS:\"compulsive chatbot usage\" OR TITLE_ABS:\"addictive chatbot usage\" OR TITLE_ABS:\"chatbots addiction\" OR TITLE_ABS:\"chatbots dependence\" OR TITLE_ABS:\"chatbots dependency\" OR TITLE_ABS:\"dependence on chatbots\" OR TITLE_ABS:\"dependency on chatbots\" OR TITLE_ABS:\"addiction to chatbots\" OR TITLE_ABS:\"problematic chatbots use\" OR TITLE_ABS:\"problematic use of chatbots\" OR TITLE_ABS:\"excessive chatbots use\" OR TITLE_ABS:\"excessive use of chatbots\" OR TITLE_ABS:\"compulsive chatbots use\" OR TITLE_ABS:\"compulsive use of chatbots\" OR TITLE_ABS:\"addictive chatbots use\" OR TITLE_ABS:\"addictive use of chatbots\" OR TITLE_ABS:\"chatbots use disorder\" OR TITLE_ABS:\"problematic chatbots usage\" OR TITLE_ABS:\"excessive chatbots usage\" OR TITLE_ABS:\"compulsive chatbots usage\" OR TITLE_ABS:\"addictive chatbots usage\" OR TITLE_ABS:\"AI chatbots addiction\" OR TITLE_ABS:\"AI chatbots dependence\" OR TITLE_ABS:\"AI chatbots dependency\" OR TITLE_ABS:\"dependence on AI chatbots\" OR TITLE_ABS:\"dependency on AI chatbots\" OR TITLE_ABS:\"addiction to AI chatbots\" OR TITLE_ABS:\"problematic AI chatbots use\" OR TITLE_ABS:\"problematic use of AI chatbots\"",
+          "count": 10
+        },
+        {
+          "query": "TITLE_ABS:\"excessive AI chatbots use\" OR TITLE_ABS:\"excessive use of AI chatbots\" OR TITLE_ABS:\"compulsive AI chatbots use\" OR TITLE_ABS:\"compulsive use of AI chatbots\" OR TITLE_ABS:\"addictive AI chatbots use\" OR TITLE_ABS:\"addictive use of AI chatbots\" OR TITLE_ABS:\"AI chatbots use disorder\" OR TITLE_ABS:\"problematic AI chatbots usage\" OR TITLE_ABS:\"excessive AI chatbots usage\" OR TITLE_ABS:\"compulsive AI chatbots usage\" OR TITLE_ABS:\"addictive AI chatbots usage\" OR TITLE_ABS:\"conversational agent addiction\" OR TITLE_ABS:\"conversational agent dependence\" OR TITLE_ABS:\"conversational agent dependency\" OR TITLE_ABS:\"dependence on conversational agent\" OR TITLE_ABS:\"dependency on conversational agent\" OR TITLE_ABS:\"addiction to conversational agent\" OR TITLE_ABS:\"problematic conversational agent use\" OR TITLE_ABS:\"problematic use of conversational agent\" OR TITLE_ABS:\"excessive conversational agent use\" OR TITLE_ABS:\"excessive use of conversational agent\" OR TITLE_ABS:\"compulsive conversational agent use\" OR TITLE_ABS:\"compulsive use of conversational agent\" OR TITLE_ABS:\"addictive conversational agent use\" OR TITLE_ABS:\"addictive use of conversational agent\" OR TITLE_ABS:\"conversational agent use disorder\" OR TITLE_ABS:\"problematic conversational agent usage\" OR TITLE_ABS:\"excessive conversational agent usage\" OR TITLE_ABS:\"compulsive conversational agent usage\" OR TITLE_ABS:\"addictive conversational agent usage\" OR TITLE_ABS:\"conversational agents addiction\" OR TITLE_ABS:\"conversational agents dependence\" OR TITLE_ABS:\"conversational agents dependency\" OR TITLE_ABS:\"dependence on conversational agents\" OR TITLE_ABS:\"dependency on conversational agents\" OR TITLE_ABS:\"addiction to conversational agents\" OR TITLE_ABS:\"problematic conversational agents use\" OR TITLE_ABS:\"problematic use of conversational agents\" OR TITLE_ABS:\"excessive conversational agents use\" OR TITLE_ABS:\"excessive use of conversational agents\"",
+          "count": 0
+        },
+        {
+          "query": "TITLE_ABS:\"compulsive conversational agents use\" OR TITLE_ABS:\"compulsive use of conversational agents\" OR TITLE_ABS:\"addictive conversational agents use\" OR TITLE_ABS:\"addictive use of conversational agents\" OR TITLE_ABS:\"conversational agents use disorder\" OR TITLE_ABS:\"problematic conversational agents usage\" OR TITLE_ABS:\"excessive conversational agents usage\" OR TITLE_ABS:\"compulsive conversational agents usage\" OR TITLE_ABS:\"addictive conversational agents usage\" OR TITLE_ABS:\"conversational AI addiction\" OR TITLE_ABS:\"conversational AI dependence\" OR TITLE_ABS:\"conversational AI dependency\" OR TITLE_ABS:\"dependence on conversational AI\" OR TITLE_ABS:\"dependency on conversational AI\" OR TITLE_ABS:\"addiction to conversational AI\" OR TITLE_ABS:\"problematic conversational AI use\" OR TITLE_ABS:\"problematic use of conversational AI\" OR TITLE_ABS:\"excessive conversational AI use\" OR TITLE_ABS:\"excessive use of conversational AI\" OR TITLE_ABS:\"compulsive conversational AI use\" OR TITLE_ABS:\"compulsive use of conversational AI\" OR TITLE_ABS:\"addictive conversational AI use\" OR TITLE_ABS:\"addictive use of conversational AI\" OR TITLE_ABS:\"conversational AI use disorder\" OR TITLE_ABS:\"problematic conversational AI usage\" OR TITLE_ABS:\"excessive conversational AI usage\" OR TITLE_ABS:\"compulsive conversational AI usage\" OR TITLE_ABS:\"addictive conversational AI usage\" OR TITLE_ABS:\"LLM addiction\" OR TITLE_ABS:\"LLM dependence\" OR TITLE_ABS:\"LLM dependency\" OR TITLE_ABS:\"dependence on LLM\" OR TITLE_ABS:\"dependency on LLM\" OR TITLE_ABS:\"addiction to LLM\" OR TITLE_ABS:\"problematic LLM use\" OR TITLE_ABS:\"problematic use of LLM\" OR TITLE_ABS:\"excessive LLM use\" OR TITLE_ABS:\"excessive use of LLM\" OR TITLE_ABS:\"compulsive LLM use\" OR TITLE_ABS:\"compulsive use of LLM\"",
+          "count": 11
+        },
+        {
+          "query": "TITLE_ABS:\"addictive LLM use\" OR TITLE_ABS:\"addictive use of LLM\" OR TITLE_ABS:\"LLM use disorder\" OR TITLE_ABS:\"problematic LLM usage\" OR TITLE_ABS:\"excessive LLM usage\" OR TITLE_ABS:\"compulsive LLM usage\" OR TITLE_ABS:\"addictive LLM usage\" OR TITLE_ABS:\"LLMs addiction\" OR TITLE_ABS:\"LLMs dependence\" OR TITLE_ABS:\"LLMs dependency\" OR TITLE_ABS:\"dependence on LLMs\" OR TITLE_ABS:\"dependency on LLMs\" OR TITLE_ABS:\"addiction to LLMs\" OR TITLE_ABS:\"problematic LLMs use\" OR TITLE_ABS:\"problematic use of LLMs\" OR TITLE_ABS:\"excessive LLMs use\" OR TITLE_ABS:\"excessive use of LLMs\" OR TITLE_ABS:\"compulsive LLMs use\" OR TITLE_ABS:\"compulsive use of LLMs\" OR TITLE_ABS:\"addictive LLMs use\" OR TITLE_ABS:\"addictive use of LLMs\" OR TITLE_ABS:\"LLMs use disorder\" OR TITLE_ABS:\"problematic LLMs usage\" OR TITLE_ABS:\"excessive LLMs usage\" OR TITLE_ABS:\"compulsive LLMs usage\" OR TITLE_ABS:\"addictive LLMs usage\" OR TITLE_ABS:\"large language model addiction\" OR TITLE_ABS:\"large language model dependence\" OR TITLE_ABS:\"large language model dependency\" OR TITLE_ABS:\"dependence on large language model\" OR TITLE_ABS:\"dependency on large language model\" OR TITLE_ABS:\"addiction to large language model\" OR TITLE_ABS:\"problematic large language model use\" OR TITLE_ABS:\"problematic use of large language model\" OR TITLE_ABS:\"excessive large language model use\" OR TITLE_ABS:\"excessive use of large language model\" OR TITLE_ABS:\"compulsive large language model use\" OR TITLE_ABS:\"compulsive use of large language model\" OR TITLE_ABS:\"addictive large language model use\" OR TITLE_ABS:\"addictive use of large language model\"",
+          "count": 6
+        },
+        {
+          "query": "TITLE_ABS:\"large language model use disorder\" OR TITLE_ABS:\"problematic large language model usage\" OR TITLE_ABS:\"excessive large language model usage\" OR TITLE_ABS:\"compulsive large language model usage\" OR TITLE_ABS:\"addictive large language model usage\" OR TITLE_ABS:\"large language models addiction\" OR TITLE_ABS:\"large language models dependence\" OR TITLE_ABS:\"large language models dependency\" OR TITLE_ABS:\"dependence on large language models\" OR TITLE_ABS:\"dependency on large language models\" OR TITLE_ABS:\"addiction to large language models\" OR TITLE_ABS:\"problematic large language models use\" OR TITLE_ABS:\"problematic use of large language models\" OR TITLE_ABS:\"excessive large language models use\" OR TITLE_ABS:\"excessive use of large language models\" OR TITLE_ABS:\"compulsive large language models use\" OR TITLE_ABS:\"compulsive use of large language models\" OR TITLE_ABS:\"addictive large language models use\" OR TITLE_ABS:\"addictive use of large language models\" OR TITLE_ABS:\"large language models use disorder\" OR TITLE_ABS:\"problematic large language models usage\" OR TITLE_ABS:\"excessive large language models usage\" OR TITLE_ABS:\"compulsive large language models usage\" OR TITLE_ABS:\"addictive large language models usage\" OR TITLE_ABS:\"AI companion addiction\" OR TITLE_ABS:\"AI companion dependence\" OR TITLE_ABS:\"AI companion dependency\" OR TITLE_ABS:\"dependence on AI companion\" OR TITLE_ABS:\"dependency on AI companion\" OR TITLE_ABS:\"addiction to AI companion\" OR TITLE_ABS:\"problematic AI companion use\" OR TITLE_ABS:\"problematic use of AI companion\" OR TITLE_ABS:\"excessive AI companion use\" OR TITLE_ABS:\"excessive use of AI companion\" OR TITLE_ABS:\"compulsive AI companion use\" OR TITLE_ABS:\"compulsive use of AI companion\" OR TITLE_ABS:\"addictive AI companion use\" OR TITLE_ABS:\"addictive use of AI companion\" OR TITLE_ABS:\"AI companion use disorder\" OR TITLE_ABS:\"problematic AI companion usage\"",
+          "count": 6
+        },
+        {
+          "query": "TITLE_ABS:\"excessive AI companion usage\" OR TITLE_ABS:\"compulsive AI companion usage\" OR TITLE_ABS:\"addictive AI companion usage\" OR TITLE_ABS:\"AI companions addiction\" OR TITLE_ABS:\"AI companions dependence\" OR TITLE_ABS:\"AI companions dependency\" OR TITLE_ABS:\"dependence on AI companions\" OR TITLE_ABS:\"dependency on AI companions\" OR TITLE_ABS:\"addiction to AI companions\" OR TITLE_ABS:\"problematic AI companions use\" OR TITLE_ABS:\"problematic use of AI companions\" OR TITLE_ABS:\"excessive AI companions use\" OR TITLE_ABS:\"excessive use of AI companions\" OR TITLE_ABS:\"compulsive AI companions use\" OR TITLE_ABS:\"compulsive use of AI companions\" OR TITLE_ABS:\"addictive AI companions use\" OR TITLE_ABS:\"addictive use of AI companions\" OR TITLE_ABS:\"AI companions use disorder\" OR TITLE_ABS:\"problematic AI companions usage\" OR TITLE_ABS:\"excessive AI companions usage\" OR TITLE_ABS:\"compulsive AI companions usage\" OR TITLE_ABS:\"addictive AI companions usage\" OR TITLE_ABS:\"AI tools addiction\" OR TITLE_ABS:\"AI tools dependence\" OR TITLE_ABS:\"AI tools dependency\" OR TITLE_ABS:\"dependence on AI tools\" OR TITLE_ABS:\"dependency on AI tools\" OR TITLE_ABS:\"addiction to AI tools\" OR TITLE_ABS:\"problematic AI tools use\" OR TITLE_ABS:\"problematic use of AI tools\" OR TITLE_ABS:\"excessive AI tools use\" OR TITLE_ABS:\"excessive use of AI tools\" OR TITLE_ABS:\"compulsive AI tools use\" OR TITLE_ABS:\"compulsive use of AI tools\" OR TITLE_ABS:\"addictive AI tools use\" OR TITLE_ABS:\"addictive use of AI tools\" OR TITLE_ABS:\"AI tools use disorder\" OR TITLE_ABS:\"problematic AI tools usage\" OR TITLE_ABS:\"excessive AI tools usage\" OR TITLE_ABS:\"compulsive AI tools usage\"",
+          "count": 10
+        },
+        {
+          "query": "TITLE_ABS:\"addictive AI tools usage\" OR TITLE_ABS:\"AI technology addiction\" OR TITLE_ABS:\"AI technology dependence\" OR TITLE_ABS:\"AI technology dependency\" OR TITLE_ABS:\"dependence on AI technology\" OR TITLE_ABS:\"dependency on AI technology\" OR TITLE_ABS:\"addiction to AI technology\" OR TITLE_ABS:\"problematic AI technology use\" OR TITLE_ABS:\"problematic use of AI technology\" OR TITLE_ABS:\"excessive AI technology use\" OR TITLE_ABS:\"excessive use of AI technology\" OR TITLE_ABS:\"compulsive AI technology use\" OR TITLE_ABS:\"compulsive use of AI technology\" OR TITLE_ABS:\"addictive AI technology use\" OR TITLE_ABS:\"addictive use of AI technology\" OR TITLE_ABS:\"AI technology use disorder\" OR TITLE_ABS:\"problematic AI technology usage\" OR TITLE_ABS:\"excessive AI technology usage\" OR TITLE_ABS:\"compulsive AI technology usage\" OR TITLE_ABS:\"addictive AI technology usage\" OR TITLE_ABS:\"Replika addiction\" OR TITLE_ABS:\"Replika dependence\" OR TITLE_ABS:\"Replika dependency\" OR TITLE_ABS:\"dependence on Replika\" OR TITLE_ABS:\"dependency on Replika\" OR TITLE_ABS:\"addiction to Replika\" OR TITLE_ABS:\"problematic Replika use\" OR TITLE_ABS:\"problematic use of Replika\" OR TITLE_ABS:\"excessive Replika use\" OR TITLE_ABS:\"excessive use of Replika\" OR TITLE_ABS:\"compulsive Replika use\" OR TITLE_ABS:\"compulsive use of Replika\" OR TITLE_ABS:\"addictive Replika use\" OR TITLE_ABS:\"addictive use of Replika\" OR TITLE_ABS:\"Replika use disorder\" OR TITLE_ABS:\"problematic Replika usage\" OR TITLE_ABS:\"excessive Replika usage\" OR TITLE_ABS:\"compulsive Replika usage\" OR TITLE_ABS:\"addictive Replika usage\"",
+          "count": 2
+        },
+        {
+          "query": "(TITLE_ABS:\"overreliance on AI\" OR TITLE_ABS:\"over-reliance on AI\" OR TITLE_ABS:\"AI overreliance\" OR TITLE_ABS:\"AI over-reliance\" OR TITLE_ABS:\"AI overuse\" OR TITLE_ABS:\"overuse of AI\" OR TITLE_ABS:\"overreliance on artificial intelligence\" OR TITLE_ABS:\"over-reliance on artificial intelligence\" OR TITLE_ABS:\"artificial intelligence overreliance\" OR TITLE_ABS:\"artificial intelligence over-reliance\" OR TITLE_ABS:\"artificial intelligence overuse\" OR TITLE_ABS:\"overuse of artificial intelligence\" OR TITLE_ABS:\"overreliance on ChatGPT\" OR TITLE_ABS:\"over-reliance on ChatGPT\" OR TITLE_ABS:\"ChatGPT overreliance\" OR TITLE_ABS:\"ChatGPT over-reliance\" OR TITLE_ABS:\"ChatGPT overuse\" OR TITLE_ABS:\"overuse of ChatGPT\" OR TITLE_ABS:\"overreliance on GenAI\" OR TITLE_ABS:\"over-reliance on GenAI\" OR TITLE_ABS:\"GenAI overreliance\" OR TITLE_ABS:\"GenAI over-reliance\" OR TITLE_ABS:\"GenAI overuse\" OR TITLE_ABS:\"overuse of GenAI\" OR TITLE_ABS:\"overreliance on generative AI\" OR TITLE_ABS:\"over-reliance on generative AI\" OR TITLE_ABS:\"generative AI overreliance\" OR TITLE_ABS:\"generative AI over-reliance\" OR TITLE_ABS:\"generative AI overuse\" OR TITLE_ABS:\"overuse of generative AI\" OR TITLE_ABS:\"overreliance on generative artificial intelligence\" OR TITLE_ABS:\"over-reliance on generative artificial intelligence\" OR TITLE_ABS:\"generative artificial intelligence overreliance\" OR TITLE_ABS:\"generative artificial intelligence over-reliance\" OR TITLE_ABS:\"generative artificial intelligence overuse\" OR TITLE_ABS:\"overuse of generative artificial intelligence\" OR TITLE_ABS:\"overreliance on chatbot\" OR TITLE_ABS:\"over-reliance on chatbot\" OR TITLE_ABS:\"chatbot overreliance\" OR TITLE_ABS:\"chatbot over-reliance\") AND (TITLE_ABS:scale OR TITLE_ABS:questionnaire OR TITLE_ABS:survey OR TITLE_ABS:inventory OR TITLE_ABS:respondents OR TITLE_ABS:self-report)",
+          "count": 53
+        },
+        {
+          "query": "(TITLE_ABS:\"chatbot overuse\" OR TITLE_ABS:\"overuse of chatbot\" OR TITLE_ABS:\"overreliance on chatbots\" OR TITLE_ABS:\"over-reliance on chatbots\" OR TITLE_ABS:\"chatbots overreliance\" OR TITLE_ABS:\"chatbots over-reliance\" OR TITLE_ABS:\"chatbots overuse\" OR TITLE_ABS:\"overuse of chatbots\" OR TITLE_ABS:\"overreliance on AI chatbots\" OR TITLE_ABS:\"over-reliance on AI chatbots\" OR TITLE_ABS:\"AI chatbots overreliance\" OR TITLE_ABS:\"AI chatbots over-reliance\" OR TITLE_ABS:\"AI chatbots overuse\" OR TITLE_ABS:\"overuse of AI chatbots\" OR TITLE_ABS:\"overreliance on conversational agent\" OR TITLE_ABS:\"over-reliance on conversational agent\" OR TITLE_ABS:\"conversational agent overreliance\" OR TITLE_ABS:\"conversational agent over-reliance\" OR TITLE_ABS:\"conversational agent overuse\" OR TITLE_ABS:\"overuse of conversational agent\" OR TITLE_ABS:\"overreliance on conversational agents\" OR TITLE_ABS:\"over-reliance on conversational agents\" OR TITLE_ABS:\"conversational agents overreliance\" OR TITLE_ABS:\"conversational agents over-reliance\" OR TITLE_ABS:\"conversational agents overuse\" OR TITLE_ABS:\"overuse of conversational agents\" OR TITLE_ABS:\"overreliance on conversational AI\" OR TITLE_ABS:\"over-reliance on conversational AI\" OR TITLE_ABS:\"conversational AI overreliance\" OR TITLE_ABS:\"conversational AI over-reliance\" OR TITLE_ABS:\"conversational AI overuse\" OR TITLE_ABS:\"overuse of conversational AI\" OR TITLE_ABS:\"overreliance on LLM\" OR TITLE_ABS:\"over-reliance on LLM\" OR TITLE_ABS:\"LLM overreliance\" OR TITLE_ABS:\"LLM over-reliance\" OR TITLE_ABS:\"LLM overuse\" OR TITLE_ABS:\"overuse of LLM\" OR TITLE_ABS:\"overreliance on LLMs\" OR TITLE_ABS:\"over-reliance on LLMs\") AND (TITLE_ABS:scale OR TITLE_ABS:questionnaire OR TITLE_ABS:survey OR TITLE_ABS:inventory OR TITLE_ABS:respondents OR TITLE_ABS:self-report)",
+          "count": 3
+        },
+        {
+          "query": "(TITLE_ABS:\"LLMs overreliance\" OR TITLE_ABS:\"LLMs over-reliance\" OR TITLE_ABS:\"LLMs overuse\" OR TITLE_ABS:\"overuse of LLMs\" OR TITLE_ABS:\"overreliance on large language model\" OR TITLE_ABS:\"over-reliance on large language model\" OR TITLE_ABS:\"large language model overreliance\" OR TITLE_ABS:\"large language model over-reliance\" OR TITLE_ABS:\"large language model overuse\" OR TITLE_ABS:\"overuse of large language model\" OR TITLE_ABS:\"overreliance on large language models\" OR TITLE_ABS:\"over-reliance on large language models\" OR TITLE_ABS:\"large language models overreliance\" OR TITLE_ABS:\"large language models over-reliance\" OR TITLE_ABS:\"large language models overuse\" OR TITLE_ABS:\"overuse of large language models\" OR TITLE_ABS:\"overreliance on AI companion\" OR TITLE_ABS:\"over-reliance on AI companion\" OR TITLE_ABS:\"AI companion overreliance\" OR TITLE_ABS:\"AI companion over-reliance\" OR TITLE_ABS:\"AI companion overuse\" OR TITLE_ABS:\"overuse of AI companion\" OR TITLE_ABS:\"overreliance on AI companions\" OR TITLE_ABS:\"over-reliance on AI companions\" OR TITLE_ABS:\"AI companions overreliance\" OR TITLE_ABS:\"AI companions over-reliance\" OR TITLE_ABS:\"AI companions overuse\" OR TITLE_ABS:\"overuse of AI companions\" OR TITLE_ABS:\"overreliance on AI tools\" OR TITLE_ABS:\"over-reliance on AI tools\" OR TITLE_ABS:\"AI tools overreliance\" OR TITLE_ABS:\"AI tools over-reliance\" OR TITLE_ABS:\"AI tools overuse\" OR TITLE_ABS:\"overuse of AI tools\" OR TITLE_ABS:\"overreliance on AI technology\" OR TITLE_ABS:\"over-reliance on AI technology\" OR TITLE_ABS:\"AI technology overreliance\" OR TITLE_ABS:\"AI technology over-reliance\" OR TITLE_ABS:\"AI technology overuse\" OR TITLE_ABS:\"overuse of AI technology\") AND (TITLE_ABS:scale OR TITLE_ABS:questionnaire OR TITLE_ABS:survey OR TITLE_ABS:inventory OR TITLE_ABS:respondents OR TITLE_ABS:self-report)",
+          "count": 2
+        },
+        {
+          "query": "(TITLE_ABS:\"overreliance on Replika\" OR TITLE_ABS:\"over-reliance on Replika\" OR TITLE_ABS:\"Replika overreliance\" OR TITLE_ABS:\"Replika over-reliance\" OR TITLE_ABS:\"Replika overuse\" OR TITLE_ABS:\"overuse of Replika\") AND (TITLE_ABS:scale OR TITLE_ABS:questionnaire OR TITLE_ABS:survey OR TITLE_ABS:inventory OR TITLE_ABS:respondents OR TITLE_ABS:self-report)",
+          "count": 0
+        },
+        {
+          "query": "(TITLE_ABS:\"AI friend\" OR TITLE_ABS:\"AI friends\" OR TITLE_ABS:\"AI friendship\" OR TITLE_ABS:\"AI companion\" OR TITLE_ABS:\"AI companions\" OR TITLE_ABS:\"social chatbot\" OR TITLE_ABS:\"social chatbots\" OR TITLE_ABS:\"companion chatbot\" OR TITLE_ABS:\"companion chatbots\" OR TITLE_ABS:\"Replika\" OR TITLE_ABS:\"Character.AI\" OR TITLE_ABS:\"Xiaoice\" OR TITLE_ABS:\"AI girlfriend\" OR TITLE_ABS:\"AI boyfriend\") AND (TITLE_ABS:addiction OR TITLE_ABS:addicted OR TITLE_ABS:addictive OR TITLE_ABS:dependence OR TITLE_ABS:dependency OR TITLE_ABS:compulsive OR TITLE_ABS:problematic)",
+          "count": 20
+        }
+      ]
+    },
+    "searched_at_utc": "2026-10-16T14:52:36+00:00",
+    "seconds": 17.8
+  },
+  "openalex": {
+    "records": 3925,
+    "meta": {
+      "filters": [
+        {
+          "filter": "title_and_abstract.search:\"AI addiction\"|\"AI dependence\"|\"AI dependency\"|\"dependence on AI\"|\"dependency on AI\"|\"addiction to AI\"|\"problematic AI use\"|\"problematic use of AI\"|\"excessive AI use\"|\"excessive use of AI\"|\"compulsive AI use\"|\"compulsive use of AI\"|\"addictive AI use\"|\"addictive use of AI\"|\"AI use disorder\"|\"problematic AI usage\"|\"excessive AI usage\"|\"compulsive AI usage\"|\"addictive AI usage\"|\"artificial intelligence addiction\"|\"artificial intelligence dependence\"|\"artificial intelligence dependency\"|\"dependence on artificial intelligence\"|\"dependency on artificial intelligence\"|\"addiction to artificial intelligence\"|\"problematic artificial intelligence use\"|\"problematic use of artificial intelligence\"|\"excessive artificial intelligence use\"|\"excessive use of artificial intelligence\"|\"compulsive artificial intelligence use\"|\"compulsive use of artificial intelligence\"|\"addictive artificial intelligence use\"|\"addictive use of artificial intelligence\"|\"artificial intelligence use disorder\"|\"problematic artificial intelligence usage\"|\"excessive artificial intelligence usage\"|\"compulsive artificial intelligence usage\"|\"addictive artificial intelligence usage\"|\"ChatGPT addiction\"|\"ChatGPT dependence\"",
+          "count": 2465
+        },
+        {
+          "filter": "title_and_abstract.search:\"ChatGPT dependency\"|\"dependence on ChatGPT\"|\"dependency on ChatGPT\"|\"addiction to ChatGPT\"|\"problematic ChatGPT use\"|\"problematic use of ChatGPT\"|\"excessive ChatGPT use\"|\"excessive use of ChatGPT\"|\"compulsive ChatGPT use\"|\"compulsive use of ChatGPT\"|\"addictive ChatGPT use\"|\"addictive use of ChatGPT\"|\"ChatGPT use disorder\"|\"problematic ChatGPT usage\"|\"excessive ChatGPT usage\"|\"compulsive ChatGPT usage\"|\"addictive ChatGPT usage\"|\"GenAI addiction\"|\"GenAI dependence\"|\"GenAI dependency\"|\"dependence on GenAI\"|\"dependency on GenAI\"|\"addiction to GenAI\"|\"problematic GenAI use\"|\"problematic use of GenAI\"|\"excessive GenAI use\"|\"excessive use of GenAI\"|\"compulsive GenAI use\"|\"compulsive use of GenAI\"|\"addictive GenAI use\"|\"addictive use of GenAI\"|\"GenAI use disorder\"|\"problematic GenAI usage\"|\"excessive GenAI usage\"|\"compulsive GenAI usage\"|\"addictive GenAI usage\"|\"generative AI addiction\"|\"generative AI dependence\"|\"generative AI dependency\"|\"dependence on generative AI\"",
+          "count": 331
+        },
+        {
+          "filter": "title_and_abstract.search:\"dependency on generative AI\"|\"addiction to generative AI\"|\"problematic generative AI use\"|\"problematic use of generative AI\"|\"excessive generative AI use\"|\"excessive use of generative AI\"|\"compulsive generative AI use\"|\"compulsive use of generative AI\"|\"addictive generative AI use\"|\"addictive use of generative AI\"|\"generative AI use disorder\"|\"problematic generative AI usage\"|\"excessive generative AI usage\"|\"compulsive generative AI usage\"|\"addictive generative AI usage\"|\"generative artificial intelligence addiction\"|\"generative artificial intelligence dependence\"|\"generative artificial intelligence dependency\"|\"dependence on generative artificial intelligence\"|\"dependency on generative artificial intelligence\"|\"addiction to generative artificial intelligence\"|\"problematic generative artificial intelligence use\"|\"problematic use of generative artificial intelligence\"|\"excessive generative artificial intelligence use\"|\"excessive use of generative artificial intelligence\"|\"compulsive generative artificial intelligence use\"|\"compulsive use of generative artificial intelligence\"|\"addictive generative artificial intelligence use\"|\"addictive use of generative artificial intelligence\"|\"generative artificial intelligence use disorder\"|\"problematic generative artificial intelligence usage\"|\"excessive generative artificial intelligence usage\"|\"compulsive generative artificial intelligence usage\"|\"addictive generative artificial intelligence usage\"|\"chatbot addiction\"|\"chatbot dependence\"|\"chatbot dependency\"|\"dependence on chatbot\"|\"dependency on chatbot\"|\"addiction to chatbot\"",
+          "count": 166
+        },
+        {
+          "filter": "title_and_abstract.search:\"problematic chatbot use\"|\"problematic use of chatbot\"|\"excessive chatbot use\"|\"excessive use of chatbot\"|\"compulsive chatbot use\"|\"compulsive use of chatbot\"|\"addictive chatbot use\"|\"addictive use of chatbot\"|\"chatbot use disorder\"|\"problematic chatbot usage\"|\"excessive chatbot usage\"|\"compulsive chatbot usage\"|\"addictive chatbot usage\"|\"chatbots addiction\"|\"chatbots dependence\"|\"chatbots dependency\"|\"dependence on chatbots\"|\"dependency on chatbots\"|\"addiction to chatbots\"|\"problematic chatbots use\"|\"problematic use of chatbots\"|\"excessive chatbots use\"|\"excessive use of chatbots\"|\"compulsive chatbots use\"|\"compulsive use of chatbots\"|\"addictive chatbots use\"|\"addictive use of chatbots\"|\"chatbots use disorder\"|\"problematic chatbots usage\"|\"excessive chatbots usage\"|\"compulsive chatbots usage\"|\"addictive chatbots usage\"|\"AI chatbots addiction\"|\"AI chatbots dependence\"|\"AI chatbots dependency\"|\"dependence on AI chatbots\"|\"dependency on AI chatbots\"|\"addiction to AI chatbots\"|\"problematic AI chatbots use\"|\"problematic use of AI chatbots\"",
+          "count": 100
+        },
+        {
+          "filter": "title_and_abstract.search:\"excessive AI chatbots use\"|\"excessive use of AI chatbots\"|\"compulsive AI chatbots use\"|\"compulsive use of AI chatbots\"|\"addictive AI chatbots use\"|\"addictive use of AI chatbots\"|\"AI chatbots use disorder\"|\"problematic AI chatbots usage\"|\"excessive AI chatbots usage\"|\"compulsive AI chatbots usage\"|\"addictive AI chatbots usage\"|\"conversational agent addiction\"|\"conversational agent dependence\"|\"conversational agent dependency\"|\"dependence on conversational agent\"|\"dependency on conversational agent\"|\"addiction to conversational agent\"|\"problematic conversational agent use\"|\"problematic use of conversational agent\"|\"excessive conversational agent use\"|\"excessive use of conversational agent\"|\"compulsive conversational agent use\"|\"compulsive use of conversational agent\"|\"addictive conversational agent use\"|\"addictive use of conversational agent\"|\"conversational agent use disorder\"|\"problematic conversational agent usage\"|\"excessive conversational agent usage\"|\"compulsive conversational agent usage\"|\"addictive conversational agent usage\"|\"conversational agents addiction\"|\"conversational agents dependence\"|\"conversational agents dependency\"|\"dependence on conversational agents\"|\"dependency on conversational agents\"|\"addiction to conversational agents\"|\"problematic conversational agents use\"|\"problematic use of conversational agents\"|\"excessive conversational agents use\"|\"excessive use of conversational agents\"",
+          "count": 5
+        },
+        {
+          "filter": "title_and_abstract.search:\"compulsive conversational agents use\"|\"compulsive use of conversational agents\"|\"addictive conversational agents use\"|\"addictive use of conversational agents\"|\"conversational agents use disorder\"|\"problematic conversational agents usage\"|\"excessive conversational agents usage\"|\"compulsive conversational agents usage\"|\"addictive conversational agents usage\"|\"conversational AI addiction\"|\"conversational AI dependence\"|\"conversational AI dependency\"|\"dependence on conversational AI\"|\"dependency on conversational AI\"|\"addiction to conversational AI\"|\"problematic conversational AI use\"|\"problematic use of conversational AI\"|\"excessive conversational AI use\"|\"excessive use of conversational AI\"|\"compulsive conversational AI use\"|\"compulsive use of conversational AI\"|\"addictive conversational AI use\"|\"addictive use of conversational AI\"|\"conversational AI use disorder\"|\"problematic conversational AI usage\"|\"excessive conversational AI usage\"|\"compulsive conversational AI usage\"|\"addictive conversational AI usage\"|\"LLM addiction\"|\"LLM dependence\"|\"LLM dependency\"|\"dependence on LLM\"|\"dependency on LLM\"|\"addiction to LLM\"|\"problematic LLM use\"|\"problematic use of LLM\"|\"excessive LLM use\"|\"excessive use of LLM\"|\"compulsive LLM use\"|\"compulsive use of LLM\"",
+          "count": 162
+        },
+        {
+          "filter": "title_and_abstract.search:\"addictive LLM use\"|\"addictive use of LLM\"|\"LLM use disorder\"|\"problematic LLM usage\"|\"excessive LLM usage\"|\"compulsive LLM usage\"|\"addictive LLM usage\"|\"LLMs addiction\"|\"LLMs dependence\"|\"LLMs dependency\"|\"dependence on LLMs\"|\"dependency on LLMs\"|\"addiction to LLMs\"|\"problematic LLMs use\"|\"problematic use of LLMs\"|\"excessive LLMs use\"|\"excessive use of LLMs\"|\"compulsive LLMs use\"|\"compulsive use of LLMs\"|\"addictive LLMs use\"|\"addictive use of LLMs\"|\"LLMs use disorder\"|\"problematic LLMs usage\"|\"excessive LLMs usage\"|\"compulsive LLMs usage\"|\"addictive LLMs usage\"|\"large language model addiction\"|\"large language model dependence\"|\"large language model dependency\"|\"dependence on large language model\"|\"dependency on large language model\"|\"addiction to large language model\"|\"problematic large language model use\"|\"problematic use of large language model\"|\"excessive large language model use\"|\"excessive use of large language model\"|\"compulsive large language model use\"|\"compulsive use of large language model\"|\"addictive large language model use\"|\"addictive use of large language model\"",
+          "count": 183
+        },
+        {
+          "filter": "title_and_abstract.search:\"large language model use disorder\"|\"problematic large language model usage\"|\"excessive large language model usage\"|\"compulsive large language model usage\"|\"addictive large language model usage\"|\"large language models addiction\"|\"large language models dependence\"|\"large language models dependency\"|\"dependence on large language models\"|\"dependency on large language models\"|\"addiction to large language models\"|\"problematic large language models use\"|\"problematic use of large language models\"|\"excessive large language models use\"|\"excessive use of large language models\"|\"compulsive large language models use\"|\"compulsive use of large language models\"|\"addictive large language models use\"|\"addictive use of large language models\"|\"large language models use disorder\"|\"problematic large language models usage\"|\"excessive large language models usage\"|\"compulsive large language models usage\"|\"addictive large language models usage\"|\"AI companion addiction\"|\"AI companion dependence\"|\"AI companion dependency\"|\"dependence on AI companion\"|\"dependency on AI companion\"|\"addiction to AI companion\"|\"problematic AI companion use\"|\"problematic use of AI companion\"|\"excessive AI companion use\"|\"excessive use of AI companion\"|\"compulsive AI companion use\"|\"compulsive use of AI companion\"|\"addictive AI companion use\"|\"addictive use of AI companion\"|\"AI companion use disorder\"|\"problematic AI companion usage\"",
+          "count": 70
+        },
+        {
+          "filter": "title_and_abstract.search:\"excessive AI companion usage\"|\"compulsive AI companion usage\"|\"addictive AI companion usage\"|\"AI companions addiction\"|\"AI companions dependence\"|\"AI companions dependency\"|\"dependence on AI companions\"|\"dependency on AI companions\"|\"addiction to AI companions\"|\"problematic AI companions use\"|\"problematic use of AI companions\"|\"excessive AI companions use\"|\"excessive use of AI companions\"|\"compulsive AI companions use\"|\"compulsive use of AI companions\"|\"addictive AI companions use\"|\"addictive use of AI companions\"|\"AI companions use disorder\"|\"problematic AI companions usage\"|\"excessive AI companions usage\"|\"compulsive AI companions usage\"|\"addictive AI companions usage\"|\"AI tools addiction\"|\"AI tools dependence\"|\"AI tools dependency\"|\"dependence on AI tools\"|\"dependency on AI tools\"|\"addiction to AI tools\"|\"problematic AI tools use\"|\"problematic use of AI tools\"|\"excessive AI tools use\"|\"excessive use of AI tools\"|\"compulsive AI tools use\"|\"compulsive use of AI tools\"|\"addictive AI tools use\"|\"addictive use of AI tools\"|\"AI tools use disorder\"|\"problematic AI tools usage\"|\"excessive AI tools usage\"|\"compulsive AI tools usage\"",
+          "count": 152
+        },
+        {
+          "filter": "title_and_abstract.search:\"addictive AI tools usage\"|\"AI technology addiction\"|\"AI technology dependence\"|\"AI technology dependency\"|\"dependence on AI technology\"|\"dependency on AI technology\"|\"addiction to AI technology\"|\"problematic AI technology use\"|\"problematic use of AI technology\"|\"excessive AI technology use\"|\"excessive use of AI technology\"|\"compulsive AI technology use\"|\"compulsive use of AI technology\"|\"addictive AI technology use\"|\"addictive use of AI technology\"|\"AI technology use disorder\"|\"problematic AI technology usage\"|\"excessive AI technology usage\"|\"compulsive AI technology usage\"|\"addictive AI technology usage\"|\"Replika addiction\"|\"Replika dependence\"|\"Replika dependency\"|\"dependence on Replika\"|\"dependency on Replika\"|\"addiction to Replika\"|\"problematic Replika use\"|\"problematic use of Replika\"|\"excessive Replika use\"|\"excessive use of Replika\"|\"compulsive Replika use\"|\"compulsive use of Replika\"|\"addictive Replika use\"|\"addictive use of Replika\"|\"Replika use disorder\"|\"problematic Replika usage\"|\"excessive Replika usage\"|\"compulsive Replika usage\"|\"addictive Replika usage\"",
+          "count": 48
+        },
+        {
+          "filter": "title_and_abstract.search:\"overreliance on AI\"|\"over-reliance on AI\"|\"AI overreliance\"|\"AI over-reliance\"|\"AI overuse\"|\"overuse of AI\"|\"overreliance on artificial intelligence\"|\"over-reliance on artificial intelligence\"|\"artificial intelligence overreliance\"|\"artificial intelligence over-reliance\"|\"artificial intelligence overuse\"|\"overuse of artificial intelligence\"|\"overreliance on ChatGPT\"|\"over-reliance on ChatGPT\"|\"ChatGPT overreliance\"|\"ChatGPT over-reliance\"|\"ChatGPT overuse\"|\"overuse of ChatGPT\"|\"overreliance on GenAI\"|\"over-reliance on GenAI\"|\"GenAI overreliance\"|\"GenAI over-reliance\"|\"GenAI overuse\"|\"overuse of GenAI\"|\"overreliance on generative AI\"|\"over-reliance on generative AI\"|\"generative AI overreliance\"|\"generative AI over-reliance\"|\"generative AI overuse\"|\"overuse of generative AI\"|\"overreliance on generative artificial intelligence\"|\"over-reliance on generative artificial intelligence\"|\"generative artificial intelligence overreliance\"|\"generative artificial intelligence over-reliance\"|\"generative artificial intelligence overuse\"|\"overuse of generative artificial intelligence\"|\"overreliance on chatbot\"|\"over-reliance on chatbot\"|\"chatbot overreliance\"|\"chatbot over-reliance\",title_and_abstract.search:scale|questionnaire|survey|inventory|respondents|\"self-report\"",
+          "count": 771
+        },
+        {
+          "filter": "title_and_abstract.search:\"chatbot overuse\"|\"overuse of chatbot\"|\"overreliance on chatbots\"|\"over-reliance on chatbots\"|\"chatbots overreliance\"|\"chatbots over-reliance\"|\"chatbots overuse\"|\"overuse of chatbots\"|\"overreliance on AI chatbots\"|\"over-reliance on AI chatbots\"|\"AI chatbots overreliance\"|\"AI chatbots over-reliance\"|\"AI chatbots overuse\"|\"overuse of AI chatbots\"|\"overreliance on conversational agent\"|\"over-reliance on conversational agent\"|\"conversational agent overreliance\"|\"conversational agent over-reliance\"|\"conversational agent overuse\"|\"overuse of conversational agent\"|\"overreliance on conversational agents\"|\"over-reliance on conversational agents\"|\"conversational agents overreliance\"|\"conversational agents over-reliance\"|\"conversational agents overuse\"|\"overuse of conversational agents\"|\"overreliance on conversational AI\"|\"over-reliance on conversational AI\"|\"conversational AI overreliance\"|\"conversational AI over-reliance\"|\"conversational AI overuse\"|\"overuse of conversational AI\"|\"overreliance on LLM\"|\"over-reliance on LLM\"|\"LLM overreliance\"|\"LLM over-reliance\"|\"LLM overuse\"|\"overuse of LLM\"|\"overreliance on LLMs\"|\"over-reliance on LLMs\",title_and_abstract.search:scale|questionnaire|survey|inventory|respondents|\"self-report\"",
+          "count": 23
+        },
+        {
+          "filter": "title_and_abstract.search:\"LLMs overreliance\"|\"LLMs over-reliance\"|\"LLMs overuse\"|\"overuse of LLMs\"|\"overreliance on large language model\"|\"over-reliance on large language model\"|\"large language model overreliance\"|\"large language model over-reliance\"|\"large language model overuse\"|\"overuse of large language model\"|\"overreliance on large language models\"|\"over-reliance on large language models\"|\"large language models overreliance\"|\"large language models over-reliance\"|\"large language models overuse\"|\"overuse of large language models\"|\"overreliance on AI companion\"|\"over-reliance on AI companion\"|\"AI companion overreliance\"|\"AI companion over-reliance\"|\"AI companion overuse\"|\"overuse of AI companion\"|\"overreliance on AI companions\"|\"over-reliance on AI companions\"|\"AI companions overreliance\"|\"AI companions over-reliance\"|\"AI companions overuse\"|\"overuse of AI companions\"|\"overreliance on AI tools\"|\"over-reliance on AI tools\"|\"AI tools overreliance\"|\"AI tools over-reliance\"|\"AI tools overuse\"|\"overuse of AI tools\"|\"overreliance on AI technology\"|\"over-reliance on AI technology\"|\"AI technology overreliance\"|\"AI technology over-reliance\"|\"AI technology overuse\"|\"overuse of AI technology\",title_and_abstract.search:scale|questionnaire|survey|inventory|respondents|\"self-report\"",
+          "count": 97
+        },
+        {
+          "filter": "title_and_abstract.search:\"overreliance on Replika\"|\"over-reliance on Replika\"|\"Replika overreliance\"|\"Replika over-reliance\"|\"Replika overuse\"|\"overuse of Replika\",title_and_abstract.search:scale|questionnaire|survey|inventory|respondents|\"self-report\"",
+          "count": 0
+        },
+        {
+          "filter": "title_and_abstract.search:(\"AI friend\" OR \"AI friends\" OR \"AI friendship\" OR \"AI companion\" OR \"AI companions\" OR \"social chatbot\" OR \"social chatbots\" OR \"companion chatbot\" OR \"companion chatbots\" OR \"Replika\" OR \"Character.AI\" OR \"Xiaoice\" OR \"AI girlfriend\" OR \"AI boyfriend\") AND (addiction OR addicted OR addictive OR dependence OR dependency OR compulsive OR problematic)",
+          "count": 302
+        }
+      ]
+    },
+    "searched_at_utc": "2026-10-16T14:53:40+00:00",
+    "seconds": 64.5
+  },
+  "openalex_non_en": {
+    "records": 69,
+    "meta": {
+      "filters": [
+        {
+          "filter": "title_and_abstract.search:\"人工智能依赖\"",
+          "count": 1
+        },
+        {
+          "filter": "title_and_abstract.search:\"AI依赖\"",
+          "count": 7
+        },
+        {
+          "filter": "title_and_abstract.search:\"生成式人工智能依赖\"",
+          "count": 1
+        },
+        {
+          "filter": "title_and_abstract.search:\"ChatGPT依赖\"",
+          "count": 1
+        },
+        {
+          "filter": "title_and_abstract.search:\"人工智能成瘾\"",
+          "count": 0
+        },
+        {
+          "filter": "title_and_abstract.search:\"AI成瘾\"",
+          "count": 1
+        },
+        {
+          "filter": "title_and_abstract.search:\"聊天机器人依赖\"",
+          "count": 0
+        },
+        {
+          "filter": "title_and_abstract.search:\"인공지능 의존\"",
+          "count": 1
+        },
+        {
+          "filter": "title_and_abstract.search:\"AI 의존\"",
+          "count": 6
+        },
+        {
+          "filter": "title_and_abstract.search:\"AI 중독\"",
+          "count": 1
+        },
+        {
+          "filter": "title_and_abstract.search:\"생성형 AI 의존\"",
+          "count": 0
+        },
+        {
+          "filter": "title_and_abstract.search:\"AI依存\"",
+          "count": 13
+        },
+        {
+          "filter": "title_and_abstract.search:\"生成AI依存\"",
+          "count": 3
+        },
+        {
+          "filter": "title_and_abstract.search:\"yapay zeka bağımlılığı\"",
+          "count": 0
+        },
+        {
+          "filter": "title_and_abstract.search:\"yapay zekâ bağımlılığı\"",
+          "count": 5
+        },
+        {
+          "filter": "title_and_abstract.search:\"ChatGPT bağımlılığı\"",
+          "count": 0
+        },
+        {
+          "filter": "title_and_abstract.search:\"dependencia de la inteligencia artificial\"",
+          "count": 16
+        },
+        {
+          "filter": "title_and_abstract.search:\"adicción a la inteligencia artificial\"",
+          "count": 0
+        },
+        {
+          "filter": "title_and_abstract.search:\"dependencia de ChatGPT\"",
+          "count": 0
+        },
+        {
+          "filter": "title_and_abstract.search:\"dependência de inteligência artificial\"",
+          "count": 0
+        },
+        {
+          "filter": "title_and_abstract.search:\"dependência da inteligência artificial\"",
+          "count": 2
+        },
+        {
+          "filter": "title_and_abstract.search:\"dependência do ChatGPT\"",
+          "count": 0
+        },
+        {
+          "filter": "title_and_abstract.search:\"зависимость от искусственного интеллекта\"",
+          "count": 2
+        },
+        {
+          "filter": "title_and_abstract.search:\"зависимость от ИИ\"",
+          "count": 8
+        },
+        {
+          "filter": "title_and_abstract.search:\"KI-Abhängigkeit\"",
+          "count": 2
+        },
+        {
+          "filter": "title_and_abstract.search:\"KI-Sucht\"",
+          "count": 4
+        }
+      ]
+    },
+    "searched_at_utc": "2026-10-16T14:53:59+00:00",
+    "seconds": 18.6
+  },
+  "s2": {
+    "records": 2113,
+    "meta": {
+      "queries": [
+        {
+          "query": "\"AI addiction\" | \"AI dependence\" | \"AI dependency\" | \"dependence on AI\" | \"dependency on AI\" | \"addiction to AI\" | \"problematic AI use\" | \"problematic use of AI\" | \"excessive AI use\" | \"excessive use of AI\" | \"compulsive AI use\" | \"compulsive use of AI\" | \"addictive AI use\" | \"addictive use of AI\" | \"AI use disorder\" | \"problematic AI usage\" | \"excessive AI usage\" | \"compulsive AI usage\" | \"addictive AI usage\" | \"artificial intelligence addiction\" | \"artificial intelligence dependence\" | \"artificial intelligence dependency\" | \"dependence on artificial intelligence\" | \"dependency on artificial intelligence\" | \"addiction to artificial intelligence\" | \"problematic artificial intelligence use\" | \"problematic use of artificial intelligence\" | \"excessive artificial intelligence use\" | \"excessive use of artificial intelligence\" | \"compulsive artificial intelligence use\"",
+          "count": 1304
+        },
+        {
+          "query": "\"compulsive use of artificial intelligence\" | \"addictive artificial intelligence use\" | \"addictive use of artificial intelligence\" | \"artificial intelligence use disorder\" | \"problematic artificial intelligence usage\" | \"excessive artificial intelligence usage\" | \"compulsive artificial intelligence usage\" | \"addictive artificial intelligence usage\" | \"ChatGPT addiction\" | \"ChatGPT dependence\" | \"ChatGPT dependency\" | \"dependence on ChatGPT\" | \"dependency on ChatGPT\" | \"addiction to ChatGPT\" | \"problematic ChatGPT use\" | \"problematic use of ChatGPT\" | \"excessive ChatGPT use\" | \"excessive use of ChatGPT\" | \"compulsive ChatGPT use\" | \"compulsive use of ChatGPT\" | \"addictive ChatGPT use\" | \"addictive use of ChatGPT\" | \"ChatGPT use disorder\" | \"problematic ChatGPT usage\" | \"excessive ChatGPT usage\" | \"compulsive ChatGPT usage\" | \"addictive ChatGPT usage\" | \"GenAI addiction\" | \"GenAI dependence\" | \"GenAI dependency\"",
+          "count": 124
+        },
+        {
+          "query": "\"dependence on GenAI\" | \"dependency on GenAI\" | \"addiction to GenAI\" | \"problematic GenAI use\" | \"problematic use of GenAI\" | \"excessive GenAI use\" | \"excessive use of GenAI\" | \"compulsive GenAI use\" | \"compulsive use of GenAI\" | \"addictive GenAI use\" | \"addictive use of GenAI\" | \"GenAI use disorder\" | \"problematic GenAI usage\" | \"excessive GenAI usage\" | \"compulsive GenAI usage\" | \"addictive GenAI usage\" | \"generative AI addiction\" | \"generative AI dependence\" | \"generative AI dependency\" | \"dependence on generative AI\" | \"dependency on generative AI\" | \"addiction to generative AI\" | \"problematic generative AI use\" | \"problematic use of generative AI\" | \"excessive generative AI use\" | \"excessive use of generative AI\" | \"compulsive generative AI use\" | \"compulsive use of generative AI\" | \"addictive generative AI use\" | \"addictive use of generative AI\"",
+          "count": 139
+        },
+        {
+          "query": "\"generative AI use disorder\" | \"problematic generative AI usage\" | \"excessive generative AI usage\" | \"compulsive generative AI usage\" | \"addictive generative AI usage\" | \"generative artificial intelligence addiction\" | \"generative artificial intelligence dependence\" | \"generative artificial intelligence dependency\" | \"dependence on generative artificial intelligence\" | \"dependency on generative artificial intelligence\" | \"addiction to generative artificial intelligence\" | \"problematic generative artificial intelligence use\" | \"problematic use of generative artificial intelligence\" | \"excessive generative artificial intelligence use\" | \"excessive use of generative artificial intelligence\" | \"compulsive generative artificial intelligence use\" | \"compulsive use of generative artificial intelligence\" | \"addictive generative artificial intelligence use\" | \"addictive use of generative artificial intelligence\" | \"generative artificial intelligence use disorder\" | \"problematic generative artificial intelligence usage\" | \"excessive generative artificial intelligence usage\" | \"compulsive generative artificial intelligence usage\" | \"addictive generative artificial intelligence usage\" | \"chatbot addiction\" | \"chatbot dependence\" | \"chatbot dependency\" | \"dependence on chatbot\" | \"dependency on chatbot\" | \"addiction to chatbot\"",
+          "count": 80
+        },
+        {
+          "query": "\"problematic chatbot use\" | \"problematic use of chatbot\" | \"excessive chatbot use\" | \"excessive use of chatbot\" | \"compulsive chatbot use\" | \"compulsive use of chatbot\" | \"addictive chatbot use\" | \"addictive use of chatbot\" | \"chatbot use disorder\" | \"problematic chatbot usage\" | \"excessive chatbot usage\" | \"compulsive chatbot usage\" | \"addictive chatbot usage\" | \"chatbots addiction\" | \"chatbots dependence\" | \"chatbots dependency\" | \"dependence on chatbots\" | \"dependency on chatbots\" | \"addiction to chatbots\" | \"problematic chatbots use\" | \"problematic use of chatbots\" | \"excessive chatbots use\" | \"excessive use of chatbots\" | \"compulsive chatbots use\" | \"compulsive use of chatbots\" | \"addictive chatbots use\" | \"addictive use of chatbots\" | \"chatbots use disorder\" | \"problematic chatbots usage\" | \"excessive chatbots usage\"",
+          "count": 39
+        },
+        {
+          "query": "\"compulsive chatbots usage\" | \"addictive chatbots usage\" | \"AI chatbots addiction\" | \"AI chatbots dependence\" | \"AI chatbots dependency\" | \"dependence on AI chatbots\" | \"dependency on AI chatbots\" | \"addiction to AI chatbots\" | \"problematic AI chatbots use\" | \"problematic use of AI chatbots\" | \"excessive AI chatbots use\" | \"excessive use of AI chatbots\" | \"compulsive AI chatbots use\" | \"compulsive use of AI chatbots\" | \"addictive AI chatbots use\" | \"addictive use of AI chatbots\" | \"AI chatbots use disorder\" | \"problematic AI chatbots usage\" | \"excessive AI chatbots usage\" | \"compulsive AI chatbots usage\" | \"addictive AI chatbots usage\" | \"conversational agent addiction\" | \"conversational agent dependence\" | \"conversational agent dependency\" | \"dependence on conversational agent\" | \"dependency on conversational agent\" | \"addiction to conversational agent\" | \"problematic conversational agent use\" | \"problematic use of conversational agent\" | \"excessive conversational agent use\"",
+          "count": 34
+        },
+        {
+          "query": "\"excessive use of conversational agent\" | \"compulsive conversational agent use\" | \"compulsive use of conversational agent\" | \"addictive conversational agent use\" | \"addictive use of conversational agent\" | \"conversational agent use disorder\" | \"problematic conversational agent usage\" | \"excessive conversational agent usage\" | \"compulsive conversational agent usage\" | \"addictive conversational agent usage\" | \"conversational agents addiction\" | \"conversational agents dependence\" | \"conversational agents dependency\" | \"dependence on conversational agents\" | \"dependency on conversational agents\" | \"addiction to conversational agents\" | \"problematic conversational agents use\" | \"problematic use of conversational agents\" | \"excessive conversational agents use\" | \"excessive use of conversational agents\" | \"compulsive conversational agents use\" | \"compulsive use of conversational agents\" | \"addictive conversational agents use\" | \"addictive use of conversational agents\" | \"conversational agents use disorder\" | \"problematic conversational agents usage\" | \"excessive conversational agents usage\" | \"compulsive conversational agents usage\" | \"addictive conversational agents usage\" | \"conversational AI addiction\"",
+          "count": 0
+        },
+        {
+          "query": "\"conversational AI dependence\" | \"conversational AI dependency\" | \"dependence on conversational AI\" | \"dependency on conversational AI\" | \"addiction to conversational AI\" | \"problematic conversational AI use\" | \"problematic use of conversational AI\" | \"excessive conversational AI use\" | \"excessive use of conversational AI\" | \"compulsive conversational AI use\" | \"compulsive use of conversational AI\" | \"addictive conversational AI use\" | \"addictive use of conversational AI\" | \"conversational AI use disorder\" | \"problematic conversational AI usage\" | \"excessive conversational AI usage\" | \"compulsive conversational AI usage\" | \"addictive conversational AI usage\" | \"LLM addiction\" | \"LLM dependence\" | \"LLM dependency\" | \"dependence on LLM\" | \"dependency on LLM\" | \"addiction to LLM\" | \"problematic LLM use\" | \"problematic use of LLM\" | \"excessive LLM use\" | \"excessive use of LLM\" | \"compulsive LLM use\" | \"compulsive use of LLM\"",
+          "count": 85
+        },
+        {
+          "query": "\"addictive LLM use\" | \"addictive use of LLM\" | \"LLM use disorder\" | \"problematic LLM usage\" | \"excessive LLM usage\" | \"compulsive LLM usage\" | \"addictive LLM usage\" | \"LLMs addiction\" | \"LLMs dependence\" | \"LLMs dependency\" | \"dependence on LLMs\" | \"dependency on LLMs\" | \"addiction to LLMs\" | \"problematic LLMs use\" | \"problematic use of LLMs\" | \"excessive LLMs use\" | \"excessive use of LLMs\" | \"compulsive LLMs use\" | \"compulsive use of LLMs\" | \"addictive LLMs use\" | \"addictive use of LLMs\" | \"LLMs use disorder\" | \"problematic LLMs usage\" | \"excessive LLMs usage\" | \"compulsive LLMs usage\" | \"addictive LLMs usage\" | \"large language model addiction\" | \"large language model dependence\" | \"large language model dependency\" | \"dependence on large language model\"",
+          "count": 85
+        },
+        {
+          "query": "\"dependency on large language model\" | \"addiction to large language model\" | \"problematic large language model use\" | \"problematic use of large language model\" | \"excessive large language model use\" | \"excessive use of large language model\" | \"compulsive large language model use\" | \"compulsive use of large language model\" | \"addictive large language model use\" | \"addictive use of large language model\" | \"large language model use disorder\" | \"problematic large language model usage\" | \"excessive large language model usage\" | \"compulsive large language model usage\" | \"addictive large language model usage\" | \"large language models addiction\" | \"large language models dependence\" | \"large language models dependency\" | \"dependence on large language models\" | \"dependency on large language models\" | \"addiction to large language models\" | \"problematic large language models use\" | \"problematic use of large language models\" | \"excessive large language models use\" | \"excessive use of large language models\" | \"compulsive large language models use\" | \"compulsive use of large language models\" | \"addictive large language models use\" | \"addictive use of large language models\" | \"large language models use disorder\"",
+          "count": 36
+        },
+        {
+          "query": "\"problematic large language models usage\" | \"excessive large language models usage\" | \"compulsive large language models usage\" | \"addictive large language models usage\" | \"AI companion addiction\" | \"AI companion dependence\" | \"AI companion dependency\" | \"dependence on AI companion\" | \"dependency on AI companion\" | \"addiction to AI companion\" | \"problematic AI companion use\" | \"problematic use of AI companion\" | \"excessive AI companion use\" | \"excessive use of AI companion\" | \"compulsive AI companion use\" | \"compulsive use of AI companion\" | \"addictive AI companion use\" | \"addictive use of AI companion\" | \"AI companion use disorder\" | \"problematic AI companion usage\" | \"excessive AI companion usage\" | \"compulsive AI companion usage\" | \"addictive AI companion usage\" | \"AI companions addiction\" | \"AI companions dependence\" | \"AI companions dependency\" | \"dependence on AI companions\" | \"dependency on AI companions\" | \"addiction to AI companions\" | \"problematic AI companions use\"",
+          "count": 1
+        },
+        {
+          "query": "\"problematic use of AI companions\" | \"excessive AI companions use\" | \"excessive use of AI companions\" | \"compulsive AI companions use\" | \"compulsive use of AI companions\" | \"addictive AI companions use\" | \"addictive use of AI companions\" | \"AI companions use disorder\" | \"problematic AI companions usage\" | \"excessive AI companions usage\" | \"compulsive AI companions usage\" | \"addictive AI companions usage\" | \"AI tools addiction\" | \"AI tools dependence\" | \"AI tools dependency\" | \"dependence on AI tools\" | \"dependency on AI tools\" | \"addiction to AI tools\" | \"problematic AI tools use\" | \"problematic use of AI tools\" | \"excessive AI tools use\" | \"excessive use of AI tools\" | \"compulsive AI tools use\" | \"compulsive use of AI tools\" | \"addictive AI tools use\" | \"addictive use of AI tools\" | \"AI tools use disorder\" | \"problematic AI tools usage\" | \"excessive AI tools usage\" | \"compulsive AI tools usage\"",
+          "count": 87
+        },
+        {
+          "query": "\"addictive AI tools usage\" | \"AI technology addiction\" | \"AI technology dependence\" | \"AI technology dependency\" | \"dependence on AI technology\" | \"dependency on AI technology\" | \"addiction to AI technology\" | \"problematic AI technology use\" | \"problematic use of AI technology\" | \"excessive AI technology use\" | \"excessive use of AI technology\" | \"compulsive AI technology use\" | \"compulsive use of AI technology\" | \"addictive AI technology use\" | \"addictive use of AI technology\" | \"AI technology use disorder\" | \"problematic AI technology usage\" | \"excessive AI technology usage\" | \"compulsive AI technology usage\" | \"addictive AI technology usage\" | \"Replika addiction\" | \"Replika dependence\" | \"Replika dependency\" | \"dependence on Replika\" | \"dependency on Replika\" | \"addiction to Replika\" | \"problematic Replika use\" | \"problematic use of Replika\" | \"excessive Replika use\" | \"excessive use of Replika\"",
+          "count": 30
+        },
+        {
+          "query": "\"compulsive Replika use\" | \"compulsive use of Replika\" | \"addictive Replika use\" | \"addictive use of Replika\" | \"Replika use disorder\" | \"problematic Replika usage\" | \"excessive Replika usage\" | \"compulsive Replika usage\" | \"addictive Replika usage\"",
+          "count": 0
+        },
+        {
+          "query": "(\"overreliance on AI\" | \"over-reliance on AI\" | \"AI overreliance\" | \"AI over-reliance\" | \"AI overuse\" | \"overuse of AI\" | \"overreliance on artificial intelligence\" | \"over-reliance on artificial intelligence\" | \"artificial intelligence overreliance\" | \"artificial intelligence over-reliance\" | \"artificial intelligence overuse\" | \"overuse of artificial intelligence\" | \"overreliance on ChatGPT\" | \"over-reliance on ChatGPT\" | \"ChatGPT overreliance\" | \"ChatGPT over-reliance\" | \"ChatGPT overuse\" | \"overuse of ChatGPT\" | \"overreliance on GenAI\" | \"over-reliance on GenAI\" | \"GenAI overreliance\" | \"GenAI over-reliance\" | \"GenAI overuse\" | \"overuse of GenAI\" | \"overreliance on generative AI\" | \"over-reliance on generative AI\" | \"generative AI overreliance\" | \"generative AI over-reliance\" | \"generative AI overuse\" | \"overuse of generative AI\") + (scale | questionnaire | survey | inventory | respondents | \"self-report\")",
+          "count": 435
+        },
+        {
+          "query": "(\"overreliance on generative artificial intelligence\" | \"over-reliance on generative artificial intelligence\" | \"generative artificial intelligence overreliance\" | \"generative artificial intelligence over-reliance\" | \"generative artificial intelligence overuse\" | \"overuse of generative artificial intelligence\" | \"overreliance on chatbot\" | \"over-reliance on chatbot\" | \"chatbot overreliance\" | \"chatbot over-reliance\" | \"chatbot overuse\" | \"overuse of chatbot\" | \"overreliance on chatbots\" | \"over-reliance on chatbots\" | \"chatbots overreliance\" | \"chatbots over-reliance\" | \"chatbots overuse\" | \"overuse of chatbots\" | \"overreliance on AI chatbots\" | \"over-reliance on AI chatbots\" | \"AI chatbots overreliance\" | \"AI chatbots over-reliance\" | \"AI chatbots overuse\" | \"overuse of AI chatbots\" | \"overreliance on conversational agent\" | \"over-reliance on conversational agent\" | \"conversational agent overreliance\" | \"conversational agent over-reliance\" | \"conversational agent overuse\" | \"overuse of conversational agent\") + (scale | questionnaire | survey | inventory | respondents | \"self-report\")",
+          "count": 10
+        },
+        {
+          "query": "(\"overreliance on conversational agents\" | \"over-reliance on conversational agents\" | \"conversational agents overreliance\" | \"conversational agents over-reliance\" | \"conversational agents overuse\" | \"overuse of conversational agents\" | \"overreliance on conversational AI\" | \"over-reliance on conversational AI\" | \"conversational AI overreliance\" | \"conversational AI over-reliance\" | \"conversational AI overuse\" | \"overuse of conversational AI\" | \"overreliance on LLM\" | \"over-reliance on LLM\" | \"LLM overreliance\" | \"LLM over-reliance\" | \"LLM overuse\" | \"overuse of LLM\" | \"overreliance on LLMs\" | \"over-reliance on LLMs\" | \"LLMs overreliance\" | \"LLMs over-reliance\" | \"LLMs overuse\" | \"overuse of LLMs\" | \"overreliance on large language model\" | \"over-reliance on large language model\" | \"large language model overreliance\" | \"large language model over-reliance\" | \"large language model overuse\" | \"overuse of large language model\") + (scale | questionnaire | survey | inventory | respondents | \"self-report\")",
+          "count": 8
+        },
+        {
+          "query": "(\"overreliance on large language models\" | \"over-reliance on large language models\" | \"large language models overreliance\" | \"large language models over-reliance\" | \"large language models overuse\" | \"overuse of large language models\" | \"overreliance on AI companion\" | \"over-reliance on AI companion\" | \"AI companion overreliance\" | \"AI companion over-reliance\" | \"AI companion overuse\" | \"overuse of AI companion\" | \"overreliance on AI companions\" | \"over-reliance on AI companions\" | \"AI companions overreliance\" | \"AI companions over-reliance\" | \"AI companions overuse\" | \"overuse of AI companions\" | \"overreliance on AI tools\" | \"over-reliance on AI tools\" | \"AI tools overreliance\" | \"AI tools over-reliance\" | \"AI tools overuse\" | \"overuse of AI tools\" | \"overreliance on AI technology\" | \"over-reliance on AI technology\" | \"AI technology overreliance\" | \"AI technology over-reliance\" | \"AI technology overuse\" | \"overuse of AI technology\") + (scale | questionnaire | survey | inventory | respondents | \"self-report\")",
+          "count": 50
+        },
+        {
+          "query": "(\"overreliance on Replika\" | \"over-reliance on Replika\" | \"Replika overreliance\" | \"Replika over-reliance\" | \"Replika overuse\" | \"overuse of Replika\") + (scale | questionnaire | survey | inventory | respondents | \"self-report\")",
+          "count": 0
+        },
+        {
+          "query": "(\"AI friend\" | \"AI friends\" | \"AI friendship\" | \"AI companion\" | \"AI companions\" | \"social chatbot\" | \"social chatbots\" | \"companion chatbot\" | \"companion chatbots\" | \"Replika\" | \"Character.AI\" | \"Xiaoice\" | \"AI girlfriend\" | \"AI boyfriend\") + (addiction | addicted | addictive | dependence | dependency | compulsive | problematic)",
+          "count": 104
+        }
+      ]
+    },
+    "searched_at_utc": "2026-10-16T14:59:42+00:00",
+    "seconds": 343.1
+  },
+  "crossref": {
+    "records": 1168,
+    "meta": {
+      "queries": {
+        "AI dependence": {
+          "scanned": 3000,
+          "kept_new": 278
+        },
+        "AI dependency": {
+          "scanned": 3000,
+          "kept_new": 343
+        },
+        "AI addiction": {
+          "scanned": 2000,
+          "kept_new": 79
+        },
+        "ChatGPT addiction": {
+          "scanned": 2000,
+          "kept_new": 16
+        },
+        "ChatGPT dependence": {
+          "scanned": 3000,
+          "kept_new": 57
+        },
+        "problematic ChatGPT use": {
+          "scanned": 3000,
+          "kept_new": 41
+        },
+        "problematic AI use": {
+          "scanned": 3000,
+          "kept_new": 40
+        },
+        "generative AI dependence": {
+          "scanned": 3000,
+          "kept_new": 38
+        },
+        "generative AI addiction": {
+          "scanned": 3000,
+          "kept_new": 5
+        },
+        "chatbot addiction": {
+          "scanned": 2000,
+          "kept_new": 8
+        },
+        "chatbot dependence": {
+          "scanned": 3000,
+          "kept_new": 21
+        },
+        "artificial intelligence dependence": {
+          "scanned": 3000,
+          "kept_new": 46
+        },
+        "artificial intelligence addiction": {
+          "scanned": 3000,
+          "kept_new": 54
+        },
+        "dependence on artificial intelligence": {
+          "scanned": 3000,
+          "kept_new": 1
+        },
+        "AI companion dependence": {
+          "scanned": 3000,
+          "kept_new": 19
+        },
+        "emotional dependence on AI": {
+          "scanned": 3000,
+          "kept_new": 39
+        },
+        "large language model dependence": {
+          "scanned": 3000,
+          "kept_new": 48
+        },
+        "conversational AI dependence": {
+          "scanned": 3000,
+          "kept_new": 35
+        }
+      }
+    },
+    "searched_at_utc": "2026-10-16T15:01:16+00:00",
+    "seconds": 93.9
+  },
+  "datacite": {
+    "records": 1632,
+    "meta": {
+      "queries": [
+        {
+          "query": "titles.title:(\"AI addiction\" OR \"AI dependence\" OR \"AI dependency\" OR \"dependence on AI\" OR \"dependency on AI\" OR \"addiction to AI\" OR \"problematic AI use\" OR \"problematic use of AI\" OR \"excessive AI use\" OR \"excessive use of AI\" OR \"compulsive AI use\" OR \"compulsive use of AI\" OR \"addictive AI use\" OR \"addictive use of AI\" OR \"AI use disorder\" OR \"problematic AI usage\" OR \"excessive AI usage\" OR \"compulsive AI usage\" OR \"addictive AI usage\" OR \"artificial intelligence addiction\" OR \"artificial intelligence dependence\" OR \"artificial intelligence dependency\" OR \"dependence on artificial intelligence\" OR \"dependency on artificial intelligence\" OR \"addiction to artificial intelligence\" OR \"problematic artificial intelligence use\" OR \"problematic use of artificial intelligence\" OR \"excessive artificial intelligence use\" OR \"excessive use of artificial intelligence\" OR \"compulsive artificial intelligence use\" OR \"compulsive use of artificial intelligence\" OR \"addictive artificial intelligence use\" OR \"addictive use of artificial intelligence\" OR \"artificial intelligence use disorder\" OR \"problematic artificial intelligence usage\" OR \"excessive artificial intelligence usage\" OR \"compulsive artificial intelligence usage\" OR \"addictive artificial intelligence usage\" OR \"ChatGPT addiction\" OR \"ChatGPT dependence\") OR descriptions.description:(\"AI addiction\" OR \"AI dependence\" OR \"AI dependency\" OR \"dependence on AI\" OR \"dependency on AI\" OR \"addiction to AI\" OR \"problematic AI use\" OR \"problematic use of AI\" OR \"excessive AI use\" OR \"excessive use of AI\" OR \"compulsive AI use\" OR \"compulsive use of AI\" OR \"addictive AI use\" OR \"addictive use of AI\" OR \"AI use disorder\" OR \"problematic AI usage\" OR \"excessive AI usage\" OR \"compulsive AI usage\" OR \"addictive AI usage\" OR \"artificial intelligence addiction\" OR \"artificial intelligence dependence\" OR \"artificial intelligence dependency\" OR \"dependence on artificial intelligence\" OR \"dependency on artificial intelligence\" OR \"addiction to artificial intelligence\" OR \"problematic artificial intelligence use\" OR \"problematic use of artificial intelligence\" OR \"excessive artificial intelligence use\" OR \"excessive use of artificial intelligence\" OR \"compulsive artificial intelligence use\" OR \"compulsive use of artificial intelligence\" OR \"addictive artificial intelligence use\" OR \"addictive use of artificial intelligence\" OR \"artificial intelligence use disorder\" OR \"problematic artificial intelligence usage\" OR \"excessive artificial intelligence usage\" OR \"compulsive artificial intelligence usage\" OR \"addictive artificial intelligence usage\" OR \"ChatGPT addiction\" OR \"ChatGPT dependence\") OR subjects.subject:(\"AI addiction\" OR \"AI dependence\" OR \"AI dependency\" OR \"dependence on AI\" OR \"dependency on AI\" OR \"addiction to AI\" OR \"problematic AI use\" OR \"problematic use of AI\" OR \"excessive AI use\" OR \"excessive use of AI\" OR \"compulsive AI use\" OR \"compulsive use of AI\" OR \"addictive AI use\" OR \"addictive use of AI\" OR \"AI use disorder\" OR \"problematic AI usage\" OR \"excessive AI usage\" OR \"compulsive AI usage\" OR \"addictive AI usage\" OR \"artificial intelligence addiction\" OR \"artificial intelligence dependence\" OR \"artificial intelligence dependency\" OR \"dependence on artificial intelligence\" OR \"dependency on artificial intelligence\" OR \"addiction to artificial intelligence\" OR \"problematic artificial intelligence use\" OR \"problematic use of artificial intelligence\" OR \"excessive artificial intelligence use\" OR \"excessive use of artificial intelligence\" OR \"compulsive artificial intelligence use\" OR \"compulsive use of artificial intelligence\" OR \"addictive artificial intelligence use\" OR \"addictive use of artificial intelligence\" OR \"artificial intelligence use disorder\" OR \"problematic artificial intelligence usage\" OR \"excessive artificial intelligence usage\" OR \"compulsive artificial intelligence usage\" OR \"addictive artificial intelligence usage\" OR \"ChatGPT addiction\" OR \"ChatGPT dependence\")",
+          "total": 1135
+        },
+        {
+          "query": "titles.title:(\"ChatGPT dependency\" OR \"dependence on ChatGPT\" OR \"dependency on ChatGPT\" OR \"addiction to ChatGPT\" OR \"problematic ChatGPT use\" OR \"problematic use of ChatGPT\" OR \"excessive ChatGPT use\" OR \"excessive use of ChatGPT\" OR \"compulsive ChatGPT use\" OR \"compulsive use of ChatGPT\" OR \"addictive ChatGPT use\" OR \"addictive use of ChatGPT\" OR \"ChatGPT use disorder\" OR \"problematic ChatGPT usage\" OR \"excessive ChatGPT usage\" OR \"compulsive ChatGPT usage\" OR \"addictive ChatGPT usage\" OR \"GenAI addiction\" OR \"GenAI dependence\" OR \"GenAI dependency\" OR \"dependence on GenAI\" OR \"dependency on GenAI\" OR \"addiction to GenAI\" OR \"problematic GenAI use\" OR \"problematic use of GenAI\" OR \"excessive GenAI use\" OR \"excessive use of GenAI\" OR \"compulsive GenAI use\" OR \"compulsive use of GenAI\" OR \"addictive GenAI use\" OR \"addictive use of GenAI\" OR \"GenAI use disorder\" OR \"problematic GenAI usage\" OR \"excessive GenAI usage\" OR \"compulsive GenAI usage\" OR \"addictive GenAI usage\" OR \"generative AI addiction\" OR \"generative AI dependence\" OR \"generative AI dependency\" OR \"dependence on generative AI\") OR descriptions.description:(\"ChatGPT dependency\" OR \"dependence on ChatGPT\" OR \"dependency on ChatGPT\" OR \"addiction to ChatGPT\" OR \"problematic ChatGPT use\" OR \"problematic use of ChatGPT\" OR \"excessive ChatGPT use\" OR \"excessive use of ChatGPT\" OR \"compulsive ChatGPT use\" OR \"compulsive use of ChatGPT\" OR \"addictive ChatGPT use\" OR \"addictive use of ChatGPT\" OR \"ChatGPT use disorder\" OR \"problematic ChatGPT usage\" OR \"excessive ChatGPT usage\" OR \"compulsive ChatGPT usage\" OR \"addictive ChatGPT usage\" OR \"GenAI addiction\" OR \"GenAI dependence\" OR \"GenAI dependency\" OR \"dependence on GenAI\" OR \"dependency on GenAI\" OR \"addiction to GenAI\" OR \"problematic GenAI use\" OR \"problematic use of GenAI\" OR \"excessive GenAI use\" OR \"excessive use of GenAI\" OR \"compulsive GenAI use\" OR \"compulsive use of GenAI\" OR \"addictive GenAI use\" OR \"addictive use of GenAI\" OR \"GenAI use disorder\" OR \"problematic GenAI usage\" OR \"excessive GenAI usage\" OR \"compulsive GenAI usage\" OR \"addictive GenAI usage\" OR \"generative AI addiction\" OR \"generative AI dependence\" OR \"generative AI dependency\" OR \"dependence on generative AI\") OR subjects.subject:(\"ChatGPT dependency\" OR \"dependence on ChatGPT\" OR \"dependency on ChatGPT\" OR \"addiction to ChatGPT\" OR \"problematic ChatGPT use\" OR \"problematic use of ChatGPT\" OR \"excessive ChatGPT use\" OR \"excessive use of ChatGPT\" OR \"compulsive ChatGPT use\" OR \"compulsive use of ChatGPT\" OR \"addictive ChatGPT use\" OR \"addictive use of ChatGPT\" OR \"ChatGPT use disorder\" OR \"problematic ChatGPT usage\" OR \"excessive ChatGPT usage\" OR \"compulsive ChatGPT usage\" OR \"addictive ChatGPT usage\" OR \"GenAI addiction\" OR \"GenAI dependence\" OR \"GenAI dependency\" OR \"dependence on GenAI\" OR \"dependency on GenAI\" OR \"addiction to GenAI\" OR \"problematic GenAI use\" OR \"problematic use of GenAI\" OR \"excessive GenAI use\" OR \"excessive use of GenAI\" OR \"compulsive GenAI use\" OR \"compulsive use of GenAI\" OR \"addictive GenAI use\" OR \"addictive use of GenAI\" OR \"GenAI use disorder\" OR \"problematic GenAI usage\" OR \"excessive GenAI usage\" OR \"compulsive GenAI usage\" OR \"addictive GenAI usage\" OR \"generative AI addiction\" OR \"generative AI dependence\" OR \"generative AI dependency\" OR \"dependence on generative AI\")",
+          "total": 99
+        },
+        {
+          "query": "titles.title:(\"dependency on generative AI\" OR \"addiction to generative AI\" OR \"problematic generative AI use\" OR \"problematic use of generative AI\" OR \"excessive generative AI use\" OR \"excessive use of generative AI\" OR \"compulsive generative AI use\" OR \"compulsive use of generative AI\" OR \"addictive generative AI use\" OR \"addictive use of generative AI\" OR \"generative AI use disorder\" OR \"problematic generative AI usage\" OR \"excessive generative AI usage\" OR \"compulsive generative AI usage\" OR \"addictive generative AI usage\" OR \"generative artificial intelligence addiction\" OR \"generative artificial intelligence dependence\" OR \"generative artificial intelligence dependency\" OR \"dependence on generative artificial intelligence\" OR \"dependency on generative artificial intelligence\" OR \"addiction to generative artificial intelligence\" OR \"problematic generative artificial intelligence use\" OR \"problematic use of generative artificial intelligence\" OR \"excessive generative artificial intelligence use\" OR \"excessive use of generative artificial intelligence\" OR \"compulsive generative artificial intelligence use\" OR \"compulsive use of generative artificial intelligence\" OR \"addictive generative artificial intelligence use\" OR \"addictive use of generative artificial intelligence\" OR \"generative artificial intelligence use disorder\" OR \"problematic generative artificial intelligence usage\" OR \"excessive generative artificial intelligence usage\" OR \"compulsive generative artificial intelligence usage\" OR \"addictive generative artificial intelligence usage\" OR \"chatbot addiction\" OR \"chatbot dependence\" OR \"chatbot dependency\" OR \"dependence on chatbot\" OR \"dependency on chatbot\" OR \"addiction to chatbot\") OR descriptions.description:(\"dependency on generative AI\" OR \"addiction to generative AI\" OR \"problematic generative AI use\" OR \"problematic use of generative AI\" OR \"excessive generative AI use\" OR \"excessive use of generative AI\" OR \"compulsive generative AI use\" OR \"compulsive use of generative AI\" OR \"addictive generative AI use\" OR \"addictive use of generative AI\" OR \"generative AI use disorder\" OR \"problematic generative AI usage\" OR \"excessive generative AI usage\" OR \"compulsive generative AI usage\" OR \"addictive generative AI usage\" OR \"generative artificial intelligence addiction\" OR \"generative artificial intelligence dependence\" OR \"generative artificial intelligence dependency\" OR \"dependence on generative artificial intelligence\" OR \"dependency on generative artificial intelligence\" OR \"addiction to generative artificial intelligence\" OR \"problematic generative artificial intelligence use\" OR \"problematic use of generative artificial intelligence\" OR \"excessive generative artificial intelligence use\" OR \"excessive use of generative artificial intelligence\" OR \"compulsive generative artificial intelligence use\" OR \"compulsive use of generative artificial intelligence\" OR \"addictive generative artificial intelligence use\" OR \"addictive use of generative artificial intelligence\" OR \"generative artificial intelligence use disorder\" OR \"problematic generative artificial intelligence usage\" OR \"excessive generative artificial intelligence usage\" OR \"compulsive generative artificial intelligence usage\" OR \"addictive generative artificial intelligence usage\" OR \"chatbot addiction\" OR \"chatbot dependence\" OR \"chatbot dependency\" OR \"dependence on chatbot\" OR \"dependency on chatbot\" OR \"addiction to chatbot\") OR subjects.subject:(\"dependency on generative AI\" OR \"addiction to generative AI\" OR \"problematic generative AI use\" OR \"problematic use of generative AI\" OR \"excessive generative AI use\" OR \"excessive use of generative AI\" OR \"compulsive generative AI use\" OR \"compulsive use of generative AI\" OR \"addictive generative AI use\" OR \"addictive use of generative AI\" OR \"generative AI use disorder\" OR \"problematic generative AI usage\" OR \"excessive generative AI usage\" OR \"compulsive generative AI usage\" OR \"addictive generative AI usage\" OR \"generative artificial intelligence addiction\" OR \"generative artificial intelligence dependence\" OR \"generative artificial intelligence dependency\" OR \"dependence on generative artificial intelligence\" OR \"dependency on generative artificial intelligence\" OR \"addiction to generative artificial intelligence\" OR \"problematic generative artificial intelligence use\" OR \"problematic use of generative artificial intelligence\" OR \"excessive generative artificial intelligence use\" OR \"excessive use of generative artificial intelligence\" OR \"compulsive generative artificial intelligence use\" OR \"compulsive use of generative artificial intelligence\" OR \"addictive generative artificial intelligence use\" OR \"addictive use of generative artificial intelligence\" OR \"generative artificial intelligence use disorder\" OR \"problematic generative artificial intelligence usage\" OR \"excessive generative artificial intelligence usage\" OR \"compulsive generative artificial intelligence usage\" OR \"addictive generative artificial intelligence usage\" OR \"chatbot addiction\" OR \"chatbot dependence\" OR \"chatbot dependency\" OR \"dependence on chatbot\" OR \"dependency on chatbot\" OR \"addiction to chatbot\")",
+          "total": 58
+        },
+        {
+          "query": "titles.title:(\"problematic chatbot use\" OR \"problematic use of chatbot\" OR \"excessive chatbot use\" OR \"excessive use of chatbot\" OR \"compulsive chatbot use\" OR \"compulsive use of chatbot\" OR \"addictive chatbot use\" OR \"addictive use of chatbot\" OR \"chatbot use disorder\" OR \"problematic chatbot usage\" OR \"excessive chatbot usage\" OR \"compulsive chatbot usage\" OR \"addictive chatbot usage\" OR \"chatbots addiction\" OR \"chatbots dependence\" OR \"chatbots dependency\" OR \"dependence on chatbots\" OR \"dependency on chatbots\" OR \"addiction to chatbots\" OR \"problematic chatbots use\" OR \"problematic use of chatbots\" OR \"excessive chatbots use\" OR \"excessive use of chatbots\" OR \"compulsive chatbots use\" OR \"compulsive use of chatbots\" OR \"addictive chatbots use\" OR \"addictive use of chatbots\" OR \"chatbots use disorder\" OR \"problematic chatbots usage\" OR \"excessive chatbots usage\" OR \"compulsive chatbots usage\" OR \"addictive chatbots usage\" OR \"AI chatbots addiction\" OR \"AI chatbots dependence\" OR \"AI chatbots dependency\" OR \"dependence on AI chatbots\" OR \"dependency on AI chatbots\" OR \"addiction to AI chatbots\" OR \"problematic AI chatbots use\" OR \"problematic use of AI chatbots\") OR descriptions.description:(\"problematic chatbot use\" OR \"problematic use of chatbot\" OR \"excessive chatbot use\" OR \"excessive use of chatbot\" OR \"compulsive chatbot use\" OR \"compulsive use of chatbot\" OR \"addictive chatbot use\" OR \"addictive use of chatbot\" OR \"chatbot use disorder\" OR \"problematic chatbot usage\" OR \"excessive chatbot usage\" OR \"compulsive chatbot usage\" OR \"addictive chatbot usage\" OR \"chatbots addiction\" OR \"chatbots dependence\" OR \"chatbots dependency\" OR \"dependence on chatbots\" OR \"dependency on chatbots\" OR \"addiction to chatbots\" OR \"problematic chatbots use\" OR \"problematic use of chatbots\" OR \"excessive chatbots use\" OR \"excessive use of chatbots\" OR \"compulsive chatbots use\" OR \"compulsive use of chatbots\" OR \"addictive chatbots use\" OR \"addictive use of chatbots\" OR \"chatbots use disorder\" OR \"problematic chatbots usage\" OR \"excessive chatbots usage\" OR \"compulsive chatbots usage\" OR \"addictive chatbots usage\" OR \"AI chatbots addiction\" OR \"AI chatbots dependence\" OR \"AI chatbots dependency\" OR \"dependence on AI chatbots\" OR \"dependency on AI chatbots\" OR \"addiction to AI chatbots\" OR \"problematic AI chatbots use\" OR \"problematic use of AI chatbots\") OR subjects.subject:(\"problematic chatbot use\" OR \"problematic use of chatbot\" OR \"excessive chatbot use\" OR \"excessive use of chatbot\" OR \"compulsive chatbot use\" OR \"compulsive use of chatbot\" OR \"addictive chatbot use\" OR \"addictive use of chatbot\" OR \"chatbot use disorder\" OR \"problematic chatbot usage\" OR \"excessive chatbot usage\" OR \"compulsive chatbot usage\" OR \"addictive chatbot usage\" OR \"chatbots addiction\" OR \"chatbots dependence\" OR \"chatbots dependency\" OR \"dependence on chatbots\" OR \"dependency on chatbots\" OR \"addiction to chatbots\" OR \"problematic chatbots use\" OR \"problematic use of chatbots\" OR \"excessive chatbots use\" OR \"excessive use of chatbots\" OR \"compulsive chatbots use\" OR \"compulsive use of chatbots\" OR \"addictive chatbots use\" OR \"addictive use of chatbots\" OR \"chatbots use disorder\" OR \"problematic chatbots usage\" OR \"excessive chatbots usage\" OR \"compulsive chatbots usage\" OR \"addictive chatbots usage\" OR \"AI chatbots addiction\" OR \"AI chatbots dependence\" OR \"AI chatbots dependency\" OR \"dependence on AI chatbots\" OR \"dependency on AI chatbots\" OR \"addiction to AI chatbots\" OR \"problematic AI chatbots use\" OR \"problematic use of AI chatbots\")",
+          "total": 26
+        },
+        {
+          "query": "titles.title:(\"excessive AI chatbots use\" OR \"excessive use of AI chatbots\" OR \"compulsive AI chatbots use\" OR \"compulsive use of AI chatbots\" OR \"addictive AI chatbots use\" OR \"addictive use of AI chatbots\" OR \"AI chatbots use disorder\" OR \"problematic AI chatbots usage\" OR \"excessive AI chatbots usage\" OR \"compulsive AI chatbots usage\" OR \"addictive AI chatbots usage\" OR \"conversational agent addiction\" OR \"conversational agent dependence\" OR \"conversational agent dependency\" OR \"dependence on conversational agent\" OR \"dependency on conversational agent\" OR \"addiction to conversational agent\" OR \"problematic conversational agent use\" OR \"problematic use of conversational agent\" OR \"excessive conversational agent use\" OR \"excessive use of conversational agent\" OR \"compulsive conversational agent use\" OR \"compulsive use of conversational agent\" OR \"addictive conversational agent use\" OR \"addictive use of conversational agent\" OR \"conversational agent use disorder\" OR \"problematic conversational agent usage\" OR \"excessive conversational agent usage\" OR \"compulsive conversational agent usage\" OR \"addictive conversational agent usage\" OR \"conversational agents addiction\" OR \"conversational agents dependence\" OR \"conversational agents dependency\" OR \"dependence on conversational agents\" OR \"dependency on conversational agents\" OR \"addiction to conversational agents\" OR \"problematic conversational agents use\" OR \"problematic use of conversational agents\" OR \"excessive conversational agents use\" OR \"excessive use of conversational agents\") OR descriptions.description:(\"excessive AI chatbots use\" OR \"excessive use of AI chatbots\" OR \"compulsive AI chatbots use\" OR \"compulsive use of AI chatbots\" OR \"addictive AI chatbots use\" OR \"addictive use of AI chatbots\" OR \"AI chatbots use disorder\" OR \"problematic AI chatbots usage\" OR \"excessive AI chatbots usage\" OR \"compulsive AI chatbots usage\" OR \"addictive AI chatbots usage\" OR \"conversational agent addiction\" OR \"conversational agent dependence\" OR \"conversational agent dependency\" OR \"dependence on conversational agent\" OR \"dependency on conversational agent\" OR \"addiction to conversational agent\" OR \"problematic conversational agent use\" OR \"problematic use of conversational agent\" OR \"excessive conversational agent use\" OR \"excessive use of conversational agent\" OR \"compulsive conversational agent use\" OR \"compulsive use of conversational agent\" OR \"addictive conversational agent use\" OR \"addictive use of conversational agent\" OR \"conversational agent use disorder\" OR \"problematic conversational agent usage\" OR \"excessive conversational agent usage\" OR \"compulsive conversational agent usage\" OR \"addictive conversational agent usage\" OR \"conversational agents addiction\" OR \"conversational agents dependence\" OR \"conversational agents dependency\" OR \"dependence on conversational agents\" OR \"dependency on conversational agents\" OR \"addiction to conversational agents\" OR \"problematic conversational agents use\" OR \"problematic use of conversational agents\" OR \"excessive conversational agents use\" OR \"excessive use of conversational agents\") OR subjects.subject:(\"excessive AI chatbots use\" OR \"excessive use of AI chatbots\" OR \"compulsive AI chatbots use\" OR \"compulsive use of AI chatbots\" OR \"addictive AI chatbots use\" OR \"addictive use of AI chatbots\" OR \"AI chatbots use disorder\" OR \"problematic AI chatbots usage\" OR \"excessive AI chatbots usage\" OR \"compulsive AI chatbots usage\" OR \"addictive AI chatbots usage\" OR \"conversational agent addiction\" OR \"conversational agent dependence\" OR \"conversational agent dependency\" OR \"dependence on conversational agent\" OR \"dependency on conversational agent\" OR \"addiction to conversational agent\" OR \"problematic conversational agent use\" OR \"problematic use of conversational agent\" OR \"excessive conversational agent use\" OR \"excessive use of conversational agent\" OR \"compulsive conversational agent use\" OR \"compulsive use of conversational agent\" OR \"addictive conversational agent use\" OR \"addictive use of conversational agent\" OR \"conversational agent use disorder\" OR \"problematic conversational agent usage\" OR \"excessive conversational agent usage\" OR \"compulsive conversational agent usage\" OR \"addictive conversational agent usage\" OR \"conversational agents addiction\" OR \"conversational agents dependence\" OR \"conversational agents dependency\" OR \"dependence on conversational agents\" OR \"dependency on conversational agents\" OR \"addiction to conversational agents\" OR \"problematic conversational agents use\" OR \"problematic use of conversational agents\" OR \"excessive conversational agents use\" OR \"excessive use of conversational agents\")",
+          "total": 0
+        },
+        {
+          "query": "titles.title:(\"compulsive conversational agents use\" OR \"compulsive use of conversational agents\" OR \"addictive conversational agents use\" OR \"addictive use of conversational agents\" OR \"conversational agents use disorder\" OR \"problematic conversational agents usage\" OR \"excessive conversational agents usage\" OR \"compulsive conversational agents usage\" OR \"addictive conversational agents usage\" OR \"conversational AI addiction\" OR \"conversational AI dependence\" OR \"conversational AI dependency\" OR \"dependence on conversational AI\" OR \"dependency on conversational AI\" OR \"addiction to conversational AI\" OR \"problematic conversational AI use\" OR \"problematic use of conversational AI\" OR \"excessive conversational AI use\" OR \"excessive use of conversational AI\" OR \"compulsive conversational AI use\" OR \"compulsive use of conversational AI\" OR \"addictive conversational AI use\" OR \"addictive use of conversational AI\" OR \"conversational AI use disorder\" OR \"problematic conversational AI usage\" OR \"excessive conversational AI usage\" OR \"compulsive conversational AI usage\" OR \"addictive conversational AI usage\" OR \"LLM addiction\" OR \"LLM dependence\" OR \"LLM dependency\" OR \"dependence on LLM\" OR \"dependency on LLM\" OR \"addiction to LLM\" OR \"problematic LLM use\" OR \"problematic use of LLM\" OR \"excessive LLM use\" OR \"excessive use of LLM\" OR \"compulsive LLM use\" OR \"compulsive use of LLM\") OR descriptions.description:(\"compulsive conversational agents use\" OR \"compulsive use of conversational agents\" OR \"addictive conversational agents use\" OR \"addictive use of conversational agents\" OR \"conversational agents use disorder\" OR \"problematic conversational agents usage\" OR \"excessive conversational agents usage\" OR \"compulsive conversational agents usage\" OR \"addictive conversational agents usage\" OR \"conversational AI addiction\" OR \"conversational AI dependence\" OR \"conversational AI dependency\" OR \"dependence on conversational AI\" OR \"dependency on conversational AI\" OR \"addiction to conversational AI\" OR \"problematic conversational AI use\" OR \"problematic use of conversational AI\" OR \"excessive conversational AI use\" OR \"excessive use of conversational AI\" OR \"compulsive conversational AI use\" OR \"compulsive use of conversational AI\" OR \"addictive conversational AI use\" OR \"addictive use of conversational AI\" OR \"conversational AI use disorder\" OR \"problematic conversational AI usage\" OR \"excessive conversational AI usage\" OR \"compulsive conversational AI usage\" OR \"addictive conversational AI usage\" OR \"LLM addiction\" OR \"LLM dependence\" OR \"LLM dependency\" OR \"dependence on LLM\" OR \"dependency on LLM\" OR \"addiction to LLM\" OR \"problematic LLM use\" OR \"problematic use of LLM\" OR \"excessive LLM use\" OR \"excessive use of LLM\" OR \"compulsive LLM use\" OR \"compulsive use of LLM\") OR subjects.subject:(\"compulsive conversational agents use\" OR \"compulsive use of conversational agents\" OR \"addictive conversational agents use\" OR \"addictive use of conversational agents\" OR \"conversational agents use disorder\" OR \"problematic conversational agents usage\" OR \"excessive conversational agents usage\" OR \"compulsive conversational agents usage\" OR \"addictive conversational agents usage\" OR \"conversational AI addiction\" OR \"conversational AI dependence\" OR \"conversational AI dependency\" OR \"dependence on conversational AI\" OR \"dependency on conversational AI\" OR \"addiction to conversational AI\" OR \"problematic conversational AI use\" OR \"problematic use of conversational AI\" OR \"excessive conversational AI use\" OR \"excessive use of conversational AI\" OR \"compulsive conversational AI use\" OR \"compulsive use of conversational AI\" OR \"addictive conversational AI use\" OR \"addictive use of conversational AI\" OR \"conversational AI use disorder\" OR \"problematic conversational AI usage\" OR \"excessive conversational AI usage\" OR \"compulsive conversational AI usage\" OR \"addictive conversational AI usage\" OR \"LLM addiction\" OR \"LLM dependence\" OR \"LLM dependency\" OR \"dependence on LLM\" OR \"dependency on LLM\" OR \"addiction to LLM\" OR \"problematic LLM use\" OR \"problematic use of LLM\" OR \"excessive LLM use\" OR \"excessive use of LLM\" OR \"compulsive LLM use\" OR \"compulsive use of LLM\")",
+          "total": 75
+        },
+        {
+          "query": "titles.title:(\"addictive LLM use\" OR \"addictive use of LLM\" OR \"LLM use disorder\" OR \"problematic LLM usage\" OR \"excessive LLM usage\" OR \"compulsive LLM usage\" OR \"addictive LLM usage\" OR \"LLMs addiction\" OR \"LLMs dependence\" OR \"LLMs dependency\" OR \"dependence on LLMs\" OR \"dependency on LLMs\" OR \"addiction to LLMs\" OR \"problematic LLMs use\" OR \"problematic use of LLMs\" OR \"excessive LLMs use\" OR \"excessive use of LLMs\" OR \"compulsive LLMs use\" OR \"compulsive use of LLMs\" OR \"addictive LLMs use\" OR \"addictive use of LLMs\" OR \"LLMs use disorder\" OR \"problematic LLMs usage\" OR \"excessive LLMs usage\" OR \"compulsive LLMs usage\" OR \"addictive LLMs usage\" OR \"large language model addiction\" OR \"large language model dependence\" OR \"large language model dependency\" OR \"dependence on large language model\" OR \"dependency on large language model\" OR \"addiction to large language model\" OR \"problematic large language model use\" OR \"problematic use of large language model\" OR \"excessive large language model use\" OR \"excessive use of large language model\" OR \"compulsive large language model use\" OR \"compulsive use of large language model\" OR \"addictive large language model use\" OR \"addictive use of large language model\") OR descriptions.description:(\"addictive LLM use\" OR \"addictive use of LLM\" OR \"LLM use disorder\" OR \"problematic LLM usage\" OR \"excessive LLM usage\" OR \"compulsive LLM usage\" OR \"addictive LLM usage\" OR \"LLMs addiction\" OR \"LLMs dependence\" OR \"LLMs dependency\" OR \"dependence on LLMs\" OR \"dependency on LLMs\" OR \"addiction to LLMs\" OR \"problematic LLMs use\" OR \"problematic use of LLMs\" OR \"excessive LLMs use\" OR \"excessive use of LLMs\" OR \"compulsive LLMs use\" OR \"compulsive use of LLMs\" OR \"addictive LLMs use\" OR \"addictive use of LLMs\" OR \"LLMs use disorder\" OR \"problematic LLMs usage\" OR \"excessive LLMs usage\" OR \"compulsive LLMs usage\" OR \"addictive LLMs usage\" OR \"large language model addiction\" OR \"large language model dependence\" OR \"large language model dependency\" OR \"dependence on large language model\" OR \"dependency on large language model\" OR \"addiction to large language model\" OR \"problematic large language model use\" OR \"problematic use of large language model\" OR \"excessive large language model use\" OR \"excessive use of large language model\" OR \"compulsive large language model use\" OR \"compulsive use of large language model\" OR \"addictive large language model use\" OR \"addictive use of large language model\") OR subjects.subject:(\"addictive LLM use\" OR \"addictive use of LLM\" OR \"LLM use disorder\" OR \"problematic LLM usage\" OR \"excessive LLM usage\" OR \"compulsive LLM usage\" OR \"addictive LLM usage\" OR \"LLMs addiction\" OR \"LLMs dependence\" OR \"LLMs dependency\" OR \"dependence on LLMs\" OR \"dependency on LLMs\" OR \"addiction to LLMs\" OR \"problematic LLMs use\" OR \"problematic use of LLMs\" OR \"excessive LLMs use\" OR \"excessive use of LLMs\" OR \"compulsive LLMs use\" OR \"compulsive use of LLMs\" OR \"addictive LLMs use\" OR \"addictive use of LLMs\" OR \"LLMs use disorder\" OR \"problematic LLMs usage\" OR \"excessive LLMs usage\" OR \"compulsive LLMs usage\" OR \"addictive LLMs usage\" OR \"large language model addiction\" OR \"large language model dependence\" OR \"large language model dependency\" OR \"dependence on large language model\" OR \"dependency on large language model\" OR \"addiction to large language model\" OR \"problematic large language model use\" OR \"problematic use of large language model\" OR \"excessive large language model use\" OR \"excessive use of large language model\" OR \"compulsive large language model use\" OR \"compulsive use of large language model\" OR \"addictive large language model use\" OR \"addictive use of large language model\")",
+          "total": 36
+        },
+        {
+          "query": "titles.title:(\"large language model use disorder\" OR \"problematic large language model usage\" OR \"excessive large language model usage\" OR \"compulsive large language model usage\" OR \"addictive large language model usage\" OR \"large language models addiction\" OR \"large language models dependence\" OR \"large language models dependency\" OR \"dependence on large language models\" OR \"dependency on large language models\" OR \"addiction to large language models\" OR \"problematic large language models use\" OR \"problematic use of large language models\" OR \"excessive large language models use\" OR \"excessive use of large language models\" OR \"compulsive large language models use\" OR \"compulsive use of large language models\" OR \"addictive large language models use\" OR \"addictive use of large language models\" OR \"large language models use disorder\" OR \"problematic large language models usage\" OR \"excessive large language models usage\" OR \"compulsive large language models usage\" OR \"addictive large language models usage\" OR \"AI companion addiction\" OR \"AI companion dependence\" OR \"AI companion dependency\" OR \"dependence on AI companion\" OR \"dependency on AI companion\" OR \"addiction to AI companion\" OR \"problematic AI companion use\" OR \"problematic use of AI companion\" OR \"excessive AI companion use\" OR \"excessive use of AI companion\" OR \"compulsive AI companion use\" OR \"compulsive use of AI companion\" OR \"addictive AI companion use\" OR \"addictive use of AI companion\" OR \"AI companion use disorder\" OR \"problematic AI companion usage\") OR descriptions.description:(\"large language model use disorder\" OR \"problematic large language model usage\" OR \"excessive large language model usage\" OR \"compulsive large language model usage\" OR \"addictive large language model usage\" OR \"large language models addiction\" OR \"large language models dependence\" OR \"large language models dependency\" OR \"dependence on large language models\" OR \"dependency on large language models\" OR \"addiction to large language models\" OR \"problematic large language models use\" OR \"problematic use of large language models\" OR \"excessive large language models use\" OR \"excessive use of large language models\" OR \"compulsive large language models use\" OR \"compulsive use of large language models\" OR \"addictive large language models use\" OR \"addictive use of large language models\" OR \"large language models use disorder\" OR \"problematic large language models usage\" OR \"excessive large language models usage\" OR \"compulsive large language models usage\" OR \"addictive large language models usage\" OR \"AI companion addiction\" OR \"AI companion dependence\" OR \"AI companion dependency\" OR \"dependence on AI companion\" OR \"dependency on AI companion\" OR \"addiction to AI companion\" OR \"problematic AI companion use\" OR \"problematic use of AI companion\" OR \"excessive AI companion use\" OR \"excessive use of AI companion\" OR \"compulsive AI companion use\" OR \"compulsive use of AI companion\" OR \"addictive AI companion use\" OR \"addictive use of AI companion\" OR \"AI companion use disorder\" OR \"problematic AI companion usage\") OR subjects.subject:(\"large language model use disorder\" OR \"problematic large language model usage\" OR \"excessive large language model usage\" OR \"compulsive large language model usage\" OR \"addictive large language model usage\" OR \"large language models addiction\" OR \"large language models dependence\" OR \"large language models dependency\" OR \"dependence on large language models\" OR \"dependency on large language models\" OR \"addiction to large language models\" OR \"problematic large language models use\" OR \"problematic use of large language models\" OR \"excessive large language models use\" OR \"excessive use of large language models\" OR \"compulsive large language models use\" OR \"compulsive use of large language models\" OR \"addictive large language models use\" OR \"addictive use of large language models\" OR \"large language models use disorder\" OR \"problematic large language models usage\" OR \"excessive large language models usage\" OR \"compulsive large language models usage\" OR \"addictive large language models usage\" OR \"AI companion addiction\" OR \"AI companion dependence\" OR \"AI companion dependency\" OR \"dependence on AI companion\" OR \"dependency on AI companion\" OR \"addiction to AI companion\" OR \"problematic AI companion use\" OR \"problematic use of AI companion\" OR \"excessive AI companion use\" OR \"excessive use of AI companion\" OR \"compulsive AI companion use\" OR \"compulsive use of AI companion\" OR \"addictive AI companion use\" OR \"addictive use of AI companion\" OR \"AI companion use disorder\" OR \"problematic AI companion usage\")",
+          "total": 23
+        },
+        {
+          "query": "titles.title:(\"excessive AI companion usage\" OR \"compulsive AI companion usage\" OR \"addictive AI companion usage\" OR \"AI companions addiction\" OR \"AI companions dependence\" OR \"AI companions dependency\" OR \"dependence on AI companions\" OR \"dependency on AI companions\" OR \"addiction to AI companions\" OR \"problematic AI companions use\" OR \"problematic use of AI companions\" OR \"excessive AI companions use\" OR \"excessive use of AI companions\" OR \"compulsive AI companions use\" OR \"compulsive use of AI companions\" OR \"addictive AI companions use\" OR \"addictive use of AI companions\" OR \"AI companions use disorder\" OR \"problematic AI companions usage\" OR \"excessive AI companions usage\" OR \"compulsive AI companions usage\" OR \"addictive AI companions usage\" OR \"AI tools addiction\" OR \"AI tools dependence\" OR \"AI tools dependency\" OR \"dependence on AI tools\" OR \"dependency on AI tools\" OR \"addiction to AI tools\" OR \"problematic AI tools use\" OR \"problematic use of AI tools\" OR \"excessive AI tools use\" OR \"excessive use of AI tools\" OR \"compulsive AI tools use\" OR \"compulsive use of AI tools\" OR \"addictive AI tools use\" OR \"addictive use of AI tools\" OR \"AI tools use disorder\" OR \"problematic AI tools usage\" OR \"excessive AI tools usage\" OR \"compulsive AI tools usage\") OR descriptions.description:(\"excessive AI companion usage\" OR \"compulsive AI companion usage\" OR \"addictive AI companion usage\" OR \"AI companions addiction\" OR \"AI companions dependence\" OR \"AI companions dependency\" OR \"dependence on AI companions\" OR \"dependency on AI companions\" OR \"addiction to AI companions\" OR \"problematic AI companions use\" OR \"problematic use of AI companions\" OR \"excessive AI companions use\" OR \"excessive use of AI companions\" OR \"compulsive AI companions use\" OR \"compulsive use of AI companions\" OR \"addictive AI companions use\" OR \"addictive use of AI companions\" OR \"AI companions use disorder\" OR \"problematic AI companions usage\" OR \"excessive AI companions usage\" OR \"compulsive AI companions usage\" OR \"addictive AI companions usage\" OR \"AI tools addiction\" OR \"AI tools dependence\" OR \"AI tools dependency\" OR \"dependence on AI tools\" OR \"dependency on AI tools\" OR \"addiction to AI tools\" OR \"problematic AI tools use\" OR \"problematic use of AI tools\" OR \"excessive AI tools use\" OR \"excessive use of AI tools\" OR \"compulsive AI tools use\" OR \"compulsive use of AI tools\" OR \"addictive AI tools use\" OR \"addictive use of AI tools\" OR \"AI tools use disorder\" OR \"problematic AI tools usage\" OR \"excessive AI tools usage\" OR \"compulsive AI tools usage\") OR subjects.subject:(\"excessive AI companion usage\" OR \"compulsive AI companion usage\" OR \"addictive AI companion usage\" OR \"AI companions addiction\" OR \"AI companions dependence\" OR \"AI companions dependency\" OR \"dependence on AI companions\" OR \"dependency on AI companions\" OR \"addiction to AI companions\" OR \"problematic AI companions use\" OR \"problematic use of AI companions\" OR \"excessive AI companions use\" OR \"excessive use of AI companions\" OR \"compulsive AI companions use\" OR \"compulsive use of AI companions\" OR \"addictive AI companions use\" OR \"addictive use of AI companions\" OR \"AI companions use disorder\" OR \"problematic AI companions usage\" OR \"excessive AI companions usage\" OR \"compulsive AI companions usage\" OR \"addictive AI companions usage\" OR \"AI tools addiction\" OR \"AI tools dependence\" OR \"AI tools dependency\" OR \"dependence on AI tools\" OR \"dependency on AI tools\" OR \"addiction to AI tools\" OR \"problematic AI tools use\" OR \"problematic use of AI tools\" OR \"excessive AI tools use\" OR \"excessive use of AI tools\" OR \"compulsive AI tools use\" OR \"compulsive use of AI tools\" OR \"addictive AI tools use\" OR \"addictive use of AI tools\" OR \"AI tools use disorder\" OR \"problematic AI tools usage\" OR \"excessive AI tools usage\" OR \"compulsive AI tools usage\")",
+          "total": 62
+        },
+        {
+          "query": "titles.title:(\"addictive AI tools usage\" OR \"AI technology addiction\" OR \"AI technology dependence\" OR \"AI technology dependency\" OR \"dependence on AI technology\" OR \"dependency on AI technology\" OR \"addiction to AI technology\" OR \"problematic AI technology use\" OR \"problematic use of AI technology\" OR \"excessive AI technology use\" OR \"excessive use of AI technology\" OR \"compulsive AI technology use\" OR \"compulsive use of AI technology\" OR \"addictive AI technology use\" OR \"addictive use of AI technology\" OR \"AI technology use disorder\" OR \"problematic AI technology usage\" OR \"excessive AI technology usage\" OR \"compulsive AI technology usage\" OR \"addictive AI technology usage\" OR \"Replika addiction\" OR \"Replika dependence\" OR \"Replika dependency\" OR \"dependence on Replika\" OR \"dependency on Replika\" OR \"addiction to Replika\" OR \"problematic Replika use\" OR \"problematic use of Replika\" OR \"excessive Replika use\" OR \"excessive use of Replika\" OR \"compulsive Replika use\" OR \"compulsive use of Replika\" OR \"addictive Replika use\" OR \"addictive use of Replika\" OR \"Replika use disorder\" OR \"problematic Replika usage\" OR \"excessive Replika usage\" OR \"compulsive Replika usage\" OR \"addictive Replika usage\") OR descriptions.description:(\"addictive AI tools usage\" OR \"AI technology addiction\" OR \"AI technology dependence\" OR \"AI technology dependency\" OR \"dependence on AI technology\" OR \"dependency on AI technology\" OR \"addiction to AI technology\" OR \"problematic AI technology use\" OR \"problematic use of AI technology\" OR \"excessive AI technology use\" OR \"excessive use of AI technology\" OR \"compulsive AI technology use\" OR \"compulsive use of AI technology\" OR \"addictive AI technology use\" OR \"addictive use of AI technology\" OR \"AI technology use disorder\" OR \"problematic AI technology usage\" OR \"excessive AI technology usage\" OR \"compulsive AI technology usage\" OR \"addictive AI technology usage\" OR \"Replika addiction\" OR \"Replika dependence\" OR \"Replika dependency\" OR \"dependence on Replika\" OR \"dependency on Replika\" OR \"addiction to Replika\" OR \"problematic Replika use\" OR \"problematic use of Replika\" OR \"excessive Replika use\" OR \"excessive use of Replika\" OR \"compulsive Replika use\" OR \"compulsive use of Replika\" OR \"addictive Replika use\" OR \"addictive use of Replika\" OR \"Replika use disorder\" OR \"problematic Replika usage\" OR \"excessive Replika usage\" OR \"compulsive Replika usage\" OR \"addictive Replika usage\") OR subjects.subject:(\"addictive AI tools usage\" OR \"AI technology addiction\" OR \"AI technology dependence\" OR \"AI technology dependency\" OR \"dependence on AI technology\" OR \"dependency on AI technology\" OR \"addiction to AI technology\" OR \"problematic AI technology use\" OR \"problematic use of AI technology\" OR \"excessive AI technology use\" OR \"excessive use of AI technology\" OR \"compulsive AI technology use\" OR \"compulsive use of AI technology\" OR \"addictive AI technology use\" OR \"addictive use of AI technology\" OR \"AI technology use disorder\" OR \"problematic AI technology usage\" OR \"excessive AI technology usage\" OR \"compulsive AI technology usage\" OR \"addictive AI technology usage\" OR \"Replika addiction\" OR \"Replika dependence\" OR \"Replika dependency\" OR \"dependence on Replika\" OR \"dependency on Replika\" OR \"addiction to Replika\" OR \"problematic Replika use\" OR \"problematic use of Replika\" OR \"excessive Replika use\" OR \"excessive use of Replika\" OR \"compulsive Replika use\" OR \"compulsive use of Replika\" OR \"addictive Replika use\" OR \"addictive use of Replika\" OR \"Replika use disorder\" OR \"problematic Replika usage\" OR \"excessive Replika usage\" OR \"compulsive Replika usage\" OR \"addictive Replika usage\")",
+          "total": 6
+        },
+        {
+          "query": "(titles.title:(\"overreliance on AI\" OR \"over-reliance on AI\" OR \"AI overreliance\" OR \"AI over-reliance\" OR \"AI overuse\" OR \"overuse of AI\" OR \"overreliance on artificial intelligence\" OR \"over-reliance on artificial intelligence\" OR \"artificial intelligence overreliance\" OR \"artificial intelligence over-reliance\" OR \"artificial intelligence overuse\" OR \"overuse of artificial intelligence\" OR \"overreliance on ChatGPT\" OR \"over-reliance on ChatGPT\" OR \"ChatGPT overreliance\" OR \"ChatGPT over-reliance\" OR \"ChatGPT overuse\" OR \"overuse of ChatGPT\" OR \"overreliance on GenAI\" OR \"over-reliance on GenAI\" OR \"GenAI overreliance\" OR \"GenAI over-reliance\" OR \"GenAI overuse\" OR \"overuse of GenAI\" OR \"overreliance on generative AI\" OR \"over-reliance on generative AI\" OR \"generative AI overreliance\" OR \"generative AI over-reliance\" OR \"generative AI overuse\" OR \"overuse of generative AI\" OR \"overreliance on generative artificial intelligence\" OR \"over-reliance on generative artificial intelligence\" OR \"generative artificial intelligence overreliance\" OR \"generative artificial intelligence over-reliance\" OR \"generative artificial intelligence overuse\" OR \"overuse of generative artificial intelligence\" OR \"overreliance on chatbot\" OR \"over-reliance on chatbot\" OR \"chatbot overreliance\" OR \"chatbot over-reliance\") OR descriptions.description:(\"overreliance on AI\" OR \"over-reliance on AI\" OR \"AI overreliance\" OR \"AI over-reliance\" OR \"AI overuse\" OR \"overuse of AI\" OR \"overreliance on artificial intelligence\" OR \"over-reliance on artificial intelligence\" OR \"artificial intelligence overreliance\" OR \"artificial intelligence over-reliance\" OR \"artificial intelligence overuse\" OR \"overuse of artificial intelligence\" OR \"overreliance on ChatGPT\" OR \"over-reliance on ChatGPT\" OR \"ChatGPT overreliance\" OR \"ChatGPT over-reliance\" OR \"ChatGPT overuse\" OR \"overuse of ChatGPT\" OR \"overreliance on GenAI\" OR \"over-reliance on GenAI\" OR \"GenAI overreliance\" OR \"GenAI over-reliance\" OR \"GenAI overuse\" OR \"overuse of GenAI\" OR \"overreliance on generative AI\" OR \"over-reliance on generative AI\" OR \"generative AI overreliance\" OR \"generative AI over-reliance\" OR \"generative AI overuse\" OR \"overuse of generative AI\" OR \"overreliance on generative artificial intelligence\" OR \"over-reliance on generative artificial intelligence\" OR \"generative artificial intelligence overreliance\" OR \"generative artificial intelligence over-reliance\" OR \"generative artificial intelligence overuse\" OR \"overuse of generative artificial intelligence\" OR \"overreliance on chatbot\" OR \"over-reliance on chatbot\" OR \"chatbot overreliance\" OR \"chatbot over-reliance\") OR subjects.subject:(\"overreliance on AI\" OR \"over-reliance on AI\" OR \"AI overreliance\" OR \"AI over-reliance\" OR \"AI overuse\" OR \"overuse of AI\" OR \"overreliance on artificial intelligence\" OR \"over-reliance on artificial intelligence\" OR \"artificial intelligence overreliance\" OR \"artificial intelligence over-reliance\" OR \"artificial intelligence overuse\" OR \"overuse of artificial intelligence\" OR \"overreliance on ChatGPT\" OR \"over-reliance on ChatGPT\" OR \"ChatGPT overreliance\" OR \"ChatGPT over-reliance\" OR \"ChatGPT overuse\" OR \"overuse of ChatGPT\" OR \"overreliance on GenAI\" OR \"over-reliance on GenAI\" OR \"GenAI overreliance\" OR \"GenAI over-reliance\" OR \"GenAI overuse\" OR \"overuse of GenAI\" OR \"overreliance on generative AI\" OR \"over-reliance on generative AI\" OR \"generative AI overreliance\" OR \"generative AI over-reliance\" OR \"generative AI overuse\" OR \"overuse of generative AI\" OR \"overreliance on generative artificial intelligence\" OR \"over-reliance on generative artificial intelligence\" OR \"generative artificial intelligence overreliance\" OR \"generative artificial intelligence over-reliance\" OR \"generative artificial intelligence overuse\" OR \"overuse of generative artificial intelligence\" OR \"overreliance on chatbot\" OR \"over-reliance on chatbot\" OR \"chatbot overreliance\" OR \"chatbot over-reliance\")) AND (titles.title:(scale OR questionnaire OR survey OR inventory OR respondents OR \"self-report\") OR descriptions.description:(scale OR questionnaire OR survey OR inventory OR respondents OR \"self-report\") OR subjects.subject:(scale OR questionnaire OR survey OR inventory OR respondents OR \"self-report\"))",
+          "total": 157
+        },
+        {
+          "query": "(titles.title:(\"chatbot overuse\" OR \"overuse of chatbot\" OR \"overreliance on chatbots\" OR \"over-reliance on chatbots\" OR \"chatbots overreliance\" OR \"chatbots over-reliance\" OR \"chatbots overuse\" OR \"overuse of chatbots\" OR \"overreliance on AI chatbots\" OR \"over-reliance on AI chatbots\" OR \"AI chatbots overreliance\" OR \"AI chatbots over-reliance\" OR \"AI chatbots overuse\" OR \"overuse of AI chatbots\" OR \"overreliance on conversational agent\" OR \"over-reliance on conversational agent\" OR \"conversational agent overreliance\" OR \"conversational agent over-reliance\" OR \"conversational agent overuse\" OR \"overuse of conversational agent\" OR \"overreliance on conversational agents\" OR \"over-reliance on conversational agents\" OR \"conversational agents overreliance\" OR \"conversational agents over-reliance\" OR \"conversational agents overuse\" OR \"overuse of conversational agents\" OR \"overreliance on conversational AI\" OR \"over-reliance on conversational AI\" OR \"conversational AI overreliance\" OR \"conversational AI over-reliance\" OR \"conversational AI overuse\" OR \"overuse of conversational AI\" OR \"overreliance on LLM\" OR \"over-reliance on LLM\" OR \"LLM overreliance\" OR \"LLM over-reliance\" OR \"LLM overuse\" OR \"overuse of LLM\" OR \"overreliance on LLMs\" OR \"over-reliance on LLMs\") OR descriptions.description:(\"chatbot overuse\" OR \"overuse of chatbot\" OR \"overreliance on chatbots\" OR \"over-reliance on chatbots\" OR \"chatbots overreliance\" OR \"chatbots over-reliance\" OR \"chatbots overuse\" OR \"overuse of chatbots\" OR \"overreliance on AI chatbots\" OR \"over-reliance on AI chatbots\" OR \"AI chatbots overreliance\" OR \"AI chatbots over-reliance\" OR \"AI chatbots overuse\" OR \"overuse of AI chatbots\" OR \"overreliance on conversational agent\" OR \"over-reliance on conversational agent\" OR \"conversational agent overreliance\" OR \"conversational agent over-reliance\" OR \"conversational agent overuse\" OR \"overuse of conversational agent\" OR \"overreliance on conversational agents\" OR \"over-reliance on conversational agents\" OR \"conversational agents overreliance\" OR \"conversational agents over-reliance\" OR \"conversational agents overuse\" OR \"overuse of conversational agents\" OR \"overreliance on conversational AI\" OR \"over-reliance on conversational AI\" OR \"conversational AI overreliance\" OR \"conversational AI over-reliance\" OR \"conversational AI overuse\" OR \"overuse of conversational AI\" OR \"overreliance on LLM\" OR \"over-reliance on LLM\" OR \"LLM overreliance\" OR \"LLM over-reliance\" OR \"LLM overuse\" OR \"overuse of LLM\" OR \"overreliance on LLMs\" OR \"over-reliance on LLMs\") OR subjects.subject:(\"chatbot overuse\" OR \"overuse of chatbot\" OR \"overreliance on chatbots\" OR \"over-reliance on chatbots\" OR \"chatbots overreliance\" OR \"chatbots over-reliance\" OR \"chatbots overuse\" OR \"overuse of chatbots\" OR \"overreliance on AI chatbots\" OR \"over-reliance on AI chatbots\" OR \"AI chatbots overreliance\" OR \"AI chatbots over-reliance\" OR \"AI chatbots overuse\" OR \"overuse of AI chatbots\" OR \"overreliance on conversational agent\" OR \"over-reliance on conversational agent\" OR \"conversational agent overreliance\" OR \"conversational agent over-reliance\" OR \"conversational agent overuse\" OR \"overuse of conversational agent\" OR \"overreliance on conversational agents\" OR \"over-reliance on conversational agents\" OR \"conversational agents overreliance\" OR \"conversational agents over-reliance\" OR \"conversational agents overuse\" OR \"overuse of conversational agents\" OR \"overreliance on conversational AI\" OR \"over-reliance on conversational AI\" OR \"conversational AI overreliance\" OR \"conversational AI over-reliance\" OR \"conversational AI overuse\" OR \"overuse of conversational AI\" OR \"overreliance on LLM\" OR \"over-reliance on LLM\" OR \"LLM overreliance\" OR \"LLM over-reliance\" OR \"LLM overuse\" OR \"overuse of LLM\" OR \"overreliance on LLMs\" OR \"over-reliance on LLMs\")) AND (titles.title:(scale OR questionnaire OR survey OR inventory OR respondents OR \"self-report\") OR descriptions.description:(scale OR questionnaire OR survey OR inventory OR respondents OR \"self-report\") OR subjects.subject:(scale OR questionnaire OR survey OR inventory OR respondents OR \"self-report\"))",
+          "total": 8
+        },
+        {
+          "query": "(titles.title:(\"LLMs overreliance\" OR \"LLMs over-reliance\" OR \"LLMs overuse\" OR \"overuse of LLMs\" OR \"overreliance on large language model\" OR \"over-reliance on large language model\" OR \"large language model overreliance\" OR \"large language model over-reliance\" OR \"large language model overuse\" OR \"overuse of large language model\" OR \"overreliance on large language models\" OR \"over-reliance on large language models\" OR \"large language models overreliance\" OR \"large language models over-reliance\" OR \"large language models overuse\" OR \"overuse of large language models\" OR \"overreliance on AI companion\" OR \"over-reliance on AI companion\" OR \"AI companion overreliance\" OR \"AI companion over-reliance\" OR \"AI companion overuse\" OR \"overuse of AI companion\" OR \"overreliance on AI companions\" OR \"over-reliance on AI companions\" OR \"AI companions overreliance\" OR \"AI companions over-reliance\" OR \"AI companions overuse\" OR \"overuse of AI companions\" OR \"overreliance on AI tools\" OR \"over-reliance on AI tools\" OR \"AI tools overreliance\" OR \"AI tools over-reliance\" OR \"AI tools overuse\" OR \"overuse of AI tools\" OR \"overreliance on AI technology\" OR \"over-reliance on AI technology\" OR \"AI technology overreliance\" OR \"AI technology over-reliance\" OR \"AI technology overuse\" OR \"overuse of AI technology\") OR descriptions.description:(\"LLMs overreliance\" OR \"LLMs over-reliance\" OR \"LLMs overuse\" OR \"overuse of LLMs\" OR \"overreliance on large language model\" OR \"over-reliance on large language model\" OR \"large language model overreliance\" OR \"large language model over-reliance\" OR \"large language model overuse\" OR \"overuse of large language model\" OR \"overreliance on large language models\" OR \"over-reliance on large language models\" OR \"large language models overreliance\" OR \"large language models over-reliance\" OR \"large language models overuse\" OR \"overuse of large language models\" OR \"overreliance on AI companion\" OR \"over-reliance on AI companion\" OR \"AI companion overreliance\" OR \"AI companion over-reliance\" OR \"AI companion overuse\" OR \"overuse of AI companion\" OR \"overreliance on AI companions\" OR \"over-reliance on AI companions\" OR \"AI companions overreliance\" OR \"AI companions over-reliance\" OR \"AI companions overuse\" OR \"overuse of AI companions\" OR \"overreliance on AI tools\" OR \"over-reliance on AI tools\" OR \"AI tools overreliance\" OR \"AI tools over-reliance\" OR \"AI tools overuse\" OR \"overuse of AI tools\" OR \"overreliance on AI technology\" OR \"over-reliance on AI technology\" OR \"AI technology overreliance\" OR \"AI technology over-reliance\" OR \"AI technology overuse\" OR \"overuse of AI technology\") OR subjects.subject:(\"LLMs overreliance\" OR \"LLMs over-reliance\" OR \"LLMs overuse\" OR \"overuse of LLMs\" OR \"overreliance on large language model\" OR \"over-reliance on large language model\" OR \"large language model overreliance\" OR \"large language model over-reliance\" OR \"large language model overuse\" OR \"overuse of large language model\" OR \"overreliance on large language models\" OR \"over-reliance on large language models\" OR \"large language models overreliance\" OR \"large language models over-reliance\" OR \"large language models overuse\" OR \"overuse of large language models\" OR \"overreliance on AI companion\" OR \"over-reliance on AI companion\" OR \"AI companion overreliance\" OR \"AI companion over-reliance\" OR \"AI companion overuse\" OR \"overuse of AI companion\" OR \"overreliance on AI companions\" OR \"over-reliance on AI companions\" OR \"AI companions overreliance\" OR \"AI companions over-reliance\" OR \"AI companions overuse\" OR \"overuse of AI companions\" OR \"overreliance on AI tools\" OR \"over-reliance on AI tools\" OR \"AI tools overreliance\" OR \"AI tools over-reliance\" OR \"AI tools overuse\" OR \"overuse of AI tools\" OR \"overreliance on AI technology\" OR \"over-reliance on AI technology\" OR \"AI technology overreliance\" OR \"AI technology over-reliance\" OR \"AI technology overuse\" OR \"overuse of AI technology\")) AND (titles.title:(scale OR questionnaire OR survey OR inventory OR respondents OR \"self-report\") OR descriptions.description:(scale OR questionnaire OR survey OR inventory OR respondents OR \"self-report\") OR subjects.subject:(scale OR questionnaire OR survey OR inventory OR respondents OR \"self-report\"))",
+          "total": 30
+        },
+        {
+          "query": "(titles.title:(\"overreliance on Replika\" OR \"over-reliance on Replika\" OR \"Replika overreliance\" OR \"Replika over-reliance\" OR \"Replika overuse\" OR \"overuse of Replika\") OR descriptions.description:(\"overreliance on Replika\" OR \"over-reliance on Replika\" OR \"Replika overreliance\" OR \"Replika over-reliance\" OR \"Replika overuse\" OR \"overuse of Replika\") OR subjects.subject:(\"overreliance on Replika\" OR \"over-reliance on Replika\" OR \"Replika overreliance\" OR \"Replika over-reliance\" OR \"Replika overuse\" OR \"overuse of Replika\")) AND (titles.title:(scale OR questionnaire OR survey OR inventory OR respondents OR \"self-report\") OR descriptions.description:(scale OR questionnaire OR survey OR inventory OR respondents OR \"self-report\") OR subjects.subject:(scale OR questionnaire OR survey OR inventory OR respondents OR \"self-report\"))",
+          "total": 0
+        },
+        {
+          "query": "(titles.title:(\"AI friend\" OR \"AI friends\" OR \"AI friendship\" OR \"AI companion\" OR \"AI companions\" OR \"social chatbot\" OR \"social chatbots\" OR \"companion chatbot\" OR \"companion chatbots\" OR \"Replika\" OR \"Character.AI\" OR \"Xiaoice\" OR \"AI girlfriend\" OR \"AI boyfriend\") OR descriptions.description:(\"AI friend\" OR \"AI friends\" OR \"AI friendship\" OR \"AI companion\" OR \"AI companions\" OR \"social chatbot\" OR \"social chatbots\" OR \"companion chatbot\" OR \"companion chatbots\" OR \"Replika\" OR \"Character.AI\" OR \"Xiaoice\" OR \"AI girlfriend\" OR \"AI boyfriend\") OR subjects.subject:(\"AI friend\" OR \"AI friends\" OR \"AI friendship\" OR \"AI companion\" OR \"AI companions\" OR \"social chatbot\" OR \"social chatbots\" OR \"companion chatbot\" OR \"companion chatbots\" OR \"Replika\" OR \"Character.AI\" OR \"Xiaoice\" OR \"AI girlfriend\" OR \"AI boyfriend\")) AND (titles.title:(addiction OR addicted OR addictive OR dependence OR dependency OR compulsive OR problematic) OR descriptions.description:(addiction OR addicted OR addictive OR dependence OR dependency OR compulsive OR problematic) OR subjects.subject:(addiction OR addicted OR addictive OR dependence OR dependency OR compulsive OR problematic))",
+          "total": 251
+        }
+      ]
+    },
+    "searched_at_utc": "2026-10-16T15:01:49+00:00",
+    "seconds": 32.6
+  },
+  "openaire": {
+    "records": 1001,
+    "meta": {
+      "type": "publication",
+      "queries": {
+        "\"AI dependence\" OR \"AI dependency\" OR \"AI addiction\" OR \"artificial intelligence dependence\" OR \"artificial intelligence addiction\"": {
+          "numFound": 541,
+          "retrieved": 542
+        },
+        "\"ChatGPT addiction\" OR \"ChatGPT dependence\" OR \"ChatGPT dependency\" OR \"problematic ChatGPT use\" OR \"problematic AI use\"": {
+          "numFound": 51,
+          "retrieved": 51
+        },
+        "\"problematic use of AI\" OR \"generative AI addiction\" OR \"generative AI dependence\" OR \"chatbot addiction\" OR \"chatbot dependence\"": {
+          "numFound": 40,
+          "retrieved": 40
+        },
+        "\"dependence on AI\" OR \"dependence on ChatGPT\" OR \"addiction to AI\" OR \"AI companion addiction\" OR \"emotional dependence on AI\"": {
+          "numFound": 442,
+          "retrieved": 444
+        },
+        "\"conversational AI dependence\" OR \"LLM dependence\" OR \"large language model dependence\" OR \"AI use disorder\"": {
+          "numFound": 12,
+          "retrieved": 12
+        }
+      }
+    },
+    "searched_at_utc": "2026-10-16T15:02:33+00:00",
+    "seconds": 44.6
+  },
+  "core": {
+    "records": 444,
+    "meta": {
+      "queries": {
+        "title:\"AI dependence\" OR abstract:\"AI dependence\"": {
+          "totalHits": 5348,
+          "scanned": 500,
+          "dropped_phrase_not_in_title_or_abstract": 415
+        },
+        "title:\"AI dependency\" OR abstract:\"AI dependency\"": {
+          "totalHits": 4103,
+          "scanned": 700,
+          "dropped_phrase_not_in_title_or_abstract": 579
+        },
+        "title:\"AI addiction\" OR abstract:\"AI addiction\"": {
+          "totalHits": 919,
+          "scanned": 400,
+          "dropped_phrase_not_in_title_or_abstract": 358
+        },
+        "title:\"artificial intelligence dependence\" OR abstract:\"artificial intelligence dependence\"": {
+          "totalHits": 4231,
+          "scanned": 100,
+          "dropped_phrase_not_in_title_or_abstract": 96
+        },
+        "title:\"artificial intelligence addiction\" OR abstract:\"artificial intelligence addiction\"": {
+          "totalHits": 452,
+          "scanned": 200,
+          "dropped_phrase_not_in_title_or_abstract": 195
+        },
+        "title:\"ChatGPT addiction\" OR abstract:\"ChatGPT addiction\"": {
+          "totalHits": 58,
+          "scanned": 58,
+          "dropped_phrase_not_in_title_or_abstract": 55
+        },
+        "title:\"ChatGPT dependence\" OR abstract:\"ChatGPT dependence\"": {
+          "totalHits": 469,
+          "scanned": 100,
+          "dropped_phrase_not_in_title_or_abstract": 97
+        },
+        "title:\"ChatGPT dependency\" OR abstract:\"ChatGPT dependency\"": {
+          "totalHits": 449,
+          "scanned": 100,
+          "dropped_phrase_not_in_title_or_abstract": 98
+        },
+        "title:\"problematic ChatGPT use\" OR abstract:\"problematic ChatGPT use\"": {
+          "totalHits": 153,
+          "scanned": 100,
+          "dropped_phrase_not_in_title_or_abstract": 97
+        },
+        "title:\"problematic AI use\" OR abstract:\"problematic AI use\"": {
+          "totalHits": 1325,
+          "scanned": 200,
+          "dropped_phrase_not_in_title_or_abstract": 165
+        },
+        "title:\"problematic use of AI\" OR abstract:\"problematic use of AI\"": {
+          "totalHits": 1303,
+          "scanned": 100,
+          "dropped_phrase_not_in_title_or_abstract": 100
+        },
+        "title:\"generative AI addiction\" OR abstract:\"generative AI addiction\"": {
+          "totalHits": 103,
+          "scanned": 100,
+          "dropped_phrase_not_in_title_or_abstract": 99
+        },
+        "title:\"generative AI dependence\" OR abstract:\"generative AI dependence\"": {
+          "totalHits": 614,
+          "scanned": 100,
+          "dropped_phrase_not_in_title_or_abstract": 98
+        },
+        "title:\"chatbot addiction\" OR abstract:\"chatbot addiction\"": {
+          "totalHits": 54,
+          "scanned": 54,
+          "dropped_phrase_not_in_title_or_abstract": 51
+        },
+        "title:\"chatbot dependence\" OR abstract:\"chatbot dependence\"": {
+          "totalHits": 123,
+          "scanned": 123,
+          "dropped_phrase_not_in_title_or_abstract": 108
+        },
+        "title:\"dependence on AI\" OR abstract:\"dependence on AI\"": {
+          "totalHits": 4684,
+          "scanned": 1100,
+          "dropped_phrase_not_in_title_or_abstract": 953
+        },
+        "title:\"dependence on ChatGPT\" OR abstract:\"dependence on ChatGPT\"": {
+          "totalHits": 418,
+          "scanned": 200,
+          "dropped_phrase_not_in_title_or_abstract": 183
+        },
+        "title:\"addiction to AI\" OR abstract:\"addiction to AI\"": {
+          "totalHits": 798,
+          "scanned": 100,
+          "dropped_phrase_not_in_title_or_abstract": 99
+        },
+        "title:\"AI companion addiction\" OR abstract:\"AI companion addiction\"": {
+          "totalHits": 19,
+          "scanned": 19,
+          "dropped_phrase_not_in_title_or_abstract": 19
+        },
+        "title:\"emotional dependence on AI\" OR abstract:\"emotional dependence on AI\"": {
+          "totalHits": 279,
+          "scanned": 200,
+          "dropped_phrase_not_in_title_or_abstract": 186
+        },
+        "title:\"conversational AI dependence\" OR abstract:\"conversational AI dependence\"": {
+          "totalHits": 92,
+          "scanned": 92,
+          "dropped_phrase_not_in_title_or_abstract": 91
+        },
+        "title:\"LLM dependence\" OR abstract:\"LLM dependence\"": {
+          "totalHits": 395,
+          "scanned": 100,
+          "dropped_phrase_not_in_title_or_abstract": 100
+        },
+        "title:\"large language model dependence\" OR abstract:\"large language model dependence\"": {
+          "totalHits": 751,
+          "scanned": 100,
+          "dropped_phrase_not_in_title_or_abstract": 99
+        },
+        "title:\"AI use disorder\" OR abstract:\"AI use disorder\"": {
+          "totalHits": 1305,
+          "scanned": 100,
+          "dropped_phrase_not_in_title_or_abstract": 100
+        }
+      },
+      "authenticated": true
+    },
+    "searched_at_utc": "2026-10-16T15:13:41+00:00",
+    "seconds": 667.6
+  },
+  "citations": {
+    "records": 400,
+    "meta": {
+      "Dependence on AI, university students (Morales-García et al., 2024)": {
+        "doi": "10.3389/feduc.2024.1323898",
+        "openalex": "W4392714531",
+        "citing_records": 140
+      },
+      "Problematic ChatGPT Use Scale (Yu et al., 2024)": {
+        "doi": "10.1007/s12144-024-06259-z",
+        "openalex": "W4400426435",
+        "citing_records": 63
+      },
+      "Generative AI Dependency Scale (Goh et al., 2025)": {
+        "doi": "10.1016/j.chbr.2025.100845",
+        "openalex": "W4415613619",
+        "citing_records": 58
+      },
+      "AI Chatbot Dependence Scale (Zhang et al., 2025)": {
+        "doi": "10.1089/cyber.2024.0240",
+        "openalex": "W4404724208",
+        "citing_records": 52
+      },
+      "LLM Dependence Scale (Li et al., 2025)": {
+        "doi": "10.1016/j.ijinfomgt.2025.102888",
+        "openalex": "W4407777119",
+        "citing_records": 40
+      },
+      "Conversational AI Dependence Scale (Chen et al., 2025)": {
+        "doi": "10.3389/fpsyg.2025.1621540",
+        "openalex": "W4412774887",
+        "citing_records": 24
+      },
+      "AI dependence scale, Chinese undergraduates (Wu et al., 2026)": {
+        "doi": "10.3389/fpsyg.2025.1725393",
+        "openalex": "W7124675369",
+        "citing_records": 23
+      }
+    },
+    "searched_at_utc": "2026-10-16T15:13:52+00:00",
+    "seconds": 11.1
+  }
+}

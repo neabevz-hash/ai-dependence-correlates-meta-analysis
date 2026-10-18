@@ -1,0 +1,96 @@
+correlate,moderator,k_samples,F,df_num,df_denom,p,note
+depression,population,8,NA,NA,NA,NA,k < 10
+depression,region,7,NA,NA,NA,NA,k < 10
+depression,ai_type,8,NA,NA,NA,NA,k < 10
+depression,age,6,NA,NA,NA,NA,k < 10
+depression,pct_female,8,NA,NA,NA,NA,k < 10
+depression,design,8,NA,NA,NA,NA,k < 10
+depression,peer_reviewed,8,NA,NA,NA,NA,k < 10
+depression,year,8,NA,NA,NA,NA,k < 10
+depression,rob_1,8,NA,NA,NA,NA,k < 10
+depression,rob_3,8,NA,NA,NA,NA,k < 10
+depression,rob_6,8,NA,NA,NA,NA,k < 10
+depression,latent,8,NA,NA,NA,NA,k < 10
+depression,converted,8,NA,NA,NA,NA,k < 10
+depression,lagged,8,NA,NA,NA,NA,k < 10
+anxiety,population,11,11.941260679559681,2,1.9397259515590743,0.08121345744427888,adolescents / mixed / university_students
+anxiety,region,12,0.6392293993318559,2,1.0705417159273751,0.6566334766444079,Americas / mainland_China / South_Southeast_Asia
+anxiety,ai_type,10,6.926502531396069,1,6.4305921616999795,0.03653218622648744,ai_unspecified / general_chatbot
+anxiety,age,9,NA,NA,NA,NA,k < 10
+anxiety,pct_female,12,2.713238847844522,1,2.891591700797257,0.20146320637883153,slope (z per unit) -0.0139
+anxiety,design,12,NA,NA,NA,NA,fewer than two levels with 2+ samples
+anxiety,peer_reviewed,12,NA,NA,NA,NA,fewer than two levels with 2+ samples
+anxiety,rob_1,12,0.0017398500037761808,1,5.945775672797383,0.968094053193272,no / unclear
+anxiety,rob_3,11,1.0475602532970736,1,1.452182366478962,0.44638146533476697,no / yes
+anxiety,rob_6,12,5.548881667085814,1,3.317081630388499,0.09147066662948462,unclear / yes
+anxiety,latent,12,NA,NA,NA,NA,fewer than two levels with 2+ samples
+anxiety,converted,12,NA,NA,NA,NA,fewer than two levels with 2+ samples
+anxiety,lagged,12,NA,NA,NA,NA,fewer than two levels with 2+ samples
+stress,population,5,NA,NA,NA,NA,k < 10
+stress,region,4,NA,NA,NA,NA,k < 10
+stress,ai_type,5,NA,NA,NA,NA,k < 10
+stress,age,3,NA,NA,NA,NA,k < 10
+stress,pct_female,5,NA,NA,NA,NA,k < 10
+stress,design,5,NA,NA,NA,NA,k < 10
+stress,peer_reviewed,5,NA,NA,NA,NA,k < 10
+stress,year,5,NA,NA,NA,NA,k < 10
+stress,rob_1,5,NA,NA,NA,NA,k < 10
+stress,rob_3,5,NA,NA,NA,NA,k < 10
+stress,rob_6,5,NA,NA,NA,NA,k < 10
+stress,latent,5,NA,NA,NA,NA,k < 10
+stress,converted,5,NA,NA,NA,NA,k < 10
+stress,lagged,5,NA,NA,NA,NA,k < 10
+loneliness,population,15,0.12822933347488258,2,2.467187092440476,0.8851542541808204,general_adults / mixed / university_students
+loneliness,region,10,0.12145094552563647,1,7.930453724476444,0.7365368645742811,mainland_China / MENA_Turkiye
+loneliness,ai_type,14,0.03020792003375268,1,6.610283008268451,0.8672212723691544,ai_companion / general_chatbot
+loneliness,age,12,0.06461981711641729,1,1.5762386217709223,0.8285389247618508,slope (z per unit) 0.0036
+loneliness,pct_female,15,0.012438572806179332,1,6.272098083653288,0.9146813923445917,slope (z per unit) -0.0004
+loneliness,design,16,NA,NA,NA,NA,fewer than two levels with 2+ samples
+loneliness,peer_reviewed,16,0.016248460222129675,1,1.2919644862613213,0.9154921464634942,FALSE / TRUE
+loneliness,rob_1,15,0.8051813123398277,1,1.3079439058201114,0.5039987571546021,no / unclear
+loneliness,rob_3,15,4.084450832916172,1,1.3141385335140818,0.24286629619450445,unclear / yes
+loneliness,rob_6,16,0.05529556823235717,1,10.326588291151813,0.8186898374095912,unclear / yes
+loneliness,latent,16,NA,NA,NA,NA,fewer than two levels with 2+ samples
+loneliness,converted,16,NA,NA,NA,NA,fewer than two levels with 2+ samples
+loneliness,lagged,16,NA,NA,NA,NA,fewer than two levels with 2+ samples
+social_anxiety,population,7,NA,NA,NA,NA,k < 10
+social_anxiety,region,7,NA,NA,NA,NA,k < 10
+social_anxiety,ai_type,7,NA,NA,NA,NA,k < 10
+social_anxiety,age,3,NA,NA,NA,NA,k < 10
+social_anxiety,pct_female,7,NA,NA,NA,NA,k < 10
+social_anxiety,design,7,NA,NA,NA,NA,k < 10
+social_anxiety,peer_reviewed,7,NA,NA,NA,NA,k < 10
+social_anxiety,year,7,NA,NA,NA,NA,k < 10
+social_anxiety,rob_1,7,NA,NA,NA,NA,k < 10
+social_anxiety,rob_3,7,NA,NA,NA,NA,k < 10
+social_anxiety,rob_6,7,NA,NA,NA,NA,k < 10
+social_anxiety,latent,7,NA,NA,NA,NA,k < 10
+social_anxiety,converted,7,NA,NA,NA,NA,k < 10
+social_anxiety,lagged,7,NA,NA,NA,NA,k < 10
+self_esteem,population,5,NA,NA,NA,NA,k < 10
+self_esteem,region,4,NA,NA,NA,NA,k < 10
+self_esteem,ai_type,5,NA,NA,NA,NA,k < 10
+self_esteem,age,4,NA,NA,NA,NA,k < 10
+self_esteem,pct_female,5,NA,NA,NA,NA,k < 10
+self_esteem,design,5,NA,NA,NA,NA,k < 10
+self_esteem,peer_reviewed,5,NA,NA,NA,NA,k < 10
+self_esteem,year,5,NA,NA,NA,NA,k < 10
+self_esteem,rob_1,5,NA,NA,NA,NA,k < 10
+self_esteem,rob_3,5,NA,NA,NA,NA,k < 10
+self_esteem,rob_6,5,NA,NA,NA,NA,k < 10
+self_esteem,latent,5,NA,NA,NA,NA,k < 10
+self_esteem,converted,5,NA,NA,NA,NA,k < 10
+self_esteem,lagged,5,NA,NA,NA,NA,k < 10
+procrastination,population,12,NA,NA,NA,NA,fewer than two levels with 2+ samples
+procrastination,region,11,3.5359105777115794,3,1.409053338192419,0.29522164186636957,Americas / Europe / mainland_China / South_Southeast_Asia
+procrastination,ai_type,10,0.012154090920191296,1,6.556210714193194,0.9155127854187877,ai_unspecified / general_chatbot
+procrastination,age,4,NA,NA,NA,NA,k < 10
+procrastination,pct_female,10,2.7088419826636003,1,3.2337121907239332,0.1917463683465905,slope (z per unit) 0.0084
+procrastination,design,12,NA,NA,NA,NA,fewer than two levels with 2+ samples
+procrastination,peer_reviewed,12,NA,NA,NA,NA,fewer than two levels with 2+ samples
+procrastination,rob_1,12,NA,NA,NA,NA,fewer than two levels with 2+ samples
+procrastination,rob_3,12,7.438597485799007,1,1.3556564295264557,0.16777764883600318,no / yes
+procrastination,rob_6,12,0.19238439859711548,1,9.92835048957609,0.6703299899218742,unclear / yes
+procrastination,latent,12,NA,NA,NA,NA,fewer than two levels with 2+ samples
+procrastination,converted,12,NA,NA,NA,NA,fewer than two levels with 2+ samples
+procrastination,lagged,12,NA,NA,NA,NA,fewer than two levels with 2+ samples

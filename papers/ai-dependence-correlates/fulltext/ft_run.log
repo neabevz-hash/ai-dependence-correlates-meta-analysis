@@ -1,0 +1,446 @@
+[judge] 444 items, 0 done, 444 to judge -> C:\Users\user\articles\papers\ai-dependence-correlates\fulltext\llm\ft_2026-10-16.jsonl
+[judge ok 1/444] R2711 15.0s
+[judge ok 2/444] R2323 21.1s
+[judge ok 3/444] R4524 22.9s
+[judge ok 4/444] R2198 27.0s
+[judge ok 5/444] R1000 27.3s
+[judge ok 6/444] R0277 28.8s
+[judge ok 7/444] R1476 16.6s
+[judge ok 8/444] R3364 7.2s
+[judge ok 9/444] R1912 36.7s
+[judge ok 10/444] R4033 15.6s
+[judge ok 11/444] R2666 39.8s
+[judge ok 12/444] R2309 17.8s
+[judge ok 13/444] R0977 7.6s
+[judge ok 14/444] R2909 13.9s
+[judge ok 15/444] R0300 24.1s
+[judge ok 16/444] R4424 19.7s
+[judge ok 17/444] R1719 9.4s
+[judge ok 18/444] R2782 16.2s
+[judge ok 19/444] R3299 9.9s
+[judge ok 20/444] R0185 18.7s
+[judge ok 21/444] R1348 14.2s
+[judge ok 22/444] R2911 34.5s
+[judge ok 23/444] R3385 11.3s
+[judge ok 24/444] R0930 28.1s
+[judge ok 25/444] R2637 24.0s
+[judge ok 26/444] R0690 57.5s
+[judge ok 27/444] R1503 8.4s
+[judge ok 28/444] R2808 10.3s
+[judge ok 29/444] R4527 30.6s
+[judge ok 30/444] R4403 17.5s
+[judge ok 31/444] R1959 19.3s
+[judge ok 32/444] R2512 17.2s
+[judge ok 33/444] R3164 21.8s
+[judge ok 34/444] R3394 14.6s
+[judge ok 35/444] R3368 20.5s
+[judge ok 36/444] R2984 39.8s
+[judge ok 37/444] R3037 21.3s
+[judge ok 38/444] R1120 24.5s
+[judge ok 39/444] R4778 17.3s
+[judge ok 40/444] R0490 19.1s
+[judge ok 41/444] R0704 8.2s
+[judge ok 42/444] R2320 21.0s
+[judge ok 43/444] R1498 24.2s
+[judge ok 44/444] R0931 8.1s
+[judge ok 45/444] R0332 33.5s
+[judge ok 46/444] R3948 17.1s
+[judge ok 47/444] R1464 8.0s
+[judge ok 48/444] R1437 23.7s
+[judge ok 49/444] R0344 21.5s
+[judge ok 50/444] R0883 16.3s
+[judge ok 51/444] R3963 17.3s
+[judge ok 52/444] R0786 17.1s
+[judge ok 53/444] R4615 42.9s
+[judge ok 54/444] R2164 17.4s
+[judge ok 55/444] R4361 21.9s
+[judge ok 56/444] R0117 13.0s
+[judge ok 57/444] R1815 20.7s
+[judge ok 58/444] R2025 6.9s
+[judge ok 59/444] R0954 39.3s
+[judge ok 60/444] R1856 12.5s
+[judge ok 61/444] R1982 10.0s
+[judge ok 62/444] R0961 7.4s
+[judge ok 63/444] R2109 13.3s
+[judge ok 64/444] R3941 6.8s
+[judge ok 65/444] R0380 17.0s
+[judge ok 66/444] R1888 14.3s
+[judge ok 67/444] R4232 31.0s
+[judge ok 68/444] R4363 14.4s
+[judge ok 69/444] R2571 10.6s
+[judge ok 70/444] R4785 11.2s
+[judge ok 71/444] R4484 12.9s
+[judge ok 72/444] R1654 22.4s
+[judge ok 73/444] R0821 14.1s
+[judge ok 74/444] R0183 16.2s
+[judge ok 75/444] R2562 24.8s
+[judge ok 76/444] R0038 18.2s
+[judge ok 77/444] R2096 25.3s
+[judge ok 78/444] R3027 9.2s
+[judge ok 79/444] R1246 9.7s
+[judge ok 80/444] R4124 16.4s
+[judge ok 81/444] R3866 18.5s
+[judge ok 82/444] R1122 25.3s
+[judge ok 83/444] R4365 23.7s
+[judge ok 84/444] R4956 15.5s
+[judge ok 85/444] R2642 20.5s
+[judge ok 86/444] R0568 19.8s
+[judge ok 87/444] R0566 15.9s
+[judge ok 88/444] R0482 24.2s
+[judge ok 89/444] R3185 8.7s
+[judge ok 90/444] R4169 9.5s
+[judge ok 91/444] R2469 10.2s
+[judge ok 92/444] R2202 13.6s
+[judge ok 93/444] R3196 24.2s
+[judge ok 94/444] R2002 11.3s
+[judge ok 95/444] R1560 12.2s
+[judge ok 96/444] R3439 9.0s
+[judge ok 97/444] R0217 19.6s
+[judge ok 98/444] R0557 7.2s
+[judge ok 99/444] R4407 26.2s
+[judge ok 100/444] R0219 12.6s
+[judge ok 101/444] R4736 16.7s
+[judge ok 102/444] R1855 22.8s
+[judge ok 103/444] R2658 11.6s
+[judge ok 104/444] R1950 21.0s
+[judge ok 105/444] R0979 16.9s
+[judge ok 106/444] R2412 14.4s
+[judge ok 107/444] R3904 15.6s
+[judge ok 108/444] R4586 11.6s
+[judge ok 109/444] R4519 15.5s
+[judge ok 110/444] R2001 7.1s
+[judge ok 111/444] R0069 13.6s
+[judge ok 112/444] R2169 7.9s
+[judge ok 113/444] R2801 10.6s
+[judge ok 114/444] R1906 13.3s
+[judge ok 115/444] R1481 22.3s
+[judge ok 116/444] R3009 11.1s
+[judge ok 117/444] R1360 18.8s
+[judge ok 118/444] R2446 15.7s
+[judge ok 119/444] R1991 25.4s
+[judge ok 120/444] R3828 36.8s
+[judge ok 121/444] R2391 20.7s
+[judge ok 122/444] R1230 21.1s
+[judge ok 123/444] R2738 21.7s
+[judge ok 124/444] R0346 19.7s
+[judge ok 125/444] R0091 8.8s
+[judge ok 126/444] R0268 10.8s
+[judge ok 127/444] R3089 8.5s
+[judge ok 128/444] R0251 20.1s
+[judge ok 129/444] R3379 28.4s
+[judge ok 130/444] R3548 12.6s
+[judge ok 131/444] R3913 28.8s
+[judge ok 132/444] R2400 15.8s
+[judge ok 133/444] R1980 8.9s
+[judge ok 134/444] R2269 25.7s
+[judge ok 135/444] R4882 17.2s
+[judge ok 136/444] R0027 20.7s
+[judge ok 137/444] R1224 19.9s
+[judge ok 138/444] R0640 17.4s
+[judge ok 139/444] R4165 15.5s
+[judge ok 140/444] R1450 17.0s
+[judge ok 141/444] R4427 16.1s
+[judge ok 142/444] R2935 32.5s
+[judge ok 143/444] R0696 8.1s
+[judge ok 144/444] R1451 12.9s
+[judge ok 145/444] R2447 8.3s
+[judge ok 146/444] R2206 18.9s
+[judge ok 147/444] R2345 15.3s
+[judge ok 148/444] R3397 11.2s
+[judge ok 149/444] R3482 11.5s
+[judge ok 150/444] R0243 11.2s
+[judge ok 151/444] R3081 9.3s
+[judge ok 152/444] R1953 19.0s
+[judge ok 153/444] R3550 23.5s
+[judge ok 154/444] R1060 17.3s
+[judge ok 155/444] R2541 12.1s
+[judge ok 156/444] R3229 18.0s
+[judge ok 157/444] R4825 31.5s
+[judge ok 158/444] R3286 10.2s
+[judge ok 159/444] R2082 17.8s
+[judge ok 160/444] R4494 9.8s
+[judge ok 161/444] R0560 15.5s
+[judge ok 162/444] R2827 20.3s
+[judge ok 163/444] R2842 12.8s
+[judge ok 164/444] R0824 16.0s
+[judge ok 165/444] R0046 10.3s
+[judge ok 166/444] R2986 7.9s
+[judge ok 167/444] R0210 15.7s
+[judge ok 168/444] R2140 12.4s
+[judge ok 169/444] R0134 16.8s
+[judge ok 170/444] R1893 8.7s
+[judge ok 171/444] R1767 14.7s
+[judge ok 172/444] R2621 28.6s
+[judge ok 173/444] R3792 17.3s
+[judge ok 174/444] R0307 16.8s
+[judge ok 175/444] R1470 19.0s
+[judge ok 176/444] R2758 23.8s
+[judge ok 177/444] R1031 23.2s
+[judge ok 178/444] R4864 13.9s
+[judge ok 179/444] R1201 10.3s
+[judge ok 180/444] R2703 13.8s
+[judge ok 181/444] R2124 19.6s
+[judge ok 182/444] R2568 9.6s
+[judge ok 183/444] R0014 15.7s
+[judge ok 184/444] R0746 14.0s
+[judge ok 185/444] R2603 25.0s
+[judge ok 186/444] R0770 10.9s
+[judge ok 187/444] R0254 20.5s
+[judge ok 188/444] R3283 15.5s
+[judge ok 189/444] R2687 11.6s
+[judge ok 190/444] R1473 15.1s
+[judge ok 191/444] R4151 24.8s
+[judge ok 192/444] R2847 12.1s
+[judge ok 193/444] R1964 9.9s
+[judge ok 194/444] R2945 20.1s
+[judge ok 195/444] R1143 9.5s
+[judge ok 196/444] R4525 15.8s
+[judge ok 197/444] R4103 13.7s
+[judge ok 198/444] R2858 10.6s
+[judge ok 199/444] R4728 20.8s
+[judge ok 200/444] R2048 12.0s
+[judge ok 201/444] R2241 17.8s
+[judge ok 202/444] R3818 7.1s
+[judge ok 203/444] R3514 15.5s
+[judge ok 204/444] R0722 26.9s
+[judge ok 205/444] R0324 18.0s
+[judge ok 206/444] R4868 30.2s
+[judge ok 207/444] R3273 14.8s
+[judge ok 208/444] R2290 19.2s
+[judge ok 209/444] R3880 25.2s
+[judge ok 210/444] R4323 27.7s
+[judge ok 211/444] R0420 9.5s
+[judge ok 212/444] R5208 10.9s
+[judge ok 213/444] R1647 22.0s
+[judge ok 214/444] R0536 7.8s
+[judge ok 215/444] R2781 29.5s
+[judge ok 216/444] R3007 17.5s
+[judge ok 217/444] R3907 17.2s
+[judge ok 218/444] R1832 23.3s
+[judge ok 219/444] R2702 17.5s
+[judge ok 220/444] R2825 16.4s
+[judge ok 221/444] R2991 8.9s
+[judge ok 222/444] R3107 7.0s
+[judge ok 223/444] R3225 15.7s
+[judge ok 224/444] R1296 10.5s
+[judge ok 225/444] R1071 10.5s
+[judge ok 226/444] R2894 14.3s
+[judge ok 227/444] R0264 15.0s
+[judge ok 228/444] R0325 19.6s
+[judge ok 229/444] R2985 19.2s
+[judge ok 230/444] R0093 17.3s
+[judge ok 231/444] R1130 26.6s
+[judge ok 232/444] R2785 10.7s
+[judge ok 233/444] R0165 20.1s
+[judge ok 234/444] R2777 22.0s
+[judge ok 235/444] R3266 20.5s
+[judge ok 236/444] R2863 39.3s
+[judge ok 237/444] R1478 25.6s
+[judge ok 238/444] R3145 8.7s
+[judge ok 239/444] R3681 23.6s
+[judge ok 240/444] R2542 13.8s
+[judge ok 241/444] R3886 23.2s
+[judge ok 242/444] R2906 14.4s
+[judge ok 243/444] R2437 7.9s
+[judge ok 244/444] R2024 14.2s
+[judge ok 245/444] R1361 11.2s
+[judge ok 246/444] R0492 22.3s
+[judge ok 247/444] R4153 8.2s
+[judge ok 248/444] R3377 35.1s
+[judge ok 249/444] R0461 19.5s
+[judge ok 250/444] R0691 65.4s
+[judge ok 251/444] R0511 15.6s
+[judge ok 252/444] R0798 16.1s
+[judge ok 253/444] R3582 9.9s
+[judge ok 254/444] R3076 37.0s
+[judge ok 255/444] R0810 19.4s
+[judge ok 256/444] R3287 19.3s
+[judge ok 257/444] R0386 9.2s
+[judge ok 258/444] R4808 16.0s
+[judge ok 259/444] R2700 17.6s
+[judge ok 260/444] R2874 8.7s
+[judge ok 261/444] R1834 15.5s
+[judge ok 262/444] R0815 8.6s
+[judge ok 263/444] R0417 21.5s
+[judge ok 264/444] R2839 9.4s
+[judge ok 265/444] R3386 12.0s
+[judge ok 266/444] R4703 15.7s
+[judge ok 267/444] R2898 18.4s
+[judge ok 268/444] R0887 27.2s
+[judge ok 269/444] R2343 15.7s
+[judge ok 270/444] R3420 21.2s
+[judge ok 271/444] R2771 17.6s
+[judge ok 272/444] R2787 10.6s
+[judge ok 273/444] R1762 18.4s
+[judge ok 274/444] R2168 19.2s
+[judge ok 275/444] R0273 19.2s
+[judge ok 276/444] R2549 16.4s
+[judge ok 277/444] R2247 16.4s
+[judge ok 278/444] R0153 16.5s
+[judge ok 279/444] R0474 21.4s
+[judge ok 280/444] R2934 32.3s
+[judge ok 281/444] R0309 13.8s
+[judge ok 282/444] R0506 21.1s
+[judge ok 283/444] R4748 20.8s
+[judge ok 284/444] R3882 14.7s
+[judge ok 285/444] R2954 29.8s
+[judge ok 286/444] R1905 14.0s
+[judge ok 287/444] R1474 19.2s
+[judge ok 288/444] R3300 84.3s
+[judge ok 289/444] R0247 24.2s
+[judge ok 290/444] R2885 19.3s
+[judge ok 291/444] R0912 8.2s
+[judge ok 292/444] R2401 14.7s
+[judge ok 293/444] R0801 12.5s
+[judge ok 294/444] R0416 24.8s
+[judge ok 295/444] R0868 10.0s
+[judge ok 296/444] R2676 24.5s
+[judge ok 297/444] R0111 27.5s
+[judge ok 298/444] R3908 6.7s
+[judge ok 299/444] R2803 16.1s
+[judge ok 300/444] R1098 14.3s
+[judge ok 301/444] R1816 19.0s
+[judge ok 302/444] R1555 18.4s
+[judge ok 303/444] R4948 13.7s
+[judge ok 304/444] R1885 7.8s
+[judge ok 305/444] R1005 26.7s
+[judge ok 306/444] R2518 52.8s
+[judge ok 307/444] R0724 31.6s
+[judge ok 308/444] R4237 10.0s
+[judge ok 309/444] R0285 14.6s
+[judge ok 310/444] R1409 15.0s
+[judge ok 311/444] R3794 20.7s
+[judge ok 312/444] R4336 35.4s
+[judge ok 313/444] R0711 31.7s
+[judge ok 314/444] R0115 30.5s
+[judge ok 315/444] R3436 19.8s
+[judge ok 316/444] R1298 25.9s
+[judge ok 317/444] R3915 14.3s
+[judge ok 318/444] R3868 16.6s
+[judge ok 319/444] R2227 16.3s
+[judge ok 320/444] R2361 18.7s
+[judge ok 321/444] R0706 10.6s
+[judge ok 322/444] R0989 27.4s
+[judge ok 323/444] R2330 9.2s
+[judge ok 324/444] R3133 10.3s
+[judge ok 325/444] R3072 14.6s
+[judge ok 326/444] R3466 15.7s
+[judge ok 327/444] R2737 24.4s
+[judge ok 328/444] R0345 27.2s
+[judge ok 329/444] R4097 19.0s
+[judge ok 330/444] R3787 14.8s
+[judge ok 331/444] R2832 25.2s
+[judge ok 332/444] R4962 23.2s
+[judge ok 333/444] R4501 15.2s
+[judge ok 334/444] R2972 17.2s
+[judge ok 335/444] R1367 15.1s
+[judge ok 336/444] R1979 18.1s
+[judge ok 337/444] R1537 9.9s
+[judge ok 338/444] R1759 16.8s
+[judge ok 339/444] R2881 13.4s
+[judge ok 340/444] R0781 17.2s
+[judge fail] R0953: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R1702: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R1790: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R3052: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R0918: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R2592: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R4254: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R1512: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R2641: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R0279: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R2719: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R4619: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R4316: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R2905: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R0793: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R3269: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R2081: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R2744: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R1674: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R4401: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R0453: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R1347: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R3440: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R1986: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R1241: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R3552: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R3731: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R0212: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R1277: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R2904: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R1626: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R4800: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R0240: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R1960: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R1025: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R1228: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R0286: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R4876: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R0579: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R2604: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R3955: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R3265: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R0456: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R2956: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R1299: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R1737: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R1550: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R2788: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R4847: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R3449: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R2882: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R2574: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R1757: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R1863: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R3654: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R4067: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R0004: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R1990: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R2887: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R0204: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R3002: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R1943: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R4083: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R0398: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R2864: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R0889: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R1431: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R1787: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R3278: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R2814: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R0112: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R1812: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R2067: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R0901: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R0323: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R2350: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R1132: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R1337: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R4677: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R1983: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R0322: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R0318: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R1660: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R2823: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R1433: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R3134: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R2311: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R1490: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R2800: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R3772: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R0019: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R0635: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R1841: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R0149: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R3627: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R1429: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R1489: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R2786: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R2462: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R1008: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R0493: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R3751: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R1735: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge fail] R2900: failed after 3 attempts: claude error: You've hit your session limit · resets 3:30pm (Asia/Bishkek)
+[judge] finished: 340 ok, 104 failed

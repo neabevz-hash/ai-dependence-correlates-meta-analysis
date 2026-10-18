@@ -1,0 +1,163 @@
+{
+  "effects": {
+    "quotes_checked": 334,
+    "found_verbatim": 332,
+    "too_short_to_check": 0,
+    "share_found": 0.994
+  },
+  "key_fields": {
+    "quotes_checked": 485,
+    "found_verbatim": 466,
+    "too_short_to_check": 11,
+    "share_found": 0.9608
+  },
+  "not_found": [
+    {
+      "job": "R0204",
+      "sample": "Senior College of Teacher Education students, private university, Cebu, Philippi",
+      "item": "population",
+      "quote": "The respondents of this study are the senior college students in a private university in Cebu, Philippines specifically from the College of Teacher Education",
+      "not_found": "therespondentsofthisstudyaretheseniorcollegestudentsinaprivateuniversityincebuphilippinesspecificallyfromthecollegeofteachereducation"
+    },
+    {
+      "job": "R0801",
+      "sample": "University of the Basque Country education students, Spain, n=467",
+      "item": "ai_system",
+      "quote": "The ChatGPT Dependency Scale (Ye et al., 2024) was used to measure ChatGPT reliance... evaluates the extent of excessive use of ChatGPT for academic purposes.",
+      "not_found": "evaluatestheextentofexcessiveuseofchatgptforacademicpurposes"
+    },
+    {
+      "job": "R0474",
+      "sample": "Medical students, private university in Lima, Peru (n=187)",
+      "item": "ai_system",
+      "quote": "explore students’ main motivations for interacting with generative AI tools in academic and personal contexts; [Intro:] AI-powered chatbots such as ChatGPT, Copilot, or Gemini",
+      "not_found": "explorestudentsmainmotivationsforinteractingwithgenerativeaitoolsinacademicandpersonalcontextsaipoweredchatbotssuchaschatgptcopilotorgemini"
+    },
+    {
+      "job": "R3828",
+      "sample": "Study I: Turkish adults (ChatGPT users), PCGUS validation, TUR, n=391",
+      "item": "n_analysed",
+      "quote": "A total of 391 participants, aged between 18 and 59 years (M = 30.89, SD = 8.22)",
+      "not_found": "atotalof391participantsagedbetween18and59yearsm3089sd822"
+    },
+    {
+      "job": "R0724",
+      "sample": "CloudResearch US adults, 4-week ChatGPT RCT (n=981)",
+      "item": "E1",
+      "quote": "Final Loneliness | 1.0 | -0.472 | 0.105 | 0.185 (column: Final Emotional Dependence)",
+      "not_found": "table row: cells not found together"
+    },
+    {
+      "job": "R0724",
+      "sample": "CloudResearch US adults, 4-week ChatGPT RCT (n=981)",
+      "item": "E2",
+      "quote": "Final Loneliness | 1.0 | -0.472 | 0.105 | 0.185 (column: Final Problematic Use)",
+      "not_found": "table row: cells not found together"
+    },
+    {
+      "job": "R2518",
+      "sample": "Aydın Adnan Menderes University students, TUR (criterion-validity analysis; samp",
+      "item": "ai_system",
+      "quote": "genç yetişkinlerin YZ kullanım aşırılığına ilişkin eğilimlerini ölçmeyi [to measure young adults' tendencies toward excessive AI use]; Örnek madde 2: Yapay zekâ uygulamalarını kullanmak beni güçlü hissettirir [using AI applications makes me feel powerful]",
+      "not_found": "gençyetişkinlerinyzkullanımaşırılığınailişkineğilimleriniölçmeyiörnekmadde2yapayzekâuygulamalarınıkullanmakbenigüçlühissettirir"
+    },
+    {
+      "job": "R2320",
+      "sample": "Pakistani young people aged 18-30, universities and community youth groups, Paki",
+      "item": "sampling",
+      "quote": "Stratified purposive sampling technique was used to select the participants covering major urban (Lahore, Karachi and Islamabad) and semi‑urban/rural areas of the provinces of Punjab and Sindh.",
+      "not_found": "stratifiedpurposivesamplingtechniquewasusedtoselecttheparticipantscoveringmajorurbanlahorekarachiandislamabadandsemiurbanruralareasoftheprovincesofpunjabandsind"
+    },
+    {
+      "job": "R3196",
+      "sample": "Farhangian University students, Tehran, Iran (ChatGPT users), n=500",
+      "item": "ai_system",
+      "quote": "the inclusion criteria included using ChatGPT for more than ten hours per week",
+      "not_found": "theinclusioncriteriaincludedusingchatgptformorethantenhoursperweek"
+    },
+    {
+      "job": "R0918",
+      "sample": "Adults (students and working professionals), Rawalpindi/Islamabad, Pakistan, n=1",
+      "item": "population",
+      "quote": "Both students and working professionals were included ... Student 41 40.2 | Working professional 42 41.2 | Both 19 18.6",
+      "not_found": "table row: cells not found together"
+    },
+    {
+      "job": "R2604",
+      "sample": "Vietnamese university students, online survey (n = 1580)",
+      "item": "ai_system",
+      "quote": "AID3 | Are you overly reliant on AI to complete your academic assignments? ... PE3 | AI tools increase your learning productivity.",
+      "not_found": "table row: cells not found together"
+    },
+    {
+      "job": "R2781",
+      "sample": "Chinese international students studying abroad (USA, GBR, AUS, CAN, KOR, other),",
+      "item": "ai_system",
+      "quote": "Chinese international students who use generative AI for academic writing ... Types of generative AI tools: China-based generative AI 162 32.3; International generative AI 340 67.7",
+      "not_found": "typesofgenerativeaitoolschinabasedgenerativeai162323internationalgenerativeai340677"
+    },
+    {
+      "job": "R0273",
+      "sample": "Emerging adults aged 18-25 recruited via social media, Türkiye, n=830",
+      "item": "ai_system",
+      "quote": "En Sık Kullanılan Yapay Zekâ Sohbet Botu: ChatGPT 582 70,1; Gemini 229 27,6; Twitter Grok 12 1,4; DeepSeek 7 0,8 [Most frequently used AI chatbot]",
+      "not_found": "ensıkkullanılanyapayzekâsohbetbotuchatgpt582701gemini229276twittergrok1214deepseek708"
+    },
+    {
+      "job": "R0111",
+      "sample": "University of Lagos final-year undergraduates, Nigeria, n=400",
+      "item": "n_analysed",
+      "quote": "A total of 400 final year undergraduate students participated in the study.",
+      "not_found": "atotalof400finalyearundergraduatestudentsparticipatedinthestudy"
+    },
+    {
+      "job": "R0111",
+      "sample": "University of Lagos final-year undergraduates, Nigeria, n=400",
+      "item": "population",
+      "quote": "A total of 400 final year undergraduate students participated in the study.",
+      "not_found": "atotalof400finalyearundergraduatestudentsparticipatedinthestudy"
+    },
+    {
+      "job": "R2637",
+      "sample": "University students with GenAI experience, 14 Chinese universities, Wenjuanxing ",
+      "item": "population",
+      "quote": "targeting undergraduate and postgraduate students with prior exposure to GenAI",
+      "not_found": "targetingundergraduateandpostgraduatestudentswithpriorexposuretogenai"
+    },
+    {
+      "job": "R2637",
+      "sample": "University students with GenAI experience, 14 Chinese universities, Wenjuanxing ",
+      "item": "sampling",
+      "quote": "administered ... via the “Wenjuanxing” platform, targeting undergraduate and postgraduate students with prior exposure to GenAI",
+      "not_found": "viathewenjuanxingplatformtargetingundergraduateandpostgraduatestudentswithpriorexposuretogenai"
+    },
+    {
+      "job": "R0493",
+      "sample": "Chinese university students, Naodao online platform, CHN, n=1258",
+      "item": "ai_system",
+      "quote": "\"I feel anxious when I am unable to use artificial intelligence\"; People have become accustomed to studying or working with the guidance of artificial intelligence (AI)",
+      "not_found": "ifeelanxiouswheniamunabletouseartificialintelligencepeoplehavebecomeaccustomedtostudyingorworkingwiththeguidanceofartificialintelligenceai"
+    },
+    {
+      "job": "R0770",
+      "sample": "Undergraduates, three private universities, Cebu, Philippines (n = 228)",
+      "item": "sampling",
+      "quote": "selected through non-probability quota sampling based on the proportional representation of students from each university",
+      "not_found": "selectedthroughnonprobabilityquotasamplingbasedontheproportionalrepresentationofstudentsfromeachuniversity"
+    },
+    {
+      "job": "R3627",
+      "sample": "Undergraduates, multiple universities in Liaoning Province, China, n=418",
+      "item": "ai_system",
+      "quote": "who frequently utilized generative GenAI in their studies; I feel noticeably anxious or unsettled when I am unable to use Generative AI.",
+      "not_found": "whofrequentlyutilizedgenerativegenaiintheirstudiesifeelnoticeablyanxiousorunsettledwheniamunabletousegenerativeai"
+    },
+    {
+      "job": "R2972",
+      "sample": "Psychology undergraduates, Siberian Federal University, RUS, n=85",
+      "item": "ai_system",
+      "quote": "потребности в обращении к системам ИИ при выполнении задач [need to turn to AI systems when performing tasks]; зависимость от ИИ-инструментов при выполнении учебных задач [dependence on AI tools when doing study tasks]",
+      "not_found": "потребностивобращенииксистемамиипривыполнениизадачзависимостьотииинструментовпривыполненииучебныхзадач"
+    }
+  ]
+}

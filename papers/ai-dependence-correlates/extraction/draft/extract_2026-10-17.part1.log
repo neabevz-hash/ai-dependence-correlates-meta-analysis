@@ -1,0 +1,118 @@
+[judge] 121 items, 5 done, 116 to judge -> C:\Users\user\articles\papers\ai-dependence-correlates\extraction\draft\extract_2026-10-17.jsonl
+[judge ok 1/116] R2164 33.8s
+[judge ok 2/116] R2603 47.6s
+[judge ok 3/116] R2786 59.3s
+[judge ok 4/116] R2202 63.4s
+[judge ok 5/116] R1478 66.1s
+[judge ok 6/116] R2641 72.9s
+[judge ok 7/116] R2887 44.6s
+[judge ok 8/116] R4868 64.4s
+[judge ok 9/116] R0417 50.0s
+[judge ok 10/116] R2206 51.0s
+[judge ok 11/116] R0868 48.7s
+[judge ok 12/116] R2972 15.4s
+[judge ok 13/116] R2621 68.4s
+[judge ok 14/116] R1991 63.1s
+[judge ok 15/116] R0801 58.0s
+[judge ok 16/116] R0474 53.5s
+[judge ok 17/116] R0416 46.5s
+[judge ok 18/116] R3828 67.3s
+[judge ok 19/116] R0724 88.0s
+[judge ok 20/116] R0579 43.5s
+[judge ok 21/116] R3772 80.5s
+[judge ok 22/116] R1277 65.5s
+[judge ok 23/116] R2954 74.7s
+[judge ok 24/116] R2518 121.5s
+[judge ok 25/116] R1470 46.5s
+[judge ok 26/116] R1298 72.8s
+[judge ok 27/116] R1474 59.2s
+[judge ok 28/116] R3880 65.4s
+[judge ok 29/116] R2823 69.0s
+[judge ok 30/116] R0027 32.8s
+[judge ok 31/116] R1431 60.9s
+[judge ok 32/116] R2320 66.6s
+[judge ok 33/116] R4365 37.1s
+[judge ok 34/116] R1122 40.0s
+[judge ok 35/116] R1433 44.8s
+[judge ok 36/116] R3466 69.5s
+[judge ok 37/116] R2935 43.6s
+[judge ok 38/116] R2096 38.0s
+[judge ok 39/116] R3379 47.8s
+[judge ok 40/116] R2894 50.6s
+[judge ok 41/116] R2658 40.7s
+[judge ok 42/116] R1518 64.4s
+[judge ok 43/116] R4825 29.1s
+[judge ok 44/116] R3196 50.5s
+[judge ok 45/116] R1130 60.8s
+[judge ok 46/116] R0918 38.0s
+[judge ok 47/116] R0247 60.0s
+[judge ok 48/116] R2604 42.7s
+[judge ok 49/116] R2781 51.2s
+[judge ok 50/116] R3886 48.2s
+[judge ok 51/116] R1201 58.3s
+[judge ok 52/116] R0273 106.5s
+[judge ok 53/116] R2782 61.1s
+[judge ok 54/116] R0111 64.4s
+[judge ok 55/116] R1953 53.1s
+[judge ok 56/116] R4882 49.4s
+[judge ok 57/116] R2571 60.6s
+[judge ok 58/116] R0285 39.0s
+[judge ok 59/116] R4323 74.7s
+[judge ok 60/116] R4962 60.8s
+[judge ok 61/116] R0989 60.7s
+[judge ok 62/116] R3548 52.9s
+[judge ok 63/116] R4748 44.5s
+[judge ok 64/116] R1476 37.4s
+[judge fail] R2241: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R1950: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R0490: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R2703: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R3420: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R1025: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R3300: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R0345: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R2459: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R3377: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R2909: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R2863: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R3790: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R2562: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R1490: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R4876: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R0770: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R1912: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R3076: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R2984: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R4124: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R2325: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R2858: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R1000: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R0506: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R2637: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R0781: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R3627: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R0493: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R2898: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R3164: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R2956: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R2934: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R1437: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R0953: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R0954: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R0344: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R0722: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R3265: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R2758: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R0691: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R4363: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R1060: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R1120: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R4232: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R0332: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R0901: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R4615: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R1299: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R2842: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R1498: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge fail] R3037: failed after 3 attempts: claude error: You've hit your session limit · resets 8:50pm (Asia/Bishkek)
+[judge] finished: 64 ok, 52 failed

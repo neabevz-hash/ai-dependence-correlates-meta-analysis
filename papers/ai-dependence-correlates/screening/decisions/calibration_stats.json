@@ -1,0 +1,188 @@
+{
+  "run": "2026-10-16",
+  "ai_labels_sha256": {
+    "opus": "280993bc72daa3e61b8d76bfa80d1795a1ff0649c88885afc7490cb888019582",
+    "sonnet": "d50988c1faac3d72472066de96b154e2fc4f26864e670c9145b466fa66aafa87"
+  },
+  "n_calibration": 400,
+  "n_compared": 400,
+  "calibration_records_without_ai_label": [],
+  "passes": {
+    "opus": {
+      "three_labels": {
+        "agreement": 0.9225,
+        "kappa": 0.7357879485212647,
+        "kappa_ci": [
+          0.654993962394342,
+          0.8128057860029779
+        ],
+        "confusion": {
+          "R1_include": {
+            "AI_include": 14,
+            "AI_unsure": 2,
+            "AI_exclude": 0
+          },
+          "R1_unsure": {
+            "AI_include": 12,
+            "AI_unsure": 31,
+            "AI_exclude": 9
+          },
+          "R1_exclude": {
+            "AI_include": 1,
+            "AI_unsure": 7,
+            "AI_exclude": 324
+          }
+        }
+      },
+      "full_text_vs_exclude": {
+        "agreement": 0.9575,
+        "kappa": 0.8485118517198361,
+        "kappa_ci": [
+          0.7751191868309796,
+          0.9157618869337328
+        ],
+        "ac1": 0.940927353675752,
+        "ac1_ci": [
+          0.9103143035233026,
+          0.9682932521875455
+        ],
+        "sensitivity": 0.8676470588235294,
+        "sensitivity_ci": [
+          0.7635644456904789,
+          0.937651685936562
+        ],
+        "specificity": 0.9759036144578314,
+        "specificity_ci": [
+          0.9530743701788418,
+          0.9895407793474014
+        ],
+        "counts": {
+          "tp": 59,
+          "fn": 9,
+          "tn": 324,
+          "fp": 8
+        }
+      }
+    },
+    "sonnet": {
+      "three_labels": {
+        "agreement": 0.9275,
+        "kappa": 0.7561180724918004,
+        "kappa_ci": [
+          0.6788868075996788,
+          0.8324049884162272
+        ],
+        "confusion": {
+          "R1_include": {
+            "AI_include": 15,
+            "AI_unsure": 1,
+            "AI_exclude": 0
+          },
+          "R1_unsure": {
+            "AI_include": 13,
+            "AI_unsure": 32,
+            "AI_exclude": 7
+          },
+          "R1_exclude": {
+            "AI_include": 1,
+            "AI_unsure": 7,
+            "AI_exclude": 324
+          }
+        }
+      },
+      "full_text_vs_exclude": {
+        "agreement": 0.9625,
+        "kappa": 0.8678879689977101,
+        "kappa_ci": [
+          0.7981651376146787,
+          0.9279884781565052
+        ],
+        "ac1": 0.9476368967879601,
+        "ac1_ci": [
+          0.9201871973008761,
+          0.9723928497480847
+        ],
+        "sensitivity": 0.8970588235294118,
+        "sensitivity_ci": [
+          0.7993347019352242,
+          0.9575995119253875
+        ],
+        "specificity": 0.9759036144578314,
+        "specificity_ci": [
+          0.9530743701788418,
+          0.9895407793474014
+        ],
+        "counts": {
+          "tp": 61,
+          "fn": 7,
+          "tn": 324,
+          "fp": 8
+        }
+      }
+    }
+  },
+  "ai_rule_full_text_unless_both_exclude": {
+    "agreement": 0.9625,
+    "kappa": 0.8694062336757793,
+    "kappa_ci": [
+      0.8010798522307474,
+      0.9287354501544066
+    ],
+    "ac1": 0.9473963379083907,
+    "ac1_ci": [
+      0.9193410514595325,
+      0.9722650765310544
+    ],
+    "sensitivity": 0.9117647058823529,
+    "sensitivity_ci": [
+      0.8177768013320661,
+      0.9669275191103401
+    ],
+    "specificity": 0.9728915662650602,
+    "specificity_ci": [
+      0.9491651577472069,
+      0.9875309726634458
+    ],
+    "counts": {
+      "tp": 62,
+      "fn": 6,
+      "tn": 323,
+      "fp": 9
+    }
+  },
+  "passes_agreement_full_text_vs_exclude": {
+    "agreement": 0.985,
+    "kappa": 0.9468485626965495
+  },
+  "safeguard_triggered": true,
+  "rule_false_negatives": [
+    "R4465",
+    "R4092",
+    "R3093",
+    "R0499",
+    "R3872",
+    "R1968"
+  ],
+  "single_pass_false_negatives": {
+    "opus": [
+      "R4465",
+      "R4092",
+      "R3093",
+      "R0499",
+      "R1525",
+      "R1921",
+      "R3872",
+      "R4067",
+      "R1968"
+    ],
+    "sonnet": [
+      "R4465",
+      "R4092",
+      "R3093",
+      "R0499",
+      "R3872",
+      "R3720",
+      "R1968"
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+family,part,type,draft,decided_by
+DAI,total,T4,T4,agree
+AICD,total,T4,T4,agree
+BERGEN_ADAPTED,total,T1,T1,agree
+GAIDS,total,T1,T1,agree
+GAIDS,Cognitive preoccupation (3 items; one report calls it 'cognitive distress'),T2,T2,agree
+GAIDS,Negative consequences (4 items),T1,T1,agree
+GAIDS,Withdrawal (4 items),T1,T1,agree
+PCUS,total,T1,T1,agree
+PCUS,Salience,T1,T1,agree
+PCUS,Conflict,T1,T1,agree
+PCUS,Withdrawal,T1,T1,agree
+PCUS,Problematic consequences,T1,T1,agree
+PUCAI,total,T1,T1,agree
+ACOSTA5,total,T4,T4,agree
+IAT_ADAPTED,total,T4,T4,agree
+IAT_ADAPTED,"Y_FunctionalDep: Cognitive Integration and Habit (ADS-R, 9 items)",T2,T2,agree
+IAT_ADAPTED,"Y_AutonomyLoss: Autonomy Erosion and Life Proxy (ADS-R, 6 items)",T2,T2,agree
+ZHANG5,total,T4,T4,agree
+AIDEP22,total,T4,T4,agree
+AIDEP22,Emotional dependence (5 items),T1,T1,agree
+AIDEP22,Functional dependence (6 items),T2,T2,agree
+AIDEP22,Cognitive dependence (5 items),T2,T2,agree
+AIDEP22,Loss of control (6 items),T1,T1,agree
+HUANG5,total,T1,T1,agree
+SIRVENT,total,T3,T3,agree
+AIDQ,total,T2,T2,agree
+CAIDS,total,T4,T4,agree
+CAIDS,Uncontrollability (CAIDS-20),T1,T1,agree
+CAIDS,Withdrawal symptoms (CAIDS-20),T1,T1,agree
+CAIDS,Mood modification (CAIDS-20),T1,T1,agree
+CAIDS,Negative impact (CAIDS-20),T1,T1,agree
+CAIDS,Functional dependence (12-item revision),T2,T2,agree
+CAIDS,Emotional dependence (12-item revision),T3,T3,agree
+TANG3,total,T2,T2,agree
+YE_CHATGPT,total,T2,T2,agree
+CAID,total,T4,T4,agree
+CAID,Instrumental Dependence (ID),T2,T2,agree
+CAID,Emotional Dependence (ED),T3,T3,agree
+CAPINDING,total,T2,T2,agree
+CAPINDING,Writing (11 items),T2,T2,agree
+CAPINDING,Reading (10 items),T2,T2,agree
+CAPINDING,Numeracy/Arithmetic (12 items),T2,T2,agree
+LLMD12,total,T4,T4,agree
+LLMD12,Instrumental Dependency (ID1–ID6),T2,T2,agree
+LLMD12,Relationship Dependency (RD1–RD6),T3,T3,agree
+ADHOC_R0027_1,total,T3,T3,agree
+ADHOC_R0247_1,total,T4,T2,R1
+ADHOC_R0344_1,total,T4,T4,agree
+ADHOC_R0345_1,total,T4,T4,agree
+ADHOC_R0345_1,Dependencia Funcional (Functional Dependence),T2,T2,agree
+ADHOC_R0345_1,Dependencia Emocional (Emotional Dependence),T3,T3,agree
+ADHOC_R0345_1,Dependencia Cognitiva (Cognitive Dependence),T2,T2,agree
+ADHOC_R0416_1,total,T2,T2,agree
+ADHOC_R0417_1,total,T4,T4,agree
+ADHOC_R0490_1,total,T4,T4,agree
+ADHOC_R0579_1,total,T1,T1,agree
+ADHOC_R0579_1,Salience,T1,T1,agree
+ADHOC_R0579_1,Mood Modification,T1,T1,agree
+ADHOC_R0579_1,Excessive Dependency,T4,T4,agree
+ADHOC_R0579_1,Functional Impairment,T1,T1,agree
+ADHOC_R0690_1,total,T4,T4,agree
+ADHOC_R0690_1,"Direct Interaction Reliance (DIR; Q2-Q5, Q12)",T4,T4,agree
+ADHOC_R0690_1,Practical/Applied Dependency (PAD; Q6-Q10),T2,T2,agree
+ADHOC_R0690_1,"Cognitive/Affective Reliance (CAR; Q1, Q11, Q13-Q15)",T4,T4,agree
+ADHOC_R0691_1,total,T4,T4,agree
+ADHOC_R0691_1,"Direct Interaction Reliance (DIR; Q2, Q3, Q4, Q5, Q12)",T4,T4,agree
+ADHOC_R0691_1,Practical/Applied Dependency (PAD; Q6–Q10),T2,T2,agree
+ADHOC_R0691_1,"Cognitive/Affective Reliance (CAR; Q1, Q11, Q13–Q15)",T4,T4,agree
+ADHOC_R0868_1,total,T4,T4,agree
+ADHOC_R0953_3,total,T1,T1,agree
+ADHOC_R0953_3,Impaired control,T1,T1,agree
+ADHOC_R0953_3,Increasing priority,T1,T1,agree
+ADHOC_R0953_3,Continuation despite negative consequences,T1,T1,agree
+ADHOC_R0953_3,Clinically significant impairment/therapeutic interference,T1,T1,agree
+ADHOC_R1120_1,total,T4,T4,agree
+ADHOC_R1122_1,total,T1,T1,agree
+ADHOC_R1130_1,total,T4,T4,agree
+ADHOC_R1298_1,total,T1,T1,agree
+ADHOC_R1478_1,total,T4,T4,agree
+ADHOC_R1478_1,Functional dependence,T2,T2,agree
+ADHOC_R1478_1,Existential dependence,T4,T4,agree
+ADHOC_R1490_1,total,T1,T1,agree
+ADHOC_R1912_1,total,T3,T3,agree
+ADHOC_R1950_1,total,T4,T4,agree
+ADHOC_R1953_1,total,T4,T4,agree
+ADHOC_R1991_1,total,T2,T2,agree
+ADHOC_R1991_1,Difficulty completing academic tasks without AI (4 items),T2,T2,agree
+ADHOC_R1991_1,Uncritical acceptance of AI output (3 items),T2,T2,agree
+ADHOC_R2320_1,total,T1,T1,agree
+ADHOC_R2325_1,total,T2,T2,agree
+ADHOC_R2518_1,total,T4,T4,agree
+ADHOC_R2518_1,Davranışsal Kontrolsüzlük / Behavioural Dyscontrol (10 items),T1,T1,agree
+ADHOC_R2518_1,Duygusal Bağlanma / Emotional Attachment (6 items),T4,T4,agree
+ADHOC_R2518_1,Bilişsel Zayıflama / Cognitive Impairment (5 items),T2,T2,agree
+ADHOC_R2603_1,total,T4,T4,agree
+ADHOC_R2621_1,total,T2,T2,agree
+ADHOC_R2637_1,total,T4,T4,agree
+ADHOC_R2863_1,total,T4,T4,agree
+ADHOC_R2863_3,total,T4,T4,agree
+ADHOC_R2887_1,total,T4,T4,agree
+ADHOC_R2887_1,Loss of control (LPA core subdimension),T1,T1,agree
+ADHOC_R2887_1,Compulsive use (LPA core subdimension),T1,T1,agree
+ADHOC_R2887_1,Academic avoidance (LPA core subdimension),T4,T4,agree
+ADHOC_R2934_1,total,T2,T2,agree
+ADHOC_R2954_2,total,T2,T2,agree
+ADHOC_R2954_2,Academic Self-Efficacy Anxiety,T2,T2,agree
+ADHOC_R2954_2,Lack of Academic Confidence without AI,T2,T2,agree
+ADHOC_R2984_1,total,T4,T4,agree
+ADHOC_R2984_1,"F1 Соціально-емоційна залежність (items 1,2,3,7)",T3,T3,agree
+ADHOC_R2984_1,"F2 Поведінково-когнітивна залежність (items 4,5,8,9,10,11)",T4,T4,agree
+ADHOC_R2984_1,"ІКМ Critical Thinking Indicator (item 6, reverse-scored, outside total)",T2,T2,agree
+ADHOC_R2984_2,total,T4,T4,agree
+ADHOC_R2984_2,"Factor А: Штучна інтимність та антропоморфізація (Artificial intimacy and anthropomorphisation; items 1, 2, 7, 9)",T3,T3,agree
+ADHOC_R2984_2,"Factor Б: Когнітивна атрофія та втрата автономності (Cognitive atrophy and loss of autonomy; items 4, 5, 8)",T2,T2,agree
+ADHOC_R2984_2,"Factor В: Втрата контролю та дезадаптивний копінг (Loss of control and maladaptive coping; items 3, 10, 11)",T1,T1,agree
+ADHOC_R3196_1,total,T4,T4,agree
+ADHOC_R3627_1,total,T2,T2,agree
+ADHOC_R3627_1,Affective Dependency,T4,T4,agree
+ADHOC_R3627_1,Behavioural Dependency,T2,T2,agree
+ADHOC_R3627_1,Cognitive Dependency,T2,T2,agree
+ADHOC_R3792_1,total,T4,T4,agree
+ADHOC_R4232_1,total,T1,T1,agree
+ADHOC_R4232_2,total,T1,T1,agree
+ADHOC_R4232_2,Preoccupation,T1,T1,agree
+ADHOC_R4232_2,Tolerance,T1,T1,agree
+ADHOC_R4232_2,Withdrawal,T1,T1,agree
+ADHOC_R4232_2,Persistence,T1,T1,agree
+ADHOC_R4232_2,Escape,T1,T1,agree
+ADHOC_R4232_2,Problems,T1,T1,agree
+ADHOC_R4232_2,Deception,T1,T1,agree
+ADHOC_R4232_2,Displacement,T1,T1,agree
+ADHOC_R4232_2,Conflict,T1,T1,agree
+ADHOC_R4323_1,total,T1,T1,agree
+ADHOC_R4615_1,total,T1,T1,agree
+ADHOC_R4677_1,total,T4,T4,agree
+ADHOC_R4748_1,total,T4,T4,agree
+ADHOC_R4825_1,total,T4,T4,agree
+ADHOC_R4868_1,total,T4,T4,agree
+ADHOC_R4882_1,total,T1,T1,agree
+ADHOC_R4962_1,total,T1,T1,agree
