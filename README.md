@@ -11,11 +11,11 @@ This repository contains the records, decisions, extracted data and analysis cod
 ## The review in brief
 
 - **Question.** How strongly is dependence on generative and conversational AI associated with depression, anxiety, stress, loneliness, social anxiety, self-esteem and procrastination (and 23 secondary correlates), and does the association differ by type of dependence scale (T1 addiction-type, T2 functional, T3 emotional, T4 mixed)?
-- **Search.** 16 October 2026: PubMed, Europe PMC, OpenAlex (also non-English phrases), Semantic Scholar, Crossref, DataCite, OpenAIRE, CORE and works citing seven instrument papers (OpenAlex), no language limits; 11,379 records, 5,056 screened. Citation searching of the included studies and seven reviews on 17 October 2026.
+- **Search.** 16 October 2026: PubMed, Europe PMC, OpenAlex (also non-English phrases), Semantic Scholar, Crossref, DataCite, OpenAIRE, CORE and works citing seven instrument papers (OpenAlex), no language limits; 11,379 records, 5,056 screened. Citation searching of the included studies and seven reviews on 17 October 2026. Records hosted on OSF, unavailable during an OSF outage, were retrieved on 18 October 2026 (deviations D9).
 - **Selection.** One reviewer (the author) decided every record kept by the AI and every full text. Two AI passes (Claude Opus 5.5 and Claude Sonnet 5.5 through Claude Code 2.1.289, fixed prompts, no tools) labelled titles and abstracts; a blind calibration sample of 400 records triggered the pre-specified safeguard, and the reviewer then screened all double exclusions blind. The AI drafted full-text proposals, scale types and extraction forms; the reviewer verified every value.
-- **Included.** 124 reports, 121 studies, 124 independent samples, 73,993 participants, 334 zero-order associations.
+- **Included.** 126 reports, 123 studies, 127 independent samples, 74,492 participants, 386 zero-order associations.
 - **Analysis.** Correlated and hierarchical effects (CHE) models on Fisher's z with CR2 cluster-robust inference (`metafor`, `clubSandwich`), small-study tests (`weightr`), GRADE.
-- **Main results.** Pooled r: depression 0.32, anxiety 0.37, stress 0.35, loneliness 0.29, social anxiety 0.36, procrastination 0.28, self-esteem −0.20; every 95% prediction interval crossed zero. The registered contrast of scale types T1–T3 was not estimable (T2 and T3 scales were rarely used with these correlates).
+- **Main results.** Pooled r: depression 0.32, anxiety 0.37, stress 0.35, loneliness 0.28, social anxiety 0.36, procrastination 0.26, self-esteem −0.18; every 95% prediction interval crossed zero. The registered contrast of scale types T1–T3 was not estimable (T2 and T3 scales were rarely used with these correlates).
 
 ## Repository layout
 
@@ -24,7 +24,7 @@ All study files are under `papers/ai-dependence-correlates/`.
 | Path | Contents |
 | --- | --- |
 | `protocol.md` | Protocol v1.0 (frozen 16 October 2026, git tag `ai-dependence-prereg-v1.0` in the working repository; deposited on Zenodo) |
-| `deviations.md` | Every change and clarification after registration, dated (D1–D8; Supplementary File S3) |
+| `deviations.md` | Every change and clarification after registration, dated (D1–D9; Supplementary File S3) |
 | `search/` | Search, de-duplication, recall and citation-searching scripts; `runs/2026-10-16/`: search log with every query, raw exports (zip), unique records, screening list (CSV, RIS), recall on the seed set; `runs/2026-10-16-check/`: the check run; `runs/2026-10-17-citations/`: citation searching |
 | `screening/` | AI screening prompt and runner, both AI passes with the prompt hash and SHA-256 of the label files, blind calibration, safeguard re-screening, verification worksheets and final decisions (`decisions/tiab_final.csv`) |
 | `fulltext/` | Retrieval scripts and log (open access only), full-text prompt and AI proposals, the reviewer's worksheets and decisions (`decisions/ft_R1.csv`, `ft_R1_chase.csv`), PRISMA counts |

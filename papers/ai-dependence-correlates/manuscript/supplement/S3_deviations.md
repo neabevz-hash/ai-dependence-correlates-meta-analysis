@@ -64,3 +64,14 @@ All changes after registration, dated and justified.
 - **Planned (§15b):** pooled r for depression, anxiety, stress and loneliness set beside the problematic social media use estimates of Huang (2022), https://doi.org/10.1177/0020764020978434, descriptively.
 - **Not done:** the article is closed (Unpaywall and OpenAlex: no open copy, 2026-10-17/18) and the abstract gives no coefficients. Under the review's rule of open-access sources only, the numbers cannot be taken from the source; second-hand values are not used.
 - **Effect:** none on the pooled results; the comparison is dropped from the Discussion.
+
+## D9. OSF-hosted records retrieved after the OSF outage (2026-10-18)
+
+- **Planned (§11b):** open-access full texts of every report sent to full-text screening.
+- **What happened:** OSF was down for a cloud migration from 16 October 2026 (D1); the 46 records hosted on OSF (DOIs 10.17605/osf.io and 10.31234/osf.io) could not be retrieved on 17 October and were counted as not retrieved. OSF came back early (status page: migration completed; checked 18 October 2026, 06:49 UTC), before the manuscript was submitted.
+- **Done on 18 October 2026:**
+  - `fulltext/fetch_oa.py --only` (the 46 records): 7 PDFs. Two PsyArXiv preprints and one OSF project file were Word manuscripts, downloaded from their OSF download links and converted like R1's manual files.
+  - 28 records were OSF registrations (preregistration forms) without a report; their full text is the registration form, taken from the OSF API (`fulltext/fetch_osf_registrations.py`).
+  - 8 records were OSF projects with data or analysis files only and no report: not retrieved.
+  - AI proposals with the frozen full-text prompt v1.0 (`fulltext/llm/ft_osf_2026-10-18.jsonl`); R1 decides every report (`fulltext/decisions/ft_R1_13.md`). Eligible reports go through the frozen extraction prompt v1.0 and R1's verification like all others; the analysis, tables, supplement and manuscript are then updated.
+- **Effect on the review:** the PRISMA counts change; any newly eligible study enters all analyses.

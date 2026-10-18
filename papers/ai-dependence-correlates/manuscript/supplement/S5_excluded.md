@@ -2,7 +2,7 @@
 
 ## Database search
 
-325 reports, with the primary reason (PRISMA 2020).
+361 reports, with the primary reason (PRISMA 2020).
 
 | Record | First author | Year | Title | DOI | Reason |
 | --- | --- | --- | --- | --- | --- |
@@ -84,6 +84,7 @@
 | R0786 | Fu | 2026 | Mixed-methods study on GenAI Usage, dependence behaviors, and standardized application paths among Chinese medical students. | 10.1038/s41746-026-02839-4 | no zero-order association |
 | R0979 | Ho | 2026 | How Consistent Friendlike Conversation with AI Companions Influences Our Attitudes and Perceptions Toward AI: An Exploratory Experiment. | 10.3390/bs16020278 | no zero-order association |
 | R1031 | Hussain | 2026 | Cognitive Offloading and AI Literacy in Higher Education: A Dual-Process Model of Generative AI Dependency and Student Meta cognitive Agency | 10.5281/zenodo.22873727 | no zero-order association |
+| R1372 | Lau | 2026 | AI Fatigue in Human–AI Interaction: Conceptual Framework, Scale Development and Validation, and Associations with AI Engagement | 10.31234/osf.io/kp7zs_v1 | no zero-order association |
 | R1429 | Li | 2026 | Impact of Generative Artificial Intelligence Dependency on the Mental Health of College Students: The Mediating Role of Cognitive Load | 10.62177/apemr.v3i7.1679 | no zero-order association |
 | R1450 | Liebherr | 2026 | Development and Validation of the German Version of the Large Language Model Dependency Scale | 10.21203/rs.3.rs-8997779/v1 | no zero-order association |
 | R1451 | Liebherr | 2026 | Development and validation of the German version of the large language model dependency scale (LLM-D12) | 10.1007/s44163-026-01781-4 | no zero-order association |
@@ -111,39 +112,65 @@
 | R0380 | Bokharaee Ghoochani | 2026 | Emotional Use of AI Chatbots Scale (EUACS): English Version | 10.5281/zenodo.21704983 | design (review, qualitative, other) |
 | R0386 | Bose | 2026 | Generative Artificial Intelligence as an Emerging Source of Emotional Support Among Indian Young Adults: The Roles of Loneliness, Psychological Distress, Perceived Social Support, and Conversational AI Dependence | 10.5281/zenodo.22028734 | design (review, qualitative, other) |
 | R0461 | Chalkidis | 2026 | Brainrot: Deskilling and Addiction are Overlooked AI Risks | 10.48550/arxiv.2605.03512 | design (review, qualitative, other) |
+| R0491 | Chen | 2026 | The Double-Edged Sword of Mindfulness: Acting with Awareness Exacerbates the Adverse Effect of AI Dependence on Students' Academic Self-Efficacy | 10.17605/osf.io/w59r6 | design (review, qualitative, other) |
 | R0536 | COŞKUN | 2026 | Yapay zekâ bağımlılığı ve epistemik tembellik: Bilim felsefesi açısından bir inceleme | 10.71350/3108610115 | design (review, qualitative, other) |
 | R0566 | Dash | 2026 | GenAI Dependency and the Crowding-Out of Traditional Study Habits Among University Students | 10.36948/ijfmr.2026.v08i03.82896 | design (review, qualitative, other) |
+| R0617 | Ding | 2026 | A Longitudinal Panel Network of AI Dependency, Offline–Digital Authenticity and Mentalizing, and Adolescent Mental Health: Bridge Centrality Analysis | 10.17605/osf.io/hcq69 | design (review, qualitative, other) |
+| R0619 | Ding | 2026 | Longitudinal Associations of Instrumental and Relational AI Dependency, Offline and Online Authenticity, and Adolescent Well-Being: A Three-Wave Random-Intercept Cross-Lagged Panel Study | 10.17605/osf.io/w2hq3 | design (review, qualitative, other) |
+| R0620 | Ding | 2026 | Longitudinal Associations of Instrumental and Relational AI Dependency, Offline and Online Mentalizing Uncertainty, and Adolescent Psychological Distress: A Three-Wave Random-Intercept Cross-Lagged Panel Study | 10.17605/osf.io/9y73g | design (review, qualitative, other) |
+| R0621 | Ding | 2026 | Offline–Online Authenticity Profiles, Three-Wave Transitions, and Their Longitudinal Associations with AI Dependency and Mental Health in Adolescents: Latent Profile and Latent Transition Analyses | 10.17605/osf.io/vdz9q | design (review, qualitative, other) |
+| R0622 | Ding | 2026 | Offline–Online Mentalizing-Uncertainty Profiles, Three-Wave Transitions, and Their Longitudinal Associations with AI Dependency and Mental Health in Adolescents: Latent Profile and Latent Transition Analyses | 10.17605/osf.io/qw6gh | design (review, qualitative, other) |
+| R0623 | Ding | 2026 | Online and Offline Authentic Living Profiles, AI Dependency, and Well-Being in Adolescents: A T1 Cross-Sectional Study | 10.17605/osf.io/ydx49 | design (review, qualitative, other) |
+| R0624 | Ding | 2026 | Online and Offline Authentic Living, AI Dependency, and Adolescent Well-Being: A T1 Cross-Sectional Response Surface Analysis | 10.17605/osf.io/5n7ab | design (review, qualitative, other) |
+| R0625 | Ding | 2026 | Online and Offline Mentalizing Certainty and Uncertainty Profiles, AI Dependency, and Psychological Distress in Adolescents: A T1 Cross-Sectional Study | 10.17605/osf.io/nrtby | design (review, qualitative, other) |
+| R0626 | Ding | 2026 | Online and Offline Mentalizing Uncertainty, AI Dependency, and Adolescent Psychological Distress: A T1 Cross-Sectional Response Surface Analysis | 10.17605/osf.io/tp249 | design (review, qualitative, other) |
 | R0696 | Enoiu | 2026 | (Over)Reliance on Test Agents in AI-Assisted Software Testing | 10.1007/978-3-032-35506-5_25 | design (review, qualitative, other) |
 | R0704 | Espinoza | 2026 | Descarga Cognitiva Y Dependencia De La Inteligencia Artificial: Implicaciones Para El Pensamiento Crítico | 10.5281/zenodo.23106401 | design (review, qualitative, other) |
 | R0706 | Excellent Educator | 2026 | AI Literacy, Trust, and Dependency | 10.5281/zenodo.18438370 | design (review, qualitative, other) |
+| R0776 | Franziska | 2026 | A survey on the use of LLM-based chatbots and mental health | 10.17605/osf.io/2jxw5 | design (review, qualitative, other) |
+| R0778 | Frenkenberg | 2026 | Behavioral Signatures of AI-Related Anxiety and Dependency: A Pre-Registered Experimental Study of Real-Time Human-AI Interaction | 10.17605/osf.io/g2txe | design (review, qualitative, other) |
 | R0961 | Heartly | 2026 | AI Dependence as Strategic Fragility: Time-to-Paralysis and Organizational Resilience | 10.5281/zenodo.23378250 | design (review, qualitative, other) |
 | R0977 | hiyamizu | 2026 | Updates Break People— The Term "AI Addiction" Is Wrong. This Is Structural Violence. 「AI依存は存在しない~朝の30分の質問で医学的な裏付けがでた話~ | 10.5281/zenodo.19463433 | design (review, qualitative, other) |
+| R0984 | Homan | 2026 | Chat-Health - Investigation of the usage behaviour of individuals with health-related concerns when using ChatGPT | 10.17605/osf.io/u57ws | design (review, qualitative, other) |
+| R1069 | Isa | 2026 | FEELING HEARD BY AI: EMOTIONAL LONELINESS, ANTHROPOMORPHISM, RESPONSIVENESS, WARMTH, AND DEPENDENCE | 10.17605/osf.io/b28gp | design (review, qualitative, other) |
 | R1098 | Jain | 2026 | An Analysis of AI in Education and Skill Development | 10.5281/zenodo.23065806 | design (review, qualitative, other) |
 | R1132 | Johari | 2026 | Overreliance on Artificial Intelligence in Malaysian Education: Ethical Implications and a Maqasid Shariah-Based Hybrid Intelligence Framework | 10.61688/jev.v7i1.569 | design (review, qualitative, other) |
 | R1246 | Khezabi | 2026 | The Fine Line Between Encouragement and Dependency in the Age of Artificial Intelligence: Redesigning Students' Motivation | 10.5281/zenodo.22800360 | design (review, qualitative, other) |
+| R1304 | Kossek | 2026 | Connected, but to Whom? - How AI Engagement Shapes Developmental Networks and Need Satisfaction | 10.17605/osf.io/tpnd4 | design (review, qualitative, other) |
 | R1337 | kurato | 2026 | Rational AI Dependence Through Capability Augmentation: A Reference-Dependent Model Without Requiring Skill Degradation | 10.5281/zenodo.22656151 | design (review, qualitative, other) |
 | R1464 | Lino | 2026 | APRENDER A APRENDER EN LA ERA DE LA IA: METACOGNICIÓN, AUTORREGULACIÓN Y ESTRATEGIAS DE RECUPERACIÓN PARA PREVENIR LA DEPENDENCIA DE LA INTELIGENCIA ARTIFICIAL | 10.56519/pdhhp995 | design (review, qualitative, other) |
 | R1503 | Lohana | 2026 | AI AS ASSISTANT OR SUBSTITUTE? NEGOTIATING LEARNER AUTONOMY AND TECHNOLOGICAL DEPENDENCE IN AI-MEDIATED ENGLISH LANGUAGE LEARNING | 10.5281/zenodo.22806201 | design (review, qualitative, other) |
+| R1524 | Luo | 2026 | Problematic AI Use Shapes Perceived Impact: A Motivational Network and Bayesian Path Analysis | 10.17605/osf.io/ekjmg | design (review, qualitative, other) |
+| R1559 | Maj | 2026 | Loneliness and Problematic AI Chatbot Use: A Mediating Role of Self-Efficacy | 10.17605/osf.io/87xq5 | design (review, qualitative, other) |
+| R1639 | Merl | 2026 | Judgment and Decision Making in Young Adults in the Context of Generative Artificial Intelligence (GenAI) | 10.17605/osf.io/dvsm3 | design (review, qualitative, other) |
+| R1650 | Miqdadi | 2026 | Beyond Academic Support, Artificial Intelligence as a Coping Resource Among University Students–A Cross-Sectional Analysis of Psychological Distress, AI Attachment, and AI Dependency | 10.17605/osf.io/x9wvq | design (review, qualitative, other) |
 | R1674 | Moktan | 2026 | The Neuro-Cognitive Pathway to Autonomy: Countering AI Dependency through Sovereign Integration | 10.5281/zenodo.20348749 | design (review, qualitative, other) |
+| R1699 | Muller | 2026 | Mindful technology use, escapist AI chatbot use, and context-specific AI chatbot dependency in adolescents | 10.17605/osf.io/azd7u | design (review, qualitative, other) |
+| R1700 | Muller | 2026 | Multilevel statistical predictors of context-specific AI chatbot dependency in adolescents | 10.17605/osf.io/tzrdc | design (review, qualitative, other) |
 | R1757 | Navilah | 2026 | AI dependency and its impact on EFL students’ authentic language performance: A qualitative exploratory study | 10.55942/pssj.v6i5.1804 | design (review, qualitative, other) |
 | R1767 | Nekludoff | 2026 | AI-Mediated Organizational Decision-Integrity Threats: A Security Model for Normative and Evaluative Dependence on External AI Systems | 10.5281/zenodo.22799231 | design (review, qualitative, other) |
 | R1790 | Nomlala | 2026 | Overreliance on artificial intelligence in academic research: A study of non-native english-speaking students’ experiences in research proposal writing at a South African university | 10.31893/multiscience.2027138 | design (review, qualitative, other) |
+| R1822 | Ochoa | 2026 | AI, Social Connection, and Wellbeing | 10.17605/osf.io/ryb5n | design (review, qualitative, other) |
 | R1834 | Okmurzayev | 2026 | COVERAGE OF THE ISSUE OF EMOTIONAL DEPENDENCE ON ARTIFICIAL INTELLIGENCE IN THE RESEARCH OF UZBEK SCHOLARS | 10.5281/zenodo.21820498 | design (review, qualitative, other) |
 | R1885 | Pantic | 2026 | Introducing the AI addiction scale (AIAS-21): a screening tool for problematic AI use. | 10.1007/s00787-025-02874-8 | design (review, qualitative, other) |
 | R1888 | Park | 2026 | AI Influence Among Gen Z Employees in Today's Hybrid and AI-Influenced Work Environments After the Pandemic | 10.5281/zenodo.20350693 | design (review, qualitative, other) |
 | R1893 | Parkar | 2026 | From Assistance to Dependence: Investigating the Effects of Generative AI on Student Learning, Retention, and Study Effort | 10.64388/irev10i4-1724092 | design (review, qualitative, other) |
 | R1905 | Patel | 2026 | The Cognitive Vulnerability: How Human Dependence on AI Threatens Security, Innovation, and Civilizational Progress | 10.5281/zenodo.19348904 | design (review, qualitative, other) |
 | R1964 | Prudente | 2026 | Purely Deterministic Token Generation (PDTG): Eliminating AI Dependency from the Tensor-Native Semantic Computing Pipeline Through Pure Mathematical Token Construction | 10.5281/zenodo.19323542 | design (review, qualitative, other) |
+| R1984 | Putri | 2026 | Nudging, Task Complexity, and AI Dependence: An Experimental Approach | 10.17605/osf.io/dgnvm | design (review, qualitative, other) |
 | R2001 | qizi | 2026 | LOST IN TRANSLATION: HOW OVER-RELIANCE ON AI TOOLS SLOWS LANGUAGE LEARNING | 10.5281/zenodo.21604886 | design (review, qualitative, other) |
 | R2002 | qizi | 2026 | Sun'iy intellektga bog'liqlik o'quvchilarni kamroq aqlli qiladimi yoki samaraliroq qiladimi / Зависимость от ИИ делает студентов менее или более эффективными? / Is Dependence on AI Making Students Less Intelligent or More Efficient? | 10.5281/zenodo.21265420 | design (review, qualitative, other) |
+| R2018 | R. | 2026 | Political Dependency terhadap Artificial Intelligence: Analisis Pergeseran Otoritas Pengetahuan Politik di Kalangan Mahasiswa Indonesia | 10.17605/osf.io/w86kq | design (review, qualitative, other) |
 | R2025 | Rahim | 2026 | Academic Motivation and Integrity in the Era of Generative AI: Critical Reflections on Students' Dependence on AI Tools | 10.47772/ijriss.2026.102400005 | design (review, qualitative, other) |
 | R2124 | Ruhangariyo | 2026 | The Infrastructure Sovereignty Gap: A Framework for Measuring National AI Dependency through the National AI Sovereignty Index (NASI) | 10.5281/zenodo.18521493 | design (review, qualitative, other) |
 | R2140 | Ryder | 2026 | When the Backup Takes a Decade: AI Dependency, Active Human Fallback, and Hysteresis in Professional Formation | 10.5281/zenodo.21997761 | design (review, qualitative, other) |
 | R2169 | Salah | 2026 | عندما تفرط الآلات في التفكير: الاعتماد الخفي على الذكاء الاصطناعي في الحياة الرقمية اليومية When Machines Overthink: The Hidden Reliance on Artificial Intelligence in Everyday Digital life | 10.5281/zenodo.19375003 | design (review, qualitative, other) |
 | R2343 | SINGH3 | 2026 | AI Dependence And Self-Trust In Personal Thinking Among College Students | 10.5281/zenodo.22005898 | design (review, qualitative, other) |
+| R2344 | Siniscalchi | 2026 | Attachment style and AI use | 10.17605/osf.io/jzwfq | design (review, qualitative, other) |
 | R2447 | Tadavi | 2026 | Artificial Intelligence and Emotional Dependency: Examining Human Attachment in the Digital Age | 10.5281/zenodo.21130493 | design (review, qualitative, other) |
 | R2469 | Tanvir | 2026 | Artificial Intelligence, Human Cognition, and Intellectual Dependency: Balancing AI-Assisted Productivity with Independent Thinking through Cognitive Science and Islamic Epistemology | 10.5281/zenodo.21325159 | design (review, qualitative, other) |
 | R2592 | Velugeti | 2026 | AI Dependency in Education | 10.5281/zenodo.20833897 | design (review, qualitative, other) |
+| R2650 | Wang | 2026 | Self-Threat, Beliefs, AI-related attitudes, And Wellbeing | 10.17605/osf.io/s8h2f | design (review, qualitative, other) |
 | R2700 | Wu | 2026 | Systematic evidence mapping shows artificial intelligence dependence claims outnumber corresponding assessments in health professions education | 10.21203/rs.3.rs-10777064/v1 | design (review, qualitative, other) |
 | R2702 | Wu | 2026 | The Influence Mechanism of Critical Thinking in the Context of Generative Artificial Intelligence | 10.12677/ap.2026.1610466 | design (review, qualitative, other) |
 | R2744 | Yamada | 2026 | Lonely happiness: a response to Nakagomi et al. (2026) on AI companionship and wellbeing | 10.5281/zenodo.21532636 | design (review, qualitative, other) |
@@ -156,6 +183,7 @@
 | R3107 | Alhur | 2025 | Paradox of AI in Higher Education: Qualitative Inquiry Into AI Dependency Among Educators in Palestine. | 10.2196/74947 | design (review, qualitative, other) |
 | R3133 | Amalia | 2025 | Dependensi Artificial Intelligence dan Kemampuan Analisis Kritis dalam Pembelajaran Pendidikan Pancasila | 10.51903/qecfbj02 | design (review, qualitative, other) |
 | R3145 | Anari | 2025 | Managing Students' Cognitive Dependence on AI-Generated Responses | 10.5281/zenodo.21822153 | design (review, qualitative, other) |
+| R3340 | Danchev | 2025 | Can Exposure to Multiple Reasoning Models Mitigate Human Overreliance on Large Language Models (LLMs): A Survey Experiment | 10.17605/osf.io/nrmke | design (review, qualitative, other) |
 | R3364 | Djavairovna | 2025 | EXCESSIVE USE OF ARTIFICIAL INTELLIGENCE LEADS TO A DECREASE IN THINKING ABILITY | 10.5281/zenodo.17883677 | design (review, qualitative, other) |
 | R3385 | Dumasapal | 2025 | Enhancing Student Adaptability and Reducing AI Dependence through an Interactive Learning and Mentorship Portal (ILMP) | 10.5281/zenodo.17910215 | design (review, qualitative, other) |
 | R3386 | Dumasapal | 2025 | Enhancing Student Adaptability and Reducing AI Dependence through an Interactive Learning and Mentorship Portal (ILMP) | 10.47191/ijmra/v8-i11-53 | design (review, qualitative, other) |
@@ -169,9 +197,11 @@
 | R4165 | Serva | 2025 | Take a Walk on the Dark Side: The Role of Addiction and Psychopathy in Student AI Adoption |  | design (review, qualitative, other) |
 | R4169 | Sh | 2025 | The AI-Dependent Learning Phenomenon Exploring Students’ Dependence on AI in Completing College Academic Task | 10.63922/ijevss.v5i01.2645 | design (review, qualitative, other) |
 | R4184 | Sherif | 2025 | NAVIGATING THE IMPACT OF EXCESSIVE AI DEPENDENCE ON COGNITIVE FUNCTION | 10.9743/jse.2025.8.2.4 | design (review, qualitative, other) |
+| R4377 | Young | 2025 | Me, Myself, and AI: Existential Isolation and Reassurance Seeking from Chatbots | 10.17605/osf.io/mdptj | design (review, qualitative, other) |
 | R4401 | Zhang | 2025 | Breaking Barriers or Building Dependency? Exploring Team-LLM Collaboration in AI-infused Classroom Debate | 10.1145/3706598.3713853 | design (review, qualitative, other) |
 | R4494 | Ali | 2024 | Impact of the AI Dependency Revolution on Both Physical and Mental Health | 10.33423/jsis.v19i2.7006 | design (review, qualitative, other) |
 | R4619 | Hunter | 2024 | Monitoring Human Dependence On AI Systems With Reliance Drills | 10.48550/arxiv.2409.14055 | design (review, qualitative, other) |
+| R4883 | Zhong | 2024 | Investigating the role of personality traits and needs frustration in students' over-reliance on ChatGPT: An I-PACE framework approach | 10.17605/osf.io/4ursz | design (review, qualitative, other) |
 | R0038 | Abbas | 2026 | THE IMPACT OF GENERATIVE AI DEPENDENCY ON LEARNING OUTCOMES: THE MEDIATING ROLE OF COGNITIVE AGILITY AMONG UNIVERSITY STUDENTS | 10.5281/zenodo.21058042 | no correlate from the dictionary |
 | R0091 | Ahmed | 2026 | Trust in Generative AI for Health Information Consumption and the Effect of Learned Dependency: An Experimental Investigation | 10.48550/arxiv.2606.20605 | no correlate from the dictionary |
 | R0093 | Ahmed | 2026 | Trust in Generative AI for Health Information Consumption and the Effect of Learned Dependency: Randomized Controlled Experimental Study. | 10.2196/98326 | no correlate from the dictionary |
@@ -197,6 +227,7 @@
 | R0511 | Chogale | 2026 | The Vanishing Struggle: Examining the Impact of Generative AI Dependence on Productive Struggle and Independent Skill Development Among Young Adults | 10.5281/zenodo.22721461 | no correlate from the dictionary |
 | R0557 | Damilola | 2026 | An Investigation into AI Dependence, Critical Thinking and Writing Competence among Nigerian University Undergraduates | 10.68050/jams.2026.679 | no correlate from the dictionary |
 | R0560 | Daniarti | 2026 | Reducing Dependence on AI-Generated Text through Contextual Writing Assessment | 10.26877/ijre.v6i2.3902 | no correlate from the dictionary |
+| R0639 | Du | 2026 | Are Teachers Addicted to AI? Analyzing Factors Influencing Dependence on Generative AI Through the I-PACE Model | 10.31219/osf.io/46vpf_v1 | no correlate from the dictionary |
 | R0640 | Du | 2026 | Conceptualising and Measuring Epistemic Dependence in AI-Mediated Learning: Development and Initial Validation of the ED-AIL Scale | 10.21203/rs.3.rs-10627520/v1 | no correlate from the dictionary |
 | R0746 | Febriano | 2026 | HUBUNGAN KETERGANTUNGAN GENERATIVE AI DENGAN KESULITAN REGULASI EMOSI PADA MAHASISWA PENGGUNA GENERATIVE AI | 10.51878/paedagogy.v6i3.12348 | no correlate from the dictionary |
 | R0810 | Ganesh | 2026 | Drastic Decrease in Critical Thinking and Problem-Solving Ability Among Youth Due to Increasing Reliance on AI | 10.36948/ijfmr.2026.v08i02.73184 | no correlate from the dictionary |
@@ -262,6 +293,8 @@
 | R2542 | Tumulin | 2026 | The Double-Edged Sword of AI How Dependence Moderates the Link Between Self-Regulated Learning and Critical Thinking of Students | 10.5281/zenodo.23273111 | no correlate from the dictionary |
 | R2568 | Uyar | 2026 | Artificial intelligence dependency among educators: a scale development and validation study | 10.1007/s10639-025-13862-5 | no correlate from the dictionary |
 | R2574 | V | 2026 | Relationship Between Academic AI Dependency, Prospective And Retrospective Memory Among College Students In Chennai | 10.56975/ijrar.v13i3.340856 | no correlate from the dictionary |
+| R2608 | Vimukthi | 2026 | THE IMPACT OF ARTIFICIAL INTELLIGENCE OVER-RELIANCE ON ACADEMIC PRODUCTIVITY AMONG MANAGEMENT UNDERGRADUATES IN SELECTED STATE UNIVERSITIES IN SRI LANKA | 10.17605/osf.io/7ynz4 | no correlate from the dictionary |
+| R2661 | Wei | 2026 | Emotional dependence on AI chatbots: Development and Validation of the AIED Scale | 10.31234/osf.io/yhetz_v1 | no correlate from the dictionary |
 | R2711 | Xiaohui | 2026 | AI dependency and academic motivation in higher education: the mediating role of learned helplessness and the moderating role of AI literacy. | 10.3389/fpsyg.2026.1896371 | no correlate from the dictionary |
 | R2719 | Xiong | 2026 | Exploring College Students' AI Dependence in Human-AI Collaborative Creation: Development and Validation of the CC-PACE Model. | 10.3390/jintelligence14080155 | no correlate from the dictionary |
 | R2737 | Yaksat | 2026 | Artificial Intelligence Over-Dependence and Students' Learning Outcomes in Tertiary Institutions in Plateau State, Nigeria | 10.65756/pjer.2026.017 | no correlate from the dictionary |
@@ -300,6 +333,7 @@
 | R3397 | El-Sayed | 2025 | Development and Validation of Artificial Intelligence Addiction Scale for Researchers: A Methodological Study. | 10.1155/jonm/8458533 | no correlate from the dictionary |
 | R3439 | Fernando | 2025 | Profiles of AI Dependency: A Latent Class Analysis of Filipino Students' Academic Competencies | 10.1145/3761843.3761871 | no correlate from the dictionary |
 | R3440 | Fidan | 2025 | Individual Privacy Perception in the Digital Age: The Interaction of Artificial Intelligence Attitude and Dependency | 10.26466/opusjsr.1725180 | no correlate from the dictionary |
+| R3459 | Fuerte | 2025 | The Problem AI Use Severity Index (PAUSI): Preliminary Findings on AI-Induced Dependence, the Taxonomy of Manipulation Tactics ("The Hooks"), and the Need for Sociopath Literacy | 10.31234/osf.io/46q2x_v1 | no correlate from the dictionary |
 | R3514 | Gyani | 2025 | Motivated to Create or Dependent to Produce? Understanding the Relationship between Use of Artificial Intelligence and Creative Behavior among Students | 10.25215/1303.168 | no correlate from the dictionary |
 | R3550 | Hernandez | 2025 | Dependency on Meta AI Chatbot in Messenger Among STEM and Non-STEM Students in Higher Education | 10.25147/ijcsr.2017.001.1.242 | no correlate from the dictionary |
 | R3552 | Hernandez | 2025 | Trust, Usefulness, and Dependency on AI in Programming: A Hierarchical Clustering Approach | 10.2139/ssrn.5831743 | no correlate from the dictionary |
@@ -307,6 +341,7 @@
 | R3681 | Kayar | 2025 | From Fear of Innovation to AI Dependency: the Mediating Roles of Fear of Failure and Self-Doubt | 10.1007/s11469-025-01598-9 | no correlate from the dictionary |
 | R3731 | Kılıç | 2025 | Artificial intelligence addiction of university students: The case of ordu university | 10.48146/odusobiad.1725693 | no correlate from the dictionary |
 | R3751 | Lee | 2025 | Examining the drivers of ai technologies for academic productivity among higher education students |  | no correlate from the dictionary |
+| R3760 | Li | 2025 | Addicted to Artificial Intelligence? Unpacking the Role of Attitudes and Agency in AI Addiction through the I-PACE Model Abstract | 10.31234/osf.io/fd8ku_v1 | no correlate from the dictionary |
 | R3794 | Liu | 2025 | The Positive Effects of Employee AI Dependence on Voice Behavior-Based on Power Dependence Theory. | 10.3390/bs15121709 | no correlate from the dictionary |
 | R3868 | Mmari | 2025 | AI Dependence and Its Influence on Independent Problem-Solving Abilities among Users in Tanzania | 10.59765/nbf492gr | no correlate from the dictionary |
 | R3882 | Moufida | 2025 | Between support and dependence: AI tool usage in university assignments — a case study at Souk Ahras University | 10.46932/sfjdv6n5-098 | no correlate from the dictionary |
@@ -328,6 +363,7 @@
 | R4808 | Sumithra | 2024 | The Impact of Generative AI on Learning, Dependence, and Critical Thinking Among Management Students | 10.70127/irjedt.vol.9.issue03.530 | no correlate from the dictionary |
 | R4847 | Wijaya | 2024 | Latent Profile Analysis of AI Literacy and Trust in Mathematics Teachers and Their Relations with AI Dependency and 21st-Century Skills. | 10.3390/bs14111008 | no correlate from the dictionary |
 | R4864 | Yu | 2024 | Exploring the Impact of Anthropomorphism in Role-Playing AI Chatbots on Media Dependency: A Case Study of Xuanhe AI | 10.1145/3758871.3758884 | no correlate from the dictionary |
+| R0028 | A | 2026 | The Predictive Role of Psychological, Academic, and Social Factors on Academic Authenticity Among University Students | 10.17605/osf.io/w9kmb | other |
 | R1230 | Khan | 2026 | Emotional Delegation to AI: Scale Development and Its Association with Digital Empathy Among Indian Adults | 10.21203/rs.3.rs-9765754/v1 | other |
 | R3299 | Chen | 2025 | Correction: Development and validation of the conversational AI dependence scale for Chinese college students. | 10.3389/fpsyg.2025.1700281 | other |
 | R4586 | Garcia | 2024 | Cuestionario SAID.pdf | 10.6084/m9.figshare.26132509 | other |

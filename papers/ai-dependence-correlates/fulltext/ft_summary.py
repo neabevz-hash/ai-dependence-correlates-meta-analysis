@@ -30,7 +30,8 @@ def main():
     incomplete = {r["rec_id"]: r for r in csv.DictReader((HERE / "incomplete_texts.csv").open(encoding="utf-8-sig"))}
     r1 = {r["rec_id"]: r for r in csv.DictReader((HERE / "decisions" / "ft_R1.csv").open(encoding="utf-8-sig"))}
     ai = {}
-    for path in [HERE / "llm" / f"{a.name}.jsonl", *sorted((HERE / "llm").glob("ft_late_*.jsonl"))]:   # D3: texts retrieved late
+    for path in [HERE / "llm" / f"{a.name}.jsonl", *sorted((HERE / "llm").glob("ft_late_*.jsonl")),
+                 *sorted((HERE / "llm").glob("ft_osf_*.jsonl"))]:   # D3, D9: texts retrieved late
         ai.update({json.loads(l)["conv_id"]: json.loads(l)["codes"] for l in path.open(encoding="utf-8") if l.strip()})
     retrieved = [r["rec_id"] for r in log if r["status"] == "retrieved" and r["rec_id"] not in incomplete]
     assessed = {rid: r1[rid] for rid in retrieved if rid in r1}

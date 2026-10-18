@@ -1,1 +1,6 @@
 effect_id,sample_id,correlate_construct,stat_type,value,n
+E0342,S126,agreeableness,latent,|r| = .22,131
+E0343,S126,conscientiousness,latent,|r| = .21,131
+E0344,S126,extraversion,latent,|r| = .19,131
+E0345,S126,neuroticism,latent,|r| = .16,131
+E0346,S126,openness,latent,|r| = .31,131

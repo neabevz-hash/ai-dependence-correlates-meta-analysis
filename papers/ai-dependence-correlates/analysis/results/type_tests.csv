@@ -2,7 +2,7 @@ correlate,types,k_samples,F,df_num,df_denom,p
 depression,T1,8,NA,NA,NA,NA
 anxiety,T1,12,NA,NA,NA,NA
 stress,,5,NA,NA,NA,NA
-loneliness,T1,16,NA,NA,NA,NA
+loneliness,T1,18,NA,NA,NA,NA
 social_anxiety,T1,7,NA,NA,NA,NA
-self_esteem,T1,5,NA,NA,NA,NA
-procrastination,T1,12,NA,NA,NA,NA
+self_esteem,T1,6,NA,NA,NA,NA
+procrastination,T1,13,NA,NA,NA,NA

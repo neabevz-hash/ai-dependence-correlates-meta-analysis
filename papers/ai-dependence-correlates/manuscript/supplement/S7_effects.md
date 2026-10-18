@@ -1,6 +1,6 @@
 # Supplementary File S7. Extracted zero-order associations
 
-334 effects. Stat: pearson, spearman, latent (measurement-model correlation), beta (single predictor). Value as printed; rev = higher correlate scores mean less of the construct (sign reversed in the analysis); lagged = measures from different occasions (D4); observed pair = a latent r whose observed r is also reported (the latent one is not used, D4).
+386 effects. Stat: pearson, spearman, latent (measurement-model correlation), beta (single predictor). Value as printed; rev = higher correlate scores mean less of the construct (sign reversed in the analysis); lagged = measures from different occasions (D4); observed pair = a latent r whose observed r is also reported (the latent one is not used, D4).
 
 | Effect | Sample | Scale · part (type) | Correlate · instrument | Stat | Value | n | Flags | Location |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -338,3 +338,55 @@
 | E0332 | S122 | BERGEN_ADAPTED · total (T1) | Self-efficacy · Academic self-efficacy questionnaire (Nielsen et al., 2018; GASE), 7 items | pearson | -0.116 | 300 |  | Page 7, Table 2 |
 | E0333 | S122 | BERGEN_ADAPTED · total (T1) | Academic stress · Academic stress scale (You, 2018), 7 items | pearson | 0.242 | 300 |  | Page 7, Table 2 |
 | E0334 | S124 | ADHOC_R4962_1 · total (T1) | Loneliness · Loneliness, 3 items (Palgi et al., 2020) | latent | 0.221 | 572 |  | Table 2 (p.11) |
+| E0335 | S125 | ADHOC_R1053_1 · total (T1) | Loneliness · UCLA-3 (three-item UCLA Loneliness Scale, Polish translation by authors) | pearson | .310 | 102 |  | Page 8, Table 2 |
+| E0336 | S125 | ADHOC_R1053_1 · total (T1) | Psychological distress · PHQ-4 total (anxiety and depressive symptoms) | pearson | .243 | 102 |  | Page 8, Table 2 |
+| E0337 | S126 | GAIDS · total (T1) | Extraversion · BFI-2-S Extraversion | pearson | -.19 | 131 |  | Supplement AM11 (suppl. p. 14) |
+| E0338 | S126 | GAIDS · total (T1) | Agreeableness · BFI-2-S Agreeableness | pearson | -.22 | 131 |  | Supplement AM11 (suppl. p. 14) |
+| E0339 | S126 | GAIDS · total (T1) | Conscientiousness · BFI-2-S Conscientiousness | pearson | -.21 | 131 |  | Supplement AM11 (suppl. p. 14) |
+| E0340 | S126 | GAIDS · total (T1) | Neuroticism · BFI-2-S Neuroticism | pearson | .16 | 131 |  | Supplement AM11 (suppl. p. 14) |
+| E0341 | S126 | GAIDS · total (T1) | Openness · BFI-2-S Openness | pearson | -.32 | 131 |  | Supplement AM11 (suppl. p. 14) |
+| E0342 | S126 | GAIDS · total (T1) | Agreeableness · BFI-2-S Agreeableness | latent | /r/ = .22 | 131 | observed pair | p. 23, Section 7.2.2 |
+| E0343 | S126 | GAIDS · total (T1) | Conscientiousness · BFI-2-S Conscientiousness | latent | /r/ = .21 | 131 | observed pair | p. 23, Section 7.2.2 |
+| E0344 | S126 | GAIDS · total (T1) | Extraversion · BFI-2-S Extraversion | latent | /r/ = .19 | 131 | observed pair | p. 23, Section 7.2.2 |
+| E0345 | S126 | GAIDS · total (T1) | Neuroticism · BFI-2-S Neuroticism | latent | /r/ = .16 | 131 | observed pair | p. 23, Section 7.2.2 |
+| E0346 | S126 | GAIDS · total (T1) | Openness · BFI-2-S Openness | latent | /r/ = .31 | 131 | observed pair | p. 23, Section 7.2.2 |
+| E0347 | S126 | ADHOC_R3484_2 · total (T1) | Extraversion · BFI-2-S Extraversion | pearson | -.07 | 131 |  | Supplement AM11 (suppl. p. 14) |
+| E0348 | S126 | ADHOC_R3484_2 · total (T1) | Agreeableness · BFI-2-S Agreeableness | pearson | -.16 | 131 |  | Supplement AM11 (suppl. p. 14) |
+| E0349 | S126 | ADHOC_R3484_2 · total (T1) | Conscientiousness · BFI-2-S Conscientiousness | pearson | -.15 | 131 |  | Supplement AM11 (suppl. p. 14) |
+| E0350 | S126 | ADHOC_R3484_2 · total (T1) | Neuroticism · BFI-2-S Neuroticism | pearson | .17 | 131 |  | Supplement AM11 (suppl. p. 14) |
+| E0351 | S126 | ADHOC_R3484_2 · total (T1) | Openness · BFI-2-S Openness | pearson | -.16 | 131 |  | Supplement AM11 (suppl. p. 14) |
+| E0352 | S127 | GAIDS · total (T1) | Fear of missing out · Single-item FoMO scale (Riordan et al., 2020) | pearson | .21 | 266 |  | Supplement AM13 (suppl. p. 16), row 11, col 7 |
+| E0353 | S127 | GAIDS · total (T1) | Procrastination · General Procrastination Scale (GPS-9) | pearson | .12 | 266 |  | Supplement AM13 (suppl. p. 16), row 12, col 7 |
+| E0354 | S127 | GAIDS · total (T1) | Self-esteem · Self-Views scale (Majeed et al., 2023) Self-esteem | pearson | -.09 | 266 |  | Supplement AM13 (suppl. p. 17), row 18, col 7 |
+| E0355 | S127 | GAIDS · total (T1) | Self-efficacy · Self-Views scale (Majeed et al., 2023) Generalized self-efficacy | pearson | -.03 | 266 |  | Supplement AM13 (suppl. p. 17), row 20, col 7 |
+| E0356 | S127 | GAIDS · total (T1) | Loneliness · UCLA Loneliness Scale-8 | pearson | .14 | 266 |  | Supplement AM13 (suppl. p. 17), row 21, col 7 |
+| E0357 | S127 | GAIDS · total (T1) | Well-being · Satisfaction with Life Scale | pearson | .23 | 266 |  | Supplement AM13 (suppl. p. 17), row 22, col 7 |
+| E0358 | S127 | GAIDS · total (T1) | Well-being · I-PANAS-SF Positive affect | pearson | .08 | 266 |  | Supplement AM13 (suppl. p. 17), row 23, col 7 |
+| E0359 | S127 | GAIDS · total (T1) | Fear of missing out · Single-item FoMO scale (Riordan et al., 2020) | latent | .21 | 266 | observed pair | p. 29, Section 8.2.2 |
+| E0360 | S127 | GAIDS · total (T1) | Procrastination · General Procrastination Scale (GPS-9) | latent | .16 | 266 | observed pair | p. 29, Section 8.2.3 |
+| E0361 | S127 | GAIDS · total (T1) | Self-esteem · Self-Views scale Self-esteem | latent | −.09 | 266 |  | p. 29, Section 8.2.4 |
+| E0362 | S127 | GAIDS · total (T1) | Self-efficacy · Self-Views scale Generalized self-efficacy | latent | −.03 | 266 |  | p. 29, Section 8.2.4 |
+| E0363 | S127 | GAIDS · total (T1) | Loneliness · UCLA Loneliness Scale-8 | latent | .15 | 266 | observed pair | p. 29, Section 8.2.4 |
+| E0364 | S127 | GAIDS · total (T1) | Well-being · Satisfaction with Life Scale | latent | .25 | 266 | observed pair | p. 29, Section 8.2.4 |
+| E0365 | S127 | GAIDS · total (T1) | Well-being · I-PANAS-SF Positive affect | latent | .06 | 266 | observed pair | p. 29, Section 8.2.4 |
+| E0366 | S127 | GAIDS · Cognitive preoccupation (3 items; one report calls it 'cognitive distress') (T2) | Fear of missing out · Single-item FoMO scale | latent | .23 | 266 |  | p. 32, Table 8 |
+| E0367 | S127 | GAIDS · Negative consequences (4 items) (T1) | Fear of missing out · Single-item FoMO scale | latent | .24 | 266 |  | p. 32, Table 8 |
+| E0368 | S127 | GAIDS · Withdrawal (4 items) (T1) | Fear of missing out · Single-item FoMO scale | latent | .12 | 266 |  | p. 32, Table 8 |
+| E0369 | S127 | GAIDS · Cognitive preoccupation (3 items; one report calls it 'cognitive distress') (T2) | Procrastination · General Procrastination Scale (GPS-9) | latent | .07 | 266 |  | p. 32, Table 8 |
+| E0370 | S127 | GAIDS · Negative consequences (4 items) (T1) | Procrastination · General Procrastination Scale (GPS-9) | latent | .22 | 266 |  | p. 32, Table 8 |
+| E0371 | S127 | GAIDS · Withdrawal (4 items) (T1) | Procrastination · General Procrastination Scale (GPS-9) | latent | .08 | 266 |  | p. 32, Table 8 |
+| E0372 | S127 | GAIDS · Cognitive preoccupation (3 items; one report calls it 'cognitive distress') (T2) | Self-esteem · Self-Views scale Self-esteem | latent | -.12 | 266 |  | p. 32, Table 8 |
+| E0373 | S127 | GAIDS · Negative consequences (4 items) (T1) | Self-esteem · Self-Views scale Self-esteem | latent | -.15 | 266 |  | p. 32, Table 8 |
+| E0374 | S127 | GAIDS · Withdrawal (4 items) (T1) | Self-esteem · Self-Views scale Self-esteem | latent | .02 | 266 |  | p. 32, Table 8 |
+| E0375 | S127 | GAIDS · Cognitive preoccupation (3 items; one report calls it 'cognitive distress') (T2) | Self-efficacy · Self-Views scale Generalized self-efficacy | latent | -.07 | 266 |  | p. 32, Table 8 |
+| E0376 | S127 | GAIDS · Negative consequences (4 items) (T1) | Self-efficacy · Self-Views scale Generalized self-efficacy | latent | -.09 | 266 |  | p. 32, Table 8 |
+| E0377 | S127 | GAIDS · Withdrawal (4 items) (T1) | Self-efficacy · Self-Views scale Generalized self-efficacy | latent | .06 | 266 |  | p. 32, Table 8 |
+| E0378 | S127 | GAIDS · Cognitive preoccupation (3 items; one report calls it 'cognitive distress') (T2) | Loneliness · UCLA Loneliness Scale-8 | latent | .15 | 266 |  | p. 32, Table 8 |
+| E0379 | S127 | GAIDS · Negative consequences (4 items) (T1) | Loneliness · UCLA Loneliness Scale-8 | latent | .18 | 266 |  | p. 32, Table 8 |
+| E0380 | S127 | GAIDS · Withdrawal (4 items) (T1) | Loneliness · UCLA Loneliness Scale-8 | latent | .06 | 266 |  | p. 32, Table 8 |
+| E0381 | S127 | GAIDS · Cognitive preoccupation (3 items; one report calls it 'cognitive distress') (T2) | Well-being · Satisfaction with Life Scale | latent | .13 | 266 |  | p. 32, Table 8 |
+| E0382 | S127 | GAIDS · Negative consequences (4 items) (T1) | Well-being · Satisfaction with Life Scale | latent | .16 | 266 |  | p. 32, Table 8 |
+| E0383 | S127 | GAIDS · Withdrawal (4 items) (T1) | Well-being · Satisfaction with Life Scale | latent | .34 | 266 |  | p. 32, Table 8 |
+| E0384 | S127 | GAIDS · Cognitive preoccupation (3 items; one report calls it 'cognitive distress') (T2) | Well-being · I-PANAS-SF Positive affect | latent | .07 | 266 |  | p. 32, Table 8 |
+| E0385 | S127 | GAIDS · Negative consequences (4 items) (T1) | Well-being · I-PANAS-SF Positive affect | latent | -.03 | 266 |  | p. 32, Table 8 |
+| E0386 | S127 | GAIDS · Withdrawal (4 items) (T1) | Well-being · I-PANAS-SF Positive affect | latent | .14 | 266 |  | p. 32, Table 8 |

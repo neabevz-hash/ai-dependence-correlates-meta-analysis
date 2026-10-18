@@ -48,7 +48,14 @@ SAMPLES = {
 }
 
 # Facts the extractor cannot see in the text.
-JOB_NOTES: dict[str, str] = {}
+JOB_NOTES: dict[str, str] = {
+    "R3484": "This is the PsyArXiv preprint (v2) of Goh, Hartanto & Majeed (2025), Computers in Human Behavior Reports 20, "
+             "100845 (record R3485, not retrieved: publisher page blocked). Treat the preprint as the report of the study.",
+}
+
+# Reports that became eligible after R1 had verified the extraction (OSF records, deviations.md D9): their studies are
+# numbered after the existing ones, so that the study and sample keys of R1's verification files do not change.
+LATE = ["R1053", "R3484"]
 
 # Possible overlaps kept as separate studies (no evidence of shared participants); shown to R1.
 POSSIBLE = [
@@ -88,7 +95,8 @@ def main():
     # study order: by the smallest main report id of the group (singletons are their own main)
     def first_main(members):
         return min(k for k in members if k in mains or k in singles)
-    order = sorted(comps.values(), key=first_main)
+    order = sorted(comps.values(), key=lambda m: (first_main(m) in LATE, LATE.index(first_main(m)) if first_main(m) in LATE else 0,
+                                                  first_main(m)))
     study_of = {}
     for i, members in enumerate(order, 1):
         for k in members:

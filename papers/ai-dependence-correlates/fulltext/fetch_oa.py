@@ -386,6 +386,7 @@ def main():
     ap.add_argument("--workers", type=int, default=8)
     ap.add_argument("--import-manual", action="store_true", help="take PDFs R1 saved into fulltext/manual/")
     ap.add_argument("--all-records", action="store_true", help="every record of the run goes to full text")
+    ap.add_argument("--only", nargs="*", help="retry only these records (e.g., OSF-hosted reports after the outage)")
     a = ap.parse_args()
     sys.stdout.reconfigure(encoding="utf-8")
     TEXT.mkdir(parents=True, exist_ok=True)
@@ -438,6 +439,8 @@ def main():
             w.writerows(done[k] for k in sorted(done))
         print(f"imported {added} PDFs saved by R1")
         return
+    if a.only:
+        todo = [r for r in todo if r in set(a.only)]
     if a.limit:
         todo = todo[:a.limit]
     print(f"{len(final)} reports, {already} already retrieved, {len(todo)} to try", flush=True)

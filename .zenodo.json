@@ -1,7 +1,7 @@
 {
   "title": "Psychological correlates of dependence on generative and conversational AI: data and code",
   "upload_type": "dataset",
-  "description": "<p>Records, decisions, extracted data and analysis code for a registered systematic review and meta-analysis of the psychological correlates of dependence on generative and conversational AI (search 16 October 2026; 121 studies, 124 independent samples, 334 zero-order associations). The repository includes the protocol and deviations log, search logs and records, two AI screening passes with the reviewer's blind calibration and decisions, full-text decisions, instrument families with the reviewer's scale-type decisions, AI extraction drafts with the reviewer's verification, the analysis tables, R and Python analysis scripts, results, figures, Tables 1-4 and Supplementary Files S1-S9.</p>",
+  "description": "<p>Records, decisions, extracted data and analysis code for a registered systematic review and meta-analysis of the psychological correlates of dependence on generative and conversational AI (search 16 October 2026; 123 studies, 127 independent samples, 386 zero-order associations). The repository includes the protocol and deviations log, search logs and records, two AI screening passes with the reviewer's blind calibration and decisions, full-text decisions, instrument families with the reviewer's scale-type decisions, AI extraction drafts with the reviewer's verification, the analysis tables, R and Python analysis scripts, results, figures, Tables 1-4 and Supplementary Files S1-S9.</p>",
   "creators": [
     {
       "name": "Rekhert, Martin",

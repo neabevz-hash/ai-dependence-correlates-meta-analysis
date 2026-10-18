@@ -128,5 +128,8 @@ Items (`forms/rob.md`; Downes et al., 2016): 1 sampling (probability or census);
 | S122 | Zhang 2024 | N | U | Y | Y | Y | U |
 | S123 | Zhong 2024 | N | Y | Y | Y | Y | Y |
 | S124 | Marriott 2023 | N | U | Y | Y | Y | Y |
+| S125 | Ignatowski 2026 | N | U | N | N | Y | U |
+| S126 | Goh 2025 | N | U | Y | U | Y | U |
+| S127 | Goh 2025 | N | U | Y | U | Y | Y |
 
-Samples rated yes / no / unclear: item 1: 5 / 100 / 19; item 2: 19 / 2 / 103; item 3: 107 / 13 / 4; item 4: 101 / 1 / 22; item 5: 97 / 18 / 9; item 6: 62 / 0 / 62.
+Samples rated yes / no / unclear: item 1: 5 / 103 / 19; item 2: 19 / 2 / 106; item 3: 109 / 14 / 4; item 4: 101 / 2 / 24; item 5: 100 / 18 / 9; item 6: 63 / 0 / 64.

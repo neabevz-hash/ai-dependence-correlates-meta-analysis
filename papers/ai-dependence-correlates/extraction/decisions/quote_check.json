@@ -1,15 +1,15 @@
 {
   "effects": {
-    "quotes_checked": 334,
-    "found_verbatim": 332,
+    "quotes_checked": 386,
+    "found_verbatim": 383,
     "too_short_to_check": 0,
-    "share_found": 0.994
+    "share_found": 0.9922
   },
   "key_fields": {
-    "quotes_checked": 485,
-    "found_verbatim": 466,
+    "quotes_checked": 497,
+    "found_verbatim": 478,
     "too_short_to_check": 11,
-    "share_found": 0.9608
+    "share_found": 0.9618
   },
   "not_found": [
     {
@@ -158,6 +158,13 @@
       "item": "ai_system",
       "quote": "потребности в обращении к системам ИИ при выполнении задач [need to turn to AI systems when performing tasks]; зависимость от ИИ-инструментов при выполнении учебных задач [dependence on AI tools when doing study tasks]",
       "not_found": "потребностивобращенииксистемамиипривыполнениизадачзависимостьотииинструментовпривыполненииучебныхзадач"
+    },
+    {
+      "job": "R3484",
+      "sample": "Study 5: Singapore university subject pool, n = 131",
+      "item": "E6",
+      "quote": "exceeded all |r| values between Generative AI Dependency Scale and the Big Five domains (Agreeableness: .56 > .22",
+      "not_found": "table row: cells not found together"
     }
   ]
 }

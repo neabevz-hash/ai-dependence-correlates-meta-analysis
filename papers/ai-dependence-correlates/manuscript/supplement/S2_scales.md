@@ -1,13 +1,13 @@
 # Supplementary File S2. AI-dependence instruments and their types
 
-Type by item content (protocol §13): T1 addiction-type (behavioural-addiction components), T2 functional dependence (reliance on AI for tasks and thinking), T3 emotional dependence (emotional support, attachment-like bond), T4 mixed or unclear. The AI drafted a type for every total score and subscale; the reviewer decided each (changed from the draft: 1 of 140 scores). Study-specific instruments are listed as ADHOC_<report>.
+Type by item content (protocol §13): T1 addiction-type (behavioural-addiction components), T2 functional dependence (reliance on AI for tasks and thinking), T3 emotional dependence (emotional support, attachment-like bond), T4 mixed or unclear. The AI drafted a type for every total score and subscale; the reviewer decided each (changed from the draft: 1 of 142 scores). Study-specific instruments are listed as ADHOC_<report>.
 
 | Family | Instrument | Development paper | Reports | Evidence | Total score | Subscales (type) |
 | --- | --- | --- | --- | --- | --- | --- |
 | DAI | Dependence on AI scale (Morales-García et al., 2024), 5 items | 10.3389/feduc.2024.1323898 | R3164, R2206, R3037, R2641, R0204, R1299, R3265, R3420, R2782, R0285, R1489, R2562, R2863, R2842, R2954, R3828, R3880, R0989, R2858, R2658, R0474, R2518 | items | T4 | none |
 | AICD | AI Chatbot Dependence Scale (Zhang, Yin et al., 2024), 8 items | 10.1089/cyber.2024.0240 | R2956, R2290, R2202, R0332, R2571, R0722, R0273, R0954, R2241 | items | T4 | none |
+| GAIDS | Generative AI Dependency Scale (Goh, Hartanto & Majeed, 2025), 11 items | 10.1016/j.chbr.2025.100845 | R2164, R2781, R1476, R0918, R1201, R1060, R2241, R3484 | items | T1 | Cognitive preoccupation (3 items; one report calls it 'cognitive distress') (T2); Negative consequences (4 items) (T1); Withdrawal (4 items) (T1) |
 | BERGEN_ADAPTED | Bergen addiction scale adapted to AI (Andreassen et al., 2012), study-specific wording | NA | R1498, R4365, R2459, R1474, R4876, R1433, R3772 | items | T1 | none |
-| GAIDS | Generative AI Dependency Scale (Goh, Hartanto & Majeed, 2025), 11 items | 10.1016/j.chbr.2025.100845 | R2164, R2781, R1476, R0918, R1201, R1060, R2241 | items | T1 | Cognitive preoccupation (3 items; one report calls it 'cognitive distress') (T2); Negative consequences (4 items) (T1); Withdrawal (4 items) (T1) |
 | PCUS | Problematic ChatGPT Use Scale (Yu, Chen & Yang, 2024), 11 items | 10.1007/s12144-024-06259-z | R2823, R4124, R2956, R3828, R0724 | items | T1 | Salience (T1); Conflict (T1); Withdrawal (T1); Problematic consequences (T1) |
 | PUCAI | Problematic Use of Conversational AI (Hu, Mao & Kim, 2023; adapted Bergen), 6 items | 10.1016/j.chb.2023.107760 | R3548, R1431, R3790, R2894, R3379 | items | T1 | none |
 | ACOSTA5 | AI dependence, 5 items (Acosta-Enriquez et al., 2025) | 10.1016/j.caeai.2025.100381 | R2786, R1470, R3076, R2604 | items | T4 | none |
@@ -35,6 +35,7 @@ Type by item content (protocol §13): T1 addiction-type (behavioural-addiction c
 | ADHOC_R0691_1 | AI-Dependency Scale (Ai-Dep) | NA | R0691 | subscale_names | T4 | Direct Interaction Reliance (DIR; Q2, Q3, Q4, Q5, Q12) (T4); Practical/Applied Dependency (PAD; Q6–Q10) (T2); Cognitive/Affective Reliance (CAR; Q1, Q11, Q13–Q15) (T4) |
 | ADHOC_R0868_1 | AI Dependence (Section B of structured questionnaire) | NA | R0868 | none | T4 | none |
 | ADHOC_R0953_3 | Clinician-based impairment-centered classification of problematic AI chatbot use (structured interview, ICD-11-informed) | NA | R0953 | items | T1 | Impaired control (T1); Increasing priority (T1); Continuation despite negative consequences (T1); Clinically significant impairment/therapeutic interference (T1) |
+| ADHOC_R1053_1 | Problematic AI use index (Problematic Use Scale; three-item symptom index based on ICD-11 behavioral addiction criteria) | NA | R1053 | NR | T1 | none |
 | ADHOC_R1120_1 | AI dependency (DEP) – behavioral GenAI dependency scale | NA | R1120 | none | T4 | none |
 | ADHOC_R1122_1 | AI dependency scale | NA | R1122 | items | T1 | none |
 | ADHOC_R1130_1 | Perceived AI Dependency | NA | R1130 | none | T4 | none |
@@ -59,6 +60,7 @@ Type by item content (protocol §13): T1 addiction-type (behavioural-addiction c
 | ADHOC_R2984_1 | AIAS-10+1 v4.0 (AI-Addiction Scale) – Шкала скринінгової діагностики залежності від штучного інтелекту (final version) | NA | R2984 | items | T4 | F1 Соціально-емоційна залежність (items 1,2,3,7) (T3); F2 Поведінково-когнітивна залежність (items 4,5,8,9,10,11) (T4); ІКМ Critical Thinking Indicator (item 6, reverse-scored, outside total) (T2) |
 | ADHOC_R2984_2 | AIAS-11 v3.0 (AI-Addiction Scale, версія 3.0) – initial version | NA | R2984 | subscale_names | T4 | Factor А: Штучна інтимність та антропоморфізація (Artificial intimacy and anthropomorphisation; items 1, 2, 7, 9) (T3); Factor Б: Когнітивна атрофія та втрата автономності (Cognitive atrophy and loss of autonomy; items 4, 5, 8) (T2); Factor В: Втрата контролю та дезадаптивний копінг (Loss of control and maladaptive coping; items 3, 10, 11) (T1) |
 | ADHOC_R3196_1 | Researcher-Made Questionnaire of Dependence to Artificial Intelligence Tools (پرسشنامه وابستگی به ابزارهای هوش مصنوعی) | NA | R3196 | none | T4 | none |
+| ADHOC_R3484_2 | Generative AI Addiction scale | NA | R3484 | NR | T1 | none |
 | ADHOC_R3627_1 | Generative Artificial Intelligence Dependency Scale (GenAIDS) | NA | R3627 | items | T2 | Affective Dependency (T4); Behavioural Dependency (T2); Cognitive Dependency (T2) |
 | ADHOC_R3792_1 | Adapted Generalized Problematic Internet Use Scale (GPIUS2), measuring problematic chatbot use | NA | R3792 | none | T4 | none |
 | ADHOC_R4232_1 | PUGenAIS-9 (Problematic Use of Generative Artificial Intelligence Scale-9 items) | NA | R4232 | items | T1 | none |
@@ -72,4 +74,4 @@ Type by item content (protocol §13): T1 addiction-type (behavioural-addiction c
 | ADHOC_R4882_1 | ChatGPT dependency | NA | R4882 | items | T1 | none |
 | ADHOC_R4962_1 | Addiction (addiction towards using the AI friendship app) | NA | R4962 | items | T1 | none |
 
-Total scores by type: T1 addiction-type: 17; T2 functional: 11; T3 emotional: 3; T4 mixed or unclear: 36.
+Total scores by type: T1 addiction-type: 19; T2 functional: 11; T3 emotional: 3; T4 mixed or unclear: 36.

@@ -362,7 +362,7 @@ def parse(a):
         if not pr:
             problems.append(f"{fname} {key}: no 'Правки'/'Проверено' lines")
             continue
-        ver = pr.group(2).strip().lower()
+        ver = pr.group(2).split("#")[0].strip().lower()   # a comment may follow the answer
         if ver not in VERIFIED:
             unverified.append(key)
         fields = {f: s[f]["value"] for f in SAMPLE_FIELDS}

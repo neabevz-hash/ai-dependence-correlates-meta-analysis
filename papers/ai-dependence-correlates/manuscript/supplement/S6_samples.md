@@ -1,6 +1,6 @@
 # Supplementary File S6. Included samples
 
-121 studies, 124 independent samples. NR, not reported.
+123 studies, 127 independent samples. NR, not reported.
 
 | Sample | Study (main report) | Country | Population | Sampling | n | Age, mean | % female | AI system | Scales (type) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -128,6 +128,9 @@
 | S122 | Zhang 2024 (R4876) | KOR | university_students | quota or online panel | 300 | NR | 50 | general_chatbot | BERGEN_ADAPTED (T1) |
 | S123 | Zhong 2024 (R4882) | CHN | university_students | convenience | 958 | 21.67 | 48.4 | general_chatbot | no eligible effect |
 | S124 | Marriott 2023 (R4962) | USA | general_adults | quota or online panel | 572 | NR | 36.7 | ai_companion | ADHOC_R4962_1 (T1) |
+| S125 | Ignatowski 2026 (R1053) | POL | employees | convenience | 102 | NR | 78.4 (80 of 102; computed) | general_chatbot | ADHOC_R1053_1 (T1) |
+| S126 | Goh 2025 (R3484) | SGP | university_students | convenience | 131 | 21.60 | 83.21 | general_chatbot | ADHOC_R3484_2 (T1), GAIDS (T1) |
+| S127 | Goh 2025 (R3484) | USA | general_adults | quota or online panel | 266 | 37.01 | 42.48 | general_chatbot | GAIDS (T1), GAIDS (T2) |
 
 ## Reports of the included studies
 
@@ -254,3 +257,5 @@ Study code, then each report: first author (year). Title. Source. DOI or record 
 - **ST119.** Zhang (2024). Do you have AI dependency? The roles of academic self-efficacy, academic stress, and performance expectations on problematic AI usage behavior. *International Journal of Educational Technology in Higher Education*. https://doi.org/10.1186/s41239-024-00467-0
 - **ST120.** Zhong (2024). How Do Personal Attributes Shape AI Dependency in Chinese Higher Education Context? Insights from Needs Frustration Perspective. *PloS one*. https://doi.org/10.1371/journal.pone.0313314
 - **ST121.** Marriott (2023). One is the loneliest number… Two can be as bad as one. The influence of AI Friendship Apps on users' well‐being and addiction. *Psychology and Marketing*. https://doi.org/10.1002/mar.21899
+- **ST122.** Ignatowski (2026). When AI Feels like Human: Anthropomorphism, Loneliness, and Problematic Use of Chatbots among School Teachers in Poland. *PsyArXiv*. https://doi.org/10.31234/osf.io/stndb_v1
+- **ST123.** Goh (2025). Generative Artificial Intelligence Dependency: Scale Development, Validation, and its Motivational, Behavioral, and Psychological Correlates. *PsyArXiv*. https://doi.org/10.31234/osf.io/aphtb_v2 — Goh (2025). Generative artificial intelligence dependency: Scale development, validation, and its motivational, behavioral, and psychological correlates. *Computers in Human Behavior Reports*. https://doi.org/10.1016/j.chbr.2025.100845

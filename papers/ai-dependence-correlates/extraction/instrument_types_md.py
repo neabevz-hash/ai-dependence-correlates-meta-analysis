@@ -59,10 +59,19 @@ def one(t: str) -> str:
     return re.sub(r"\s+", " ", t or "").strip()
 
 
+def all_drafts() -> dict[str, dict]:
+    """Type drafts of every run (types_<date>.jsonl; later runs add families, D9)."""
+    out = {}
+    for f in sorted((HERE / "llm").glob("types_*.jsonl")):
+        out.update({json.loads(l)["conv_id"]: json.loads(l)["codes"] for l in f.open(encoding="utf-8") if l.strip()})
+    return out
+
+
 def make(a) -> None:
     fam = mentions()
     drafts = {json.loads(l)["conv_id"]: json.loads(l)["codes"] for l in (HERE / "llm" / f"{a.name}.jsonl").open(encoding="utf-8")}
-    order = sorted(fam, key=lambda f: (f.startswith("ADHOC_"), -len(fam[f]), f))
+    out_path = Path(a.out) if a.out else OUT
+    order = sorted((f for f in fam if f in drafts), key=lambda f: (f.startswith("ADHOC_"), -len(fam[f]), f))
     blocks = []
     for n, fid in enumerate(order, 1):
         ms, d = fam[fid], drafts[fid]
@@ -88,17 +97,18 @@ def make(a) -> None:
             lines.append("- Решающие пункты: " + " | ".join(f"«{one(q)}»" for q in d["quoted_items"]))
         lines += ["", "**Решение:** ", ""]
         blocks.append("\n".join(lines))
-    OUT.parent.mkdir(exist_ok=True)
-    if OUT.exists() and not a.force:
-        sys.exit(f"{OUT} exists; refusing to overwrite R1's work")
-    OUT.write_text(GUIDE + "\n" + "\n".join(blocks), encoding="utf-8", newline="\n")
-    print(f"{OUT}  ({len(blocks)} instrument families)")
+    out_path.parent.mkdir(exist_ok=True)
+    if out_path.exists() and not a.force:
+        sys.exit(f"{out_path} exists; refusing to overwrite R1's work")
+    out_path.write_text(GUIDE + "\n" + "\n".join(blocks), encoding="utf-8", newline="\n")
+    print(f"{out_path}  ({len(blocks)} instrument families)")
 
 
 def parse(a) -> None:
-    drafts = {json.loads(l)["conv_id"]: json.loads(l)["codes"] for l in (HERE / "llm" / f"{a.name}.jsonl").open(encoding="utf-8")}
+    drafts = all_drafts()
     rows, problems, cur = [], [], None
-    for line in OUT.read_text(encoding="utf-8").splitlines():
+    lines = [l for f in sorted(OUT.parent.glob("instrument_types_R1*.md")) for l in f.read_text(encoding="utf-8").splitlines()]
+    for line in lines:
         h = HEADER_RE.match(line.strip())
         if h:
             cur = h.group(2)
@@ -153,8 +163,9 @@ def main():
     m = sub.add_parser("make")
     m.add_argument("--name", required=True)
     m.add_argument("--force", action="store_true")
+    m.add_argument("--out", help="decision file (default decisions/instrument_types_R1.md)")
     p = sub.add_parser("parse")
-    p.add_argument("--name", required=True)
+    p.add_argument("--name", help="unused: every types_*.jsonl is read")
     p.add_argument("--out")
     a = ap.parse_args()
     make(a) if a.cmd == "make" else parse(a)

@@ -360,6 +360,17 @@
   "possible_overlap": []
  },
  {
+  "job_id": "R1053",
+  "study_id": "ST122",
+  "main": "R1053",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "",
+  "possible_overlap": []
+ },
+ {
   "job_id": "R1060",
   "study_id": "ST031",
   "main": "R1060",
@@ -1129,6 +1140,17 @@
   "link_reason": "",
   "samples": "Extract every eligible sample in the main report.",
   "job_notes": "",
+  "possible_overlap": []
+ },
+ {
+  "job_id": "R3484",
+  "study_id": "ST123",
+  "main": "R3484",
+  "attached": [],
+  "listed_only": [],
+  "link_reason": "",
+  "samples": "Extract every eligible sample in the main report.",
+  "job_notes": "This is the PsyArXiv preprint (v2) of Goh, Hartanto & Majeed (2025), Computers in Human Behavior Reports 20, 100845 (record R3485, not retrieved: publisher page blocked). Treat the preprint as the report of the study.",
   "possible_overlap": []
  },
  {

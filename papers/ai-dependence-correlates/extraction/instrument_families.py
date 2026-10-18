@@ -89,11 +89,12 @@ def family_of(ins: dict) -> str:
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--name", required=True)
+    ap.add_argument("--name", required=True, nargs="+", help="instr_<date> files; later files add reports (D9)")
     a = ap.parse_args()
     sys.stdout.reconfigure(encoding="utf-8")
     rows = []
-    for line in (HERE / "llm" / f"{a.name}.jsonl").open(encoding="utf-8"):
+    lines = [l for n in a.name for l in (HERE / "llm" / f"{n}.jsonl").open(encoding="utf-8") if l.strip()]
+    for line in lines:
         d = json.loads(line)
         for j, ins in enumerate(d["codes"]["instruments"], 1):
             fam = OVERRIDES.get((d["conv_id"], j), family_of(ins)) or f"ADHOC_{d['conv_id']}_{j}"
