@@ -2,7 +2,7 @@
 
 This repository contains the records, decisions, extracted data and analysis code for
 
-> Rekhert, M. (2026). *Psychological correlates of dependence on generative and conversational AI: A systematic review and meta-analysis* [Manuscript submitted for publication]. Preprint: forthcoming
+> Rekhert, M. (2026). *Psychological correlates of dependence on generative and conversational AI: A systematic review and meta-analysis* [Manuscript submitted for publication]. Preprint: https://doi.org/10.5281/zenodo.23449099
 
 - Protocol (Zenodo, 16 October 2026, deposited before the final search): https://doi.org/10.5281/zenodo.23420672
 - Archived release (Zenodo): https://doi.org/10.5281/zenodo.23448773
